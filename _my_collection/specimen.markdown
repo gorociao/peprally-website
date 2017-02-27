@@ -1,8 +1,8 @@
 ---
-title:  "Motionographer"
-thumbnail: images/thumbs/Motionographer.gif
-mobile-thumbnail: images/thumbs/Motionographer_mobile.gif
-permalink: /motionographer/
+title:  "Specimen"
+thumbnail: images/thumbs/specimen.jpg
+mobile-thumbnail: images/thumbs/specimen_mobile.jpg
+permalink: /specimen/
 order: 2
 ---
 
