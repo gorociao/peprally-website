@@ -1,6 +1,6 @@
 ---
 title:  "Motionographer"
-thumbnail: images/Motionographer.png
+thumbnail: images/Motionographer.gif
 mobile-thumbnail: images/Motionographer.gif
 permalink: /motionographer/
 order: 2
