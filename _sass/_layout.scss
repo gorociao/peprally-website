@@ -14,7 +14,7 @@
     margin-bottom: 0;
     float: left;
     padding: 20px 0px 20px 120px;
-    background: url(/images/flag.svg) no-repeat left 20px;
+    background: url(#{$base_url}/images/flag.svg) no-repeat left 20px;
     background-image-size: 40px 40px;
     &,
     &:visited {
@@ -29,15 +29,27 @@
     .menu-icon {
         display: none;
     }
-
+    
     .page-link {
-        color: $brand-color;
+        color: black;
         line-height: $base-line-height;
         display: inline-block;
         padding: 35px 0px 30px 0px;
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 20px;
+        }
+        
+        &.twitter {
+            display: inline-block;
+            padding :0px;
+            width: 30px;
+            height: 30px;
+            background: url(#{$base_url}/images/twitter.svg) center;
+            background-repeat: no-repeat;
+        }
+        &.twitter svg path {
+            fill: black;
         }
     }
 
@@ -104,9 +116,10 @@
             display: inline-block;
             width: 35px;
             height: 35px;
-            background: url(/images/twitter.svg) center;
-            background-repeat: no-repeat;
         }
+    }
+    a svg path {
+        color: red;
     }
 }
 

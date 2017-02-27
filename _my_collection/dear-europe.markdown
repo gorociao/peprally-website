@@ -3,6 +3,7 @@ title:  "Dear Europe"
 thumbnail: images/DearEurope.png
 mobile-thumbnail: images/DearEurope.png
 permalink: /dear-europe/
+order: 1
 ---
 
 <div class='embed-container'>

@@ -2,7 +2,8 @@
 title:  "Motionographer"
 thumbnail: images/Motionographer.png
 mobile-thumbnail: images/Motionographer.png
-permalink: /info2/
+permalink: /motionographer/
+order: 2
 ---
 
 <div class='embed-container'>

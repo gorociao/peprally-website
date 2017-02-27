@@ -189,7 +189,6 @@ pre {
  * Clearfix
  */
 %clearfix {
-
     &:after {
         content: "";
         display: table;
@@ -197,6 +196,37 @@ pre {
     }
 }
 
+.info {
+    .bio {
+        font-size: 30px;
+        div {
+            margin-bottom: 30px;
+        }
+    }
+    .lists {
+        margin-top: 50px;
+        width: 45%;
+        &.left {
+            float: left;
+        }
+        &.right {
+            float: right;
+        }
+    }
+    .post-list {
+        font-size: 25px;
+        .title {
+            color: #ADADAD;
+            margin-bottom: 10px;
+        }
+        &.kudos {
+            margin-bottom: 130px;
+        }
+        &.clients {
+            margin-bottom: 60px;
+        }
+    }
+}
 
 
 /**

@@ -1,0 +1,49 @@
+---
+layout: default
+title: Info
+permalink: /info/
+---
+
+<div class="info">
+
+    <div class="bio">
+        <div>PepRally is the studio of Brooklyn based director, designer, and illustrator Erica Gorochow.</div>
+    
+        <div>We’re nimble, selective and focused on making high quality work for brands, networks, agencies and startups. In addition to client work, the office produces projects internally to continue  exploring new technologies, techniques and ideas.</div>
+    
+        <div>Say Hello: <a href="mailto:go@peprally.co">go@peprally.co</a></div>
+    </div>
+    
+    <div class="lists left">
+        <ul class="post-list kudos">
+            <div class="title">Select Kudos:</div>
+            {% for post in site.data.kudos %}
+                {{ post.name }}<br/>
+            {% endfor %}
+        </ul>
+    
+        <ul class="post-list jury">
+            <div class="title">Jury:</div>
+            {% for post in site.data.jury %}
+                {{ post.name }}<br/>
+            {% endfor %}
+        </ul>
+    </div>
+    
+    <div class="lists right">
+        <ul class="post-list clients">
+            <div class="title">Select Clients:</div>
+            {% for post in site.data.clients %}
+                {{ post.name }}<br/>
+            {% endfor %}
+        </ul>
+    
+        <ul class="post-list speaking">
+            <div class="title">Speaking:</div>
+            {% for post in site.data.speaking %}
+                {{ post.name }}<br/>
+            {% endfor %}
+        </ul>
+    </div>
+
+</div>
