@@ -1,8 +1,8 @@
 ---
 title:  "Motionographer"
 thumbnail: images/Motionographer.gif
-mobile-thumbnail: images/Motionographer_mobile.gif
-permalink: /motionographer/
+mobile-thumbnail: images/+thumb/Motionographer_mobile.gif
+permalink: /+thumb/motionographer/
 order: 2
 ---
 
