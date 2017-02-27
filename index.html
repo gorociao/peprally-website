@@ -4,8 +4,6 @@ layout: default
 
 <div class="home">
 
-    <h1>Selected Work</h1>
-    
     <ul class="post-list">
         {% assign projects = site.my_collection | sort: 'order' %}
         {% for post in projects %}

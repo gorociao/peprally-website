@@ -45,8 +45,11 @@
             padding :0px;
             width: 30px;
             height: 30px;
-            background: url(#{$base_url}/images/twitter.svg) center;
-            background-repeat: no-repeat;
+            position: relative;
+        }
+        &.twitter svg {
+            position: absolute;
+            top: 7px;
         }
         &.twitter svg path {
             fill: black;
@@ -111,15 +114,24 @@
 .footer {
     padding: $spacing-unit 0;
     text-align: center;
+    line-height: 2em;
     a {
+        color: #fff;
+        &:hover {
+            color: $brand-color;
+        }
         &.twitter {
+            line-height: 4em;
             display: inline-block;
             width: 35px;
             height: 35px;
+            svg path {
+                fill: #fff;
+                &:hover {
+                    fill: $brand-color;
+                }
+            }
         }
-    }
-    a svg path {
-        color: red;
     }
 }
 
@@ -204,9 +216,8 @@
 .post-list {
     margin-left: 0;
     list-style: none;
-
     > li {
-        margin-bottom: $spacing-unit * 1.7;
+        margin-bottom: $spacing-unit * 1;
         @media (min-width: 500px) {
             &.half {
                 width: 47%;
@@ -215,6 +226,9 @@
                     float: right;
                 }
             }
+        }
+        img {
+            width: 100%;
         }
     }
 }
