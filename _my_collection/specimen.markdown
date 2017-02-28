@@ -1,7 +1,7 @@
 ---
 title:  "Specimen"
-thumbnail: images/thumbs/specimen.jpg
-mobile-thumbnail: images/thumbs/specimen_mobile.jpg
+thumbnail: images/thumbs/specimen.gif
+mobile-thumbnail: images/thumbs/specimen.gif
 permalink: /specimen/
 order: 2
 ---
