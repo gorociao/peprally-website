@@ -13,11 +13,41 @@ half: left
 </div> -->
 
 <div class='embed-container'>
-    <iframe src="https://player.vimeo.com/video/67315445" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+ <iframe src="https://player.vimeo.com/video/67315445?color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 ## Red Bull Music Academy: Sound Bites
 A series of videos to celebrate the immense talented that lectured at the Red Bull Music Academy in New York
+
+
+<div class='embed-container'>
+    <iframe src="https://player.vimeo.com/video/67257243?color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<div class='embed-container'>
+    <iframe src="https://player.vimeo.com/video/67911257?color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+
+
+{: .half .left}
+![]({{ site.url }}images/09redbull/rbma_giorgio02.gif)
+
+{: .half .right}
+![]({{ site.url }}images/09redbull/rbma_lipstick.gif)
+
+![]({{ site.url }}images/02motionographer/rbma_moroder.jpg)
+
+![]({{ site.url }}images/02motionographer/rbma_scott.jpg)
+
+{: .half .left}
+![]({{ site.url }}images/02motionographer/rbma_scott01.gif)
+
+{: .half .right}
+![]({{ site.url }}images/02motionographer/rbma_murphy01.gif)
+
+![]({{ site.url }}images/01motionographer/rbma_murphy.jpg)
+
 
 Production: MssngPeces, Owen Katz<br/>
 Design + Animation: Drake Miller<br/>

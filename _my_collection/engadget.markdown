@@ -19,7 +19,7 @@ Animated branding to work across a variety of Engadget’s online shows.
 ![alt text]({{ site.url }}images/04engadget/eg_02_.jpg)
 ![alt text]({{ site.url }}images/04engadget/eg_03_.jpg)
 ![alt text]({{ site.url }}images/04engadget/eg_04_.jpg)
-![alt text]({{ site.url }}images/04engadget/eg_04_.jpg)
+![alt text]({{ site.url }}images/04engadget/eg_05_.jpg)
 ![alt text]({{ site.url }}images/04engadget/eg_08_.jpg)
 ![alt text]({{ site.url }}images/04engadget/eg_10_.jpg)
 
