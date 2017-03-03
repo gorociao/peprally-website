@@ -11,9 +11,9 @@ half: twothirds-right
 ![]({{ site.url }}images/07eo/eo_paris.gif)
 ![]({{ site.url }}images/07eo/eo_kyoto.gif)
 ![]({{ site.url }}images/07eo/eo_tunisia.gif)
-![]({{ site.url }}images/07eo/eo_corners01.gif)
-![]({{ site.url }}images/07eo/eo_corners02.gif)
-![]({{ site.url }}images/07eo/eo_corners03.gif)
+![]({{ site.url }}images/07eo/eo_corners01.jpg)
+![]({{ site.url }}images/07eo/eo_corners02.jpg)
+![]({{ site.url }}images/07eo/eo_corners03.jpg)
 ![]({{ site.url }}images/07eo/eo_garden.gif)
 
 
