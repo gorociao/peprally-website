@@ -7,7 +7,15 @@ order: 6
 half: twothirds-right
 ---
 
-![]({{ site.url }}images/eo/jungle.png)
+![]({{ site.url }}images/07eo/eo_jungle.gif)
+![]({{ site.url }}images/07eo/eo_paris.gif)
+![]({{ site.url }}images/07eo/eo_kyoto.gif)
+![]({{ site.url }}images/07eo/eo_tunisia.gif)
+![]({{ site.url }}images/07eo/eo_corners01.gif)
+![]({{ site.url }}images/07eo/eo_corners02.gif)
+![]({{ site.url }}images/07eo/eo_corners03.gif)
+![]({{ site.url }}images/07eo/eo_garden.gif)
+
 
 ## Electric Objects
 Various series commissioned by [Electric Objects](http://electricobjects.com/)
