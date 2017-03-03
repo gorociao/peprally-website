@@ -13,35 +13,25 @@ half: third-left
 Ultra-shareable gifs to encourage Americans to register to vote in time for the 2016 election. 
 
 
-![]({{ site.url }}images/03specimen/specimen_gif)
+![]({{ site.url }}images/06votegif/ILLINOIS.gif)
+![]({{ site.url }}images/06votegif/NEVADA.gif)
+![]({{ site.url }}images/06votegif/LOUISIANA.gif)
+![]({{ site.url }}images/06votegif/TENNESSEE.gif)
+![]({{ site.url }}images/06votegif/COLORADO.gif)
+![]({{ site.url }}images/06votegif/PENNSYLVANIA.gif)
+![]({{ site.url }}images/06votegif/DC.gif)
+![]({{ site.url }}images/06votegif/MICHIGAN.gif)
+
 
 {: .half .left}
-![]({{ site.url }}images/03specimen/specimen_playgif.gif)
+![]({{ site.url }}images/06votegif/votegifsocial.gif)
 
 {: .half .right}
-![]({{ site.url }}images/03specimen/specimen_photo_splash.jpg)
+![]({{ site.url }}images/06votegif/votegif_chuck.png)
 
-{: .half .left}
-![]({{ site.url }}images/03specimen/specimen_tweet.png)
-
-{: .half .right}
-![]({{ site.url }}images/03specimen/specimen_POAM.png)
-
-<div class='embed-container'>
-<iframe width="1250" height="703" src="https://www.youtube.com/embed/qTdryqSqaF4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-</div>
+![]({{ site.url }}images/06votegif/votegif_hrc.gif)
 
 
-Easy to learn, tough to master: simply tap the specimen that matches the background color. As you advance, earn patterned boosters and chroma coins to combat an ever faster clock. 
-
-Specimen was a self-initated project. Apple featured it as “Best New Game” and “Best Game of Month” around the world. It was also featured on blogs like Boing Boing, Core 77, Business Insider and Kill Screen. In 2016, Fast Company’s named Specimen as a finalist in the Innovation by Design Awards.
-
-Since launching, over 50 million specimens have been tapped.
- 
-Development, Co-Founder: Sal Randazzo
-Development, Co-Founder: Charlie Whitney
-Music + SFX: Upright T-Rex Music
-http://playspecimen.com
 
 
 VoteGif was a self-initated project that became widely retweeted and shared by all kinds of online communities: celebrities, politicians, brands, activists, moms and millenials. After launching, Hillary Clinton’s team asked if they could incorporate the gifs into their own GOTV products, like the chrome app, picture above. We were thrilled!
