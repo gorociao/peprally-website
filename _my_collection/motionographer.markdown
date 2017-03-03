@@ -25,7 +25,7 @@ Animated branding to work across a variety of Engadget’s online shows.
 ![]({{ site.url }}images/02motionographer/motion_computer.gif)
 
 {: .half .right}
-![]({{ site.url }}images/02motionographer/motion_car.png)
+![]({{ site.url }}images/02motionographer/motion_car.gif)
 
 ![]({{ site.url }}images/02motionographer/motion_light.jpg)
 
