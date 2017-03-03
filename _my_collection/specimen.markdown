@@ -15,14 +15,13 @@ order: 2
 
 
 
-
-![]({{ site.url }}images/03specimen/specimen_gif)
+![]({{ site.url }}images/03specimen/specimen_main_gif)
 
 {: .half .left}
 ![]({{ site.url }}images/03specimen/specimen_playgif.gif)
 
 {: .half .right}
-![]({{ site.url }}images/03specimen/specimen_photo_splash.jpg)
+![]({{ site.url }}images/03specimen/specimen_photo_splash.png)
 
 {: .half .left}
 ![]({{ site.url }}images/03specimen/specimen_tweet.png)
