@@ -36,17 +36,17 @@ A series of videos to celebrate the immense talented that lectured at the Red Bu
 {: .half .right}
 ![]({{ site.url }}images/09redbull/rbma_lipstick.gif)
 
-![]({{ site.url }}images/02motionographer/rbma_moroder.jpg)
+![]({{ site.url }}images/09redbull/rbma_moroder.jpg)
 
-![]({{ site.url }}images/02motionographer/rbma_scott.jpg)
+![]({{ site.url }}images/09redbull/rbma_scott.jpg)
 
 {: .half .left}
-![]({{ site.url }}images/02motionographer/rbma_scott01.gif)
+![]({{ site.url }}images/09redbull/rbma_scott01.gif)
 
 {: .half .right}
-![]({{ site.url }}images/02motionographer/rbma_murphy01.gif)
+![]({{ site.url }}images/09redbull/rbma_murphy01.gif)
 
-![]({{ site.url }}images/01motionographer/rbma_murphy.jpg)
+![]({{ site.url }}images/09redbull/rbma_murphy.jpg)
 
 
 Production: MssngPeces, Owen Katz<br/>
