@@ -1,9 +1,9 @@
 ---
 title:  "Dear Europe"
-thumbnail: images/DearEurope.png
-mobile-thumbnail: images/DearEurope.png
+thumbnail: images/thumbs/DearEurope.png
+mobile-thumbnail: images/thumbs/DearEurope.png
 permalink: /dear-europe/
-order: 1
+order: 0
 ---
 
 <div class='embed-container'>
@@ -13,5 +13,4 @@ order: 1
 Music: [Upright T-Rex](http://uprighttrexmusic.com)
 
 Thanks: Karen Wong
-
 
