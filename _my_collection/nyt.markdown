@@ -7,7 +7,7 @@ order: 9
 half: right
 ---
 
-![alt text]({{ site.url }}images/pages/10nyt/NYT_composite_final.gif)
+![alt text]({{ site.url }}images/10nyt/NYT_composite_final.gif)
 
 ## Take Me Back to the #Ballgame
 
