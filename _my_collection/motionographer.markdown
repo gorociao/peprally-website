@@ -10,18 +10,27 @@ order: 1
     <iframe src="https://player.vimeo.com/video/171939446" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-{: .half .left}
-![]({{ site.url }}images/motionographer/motionographer-1.png)
-
-{: .half .right}
-![]({{ site.url }}images/motionographer/motionographer-2.png)
-
-![]({{ site.url }}images/motionographer/motionographer-3.png)
+## Engadget
+Animated branding to work across a variety of Engadget’s online shows.
 
 {: .half .left}
-![]({{ site.url }}images/motionographer/motionographer-4.png)
+![]({{ site.url }}images/02motionographer/motion_plug.gif)
 
 {: .half .right}
-![]({{ site.url }}images/motionographer/motionographer-5.png)
+![]({{ site.url }}images/02motionographer/motion_freud.gif)
 
-![]({{ site.url }}images/motionographer/motionographer-6.png)
+![]({{ site.url }}images/02motionographer/motion_library.jpg)
+
+{: .half .left}
+![]({{ site.url }}images/02motionographer/motion_computer.gif)
+
+{: .half .right}
+![]({{ site.url }}images/02motionographer/motion_car.png)
+
+![]({{ site.url }}images/01motionographer/motion_light.jpg)
+
+
+AOL’s tech hub, Engadget, wasn’t just looking for an a broadcast packaging overhaul, they also needed a modular design system that could expand to fit their growing lineup of shows. Work shown here is the heart of that re-design, which also included a versionable kit chock full of lower thirds, mortises and paired down bumpers.
+
+Endgadget Creative: Benjamin Harrison, Todd Thoenig
+
