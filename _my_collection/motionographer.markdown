@@ -10,7 +10,7 @@ order: 1
     <iframe src="https://player.vimeo.com/video/171939446" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-## Engadget
+## Motionographer: Join Us
 Animated branding to work across a variety of Engadget’s online shows.
 
 {: .half .left}
