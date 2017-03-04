@@ -25,10 +25,10 @@ $brand-color:      #F16961;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 80%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-dark:  darken($grey-color, 50%);
 
 // Width of the content area
-$content-width:    1200px; //920px;
+$content-width:   950px; //800px;
 
 $on-palm:          400px;
 $on-laptop:        800px;
