@@ -479,6 +479,15 @@ pre {
       &.right {
           float: right;
       }
+      &.third {
+        display: inline-block;
+        width: -webkit-calc( (100% - (#{$spacing-unit} * 3)) * .34 );
+        margin-right: $spacing-unit;
+        margin-bottom: $spacing-unit;
+        &.last {
+          margin-right: 0px;
+        }
+      }
       &.third-left {
         width: -webkit-calc( (100% - (#{$spacing-unit} * 1)) * .355 );
       }

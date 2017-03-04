@@ -13,13 +13,28 @@ half: third-left
 Ultra-shareable gifs to encourage Americans to register to vote in time for the 2016 election. 
 
 
+{: .half .third}
 ![]({{ site.url }}images/06votegif/ILLINOIS.gif)
+
+{: .half .third}
 ![]({{ site.url }}images/06votegif/NEVADA.gif)
+
+{: .half .third .last}
 ![]({{ site.url }}images/06votegif/LOUISIANA.gif)
+
+{: .half .third}
 ![]({{ site.url }}images/06votegif/TENNESSEE.gif)
+
+{: .half .third}
 ![]({{ site.url }}images/06votegif/COLORADO.gif)
+
+{: .half .third .last}
 ![]({{ site.url }}images/06votegif/PENNSYLVANIA.gif)
+
+{: .half .third}
 ![]({{ site.url }}images/06votegif/DC.gif)
+
+{: .half .third}
 ![]({{ site.url }}images/06votegif/MICHIGAN.gif)
 
 
