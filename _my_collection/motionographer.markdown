@@ -11,7 +11,7 @@ order: 1
 </div>
 
 ## Motionographer: Join Us
-Animated branding to work across a variety of Engadget’s online shows.
+Launch video for Motionographer's 10 year celebration and Patreon campaign.
 
 {: .image .half .left}
 ![]({{ site.url }}/images/02motionographer/motion_plug.gif)
@@ -31,8 +31,15 @@ Animated branding to work across a variety of Engadget’s online shows.
 {: .image .full}
 ![]({{ site.url }}/images/02motionographer/motion_light.jpg)
 
+It's hard to say where the field of motion design would have been without Justin Cone and motionographer. So when he asked us to help celebrate a decade of design coverage and annouce the site's next phase, saying yes was a no-brainer. Together with good friends and neighbors, Slanted Studios, we flexed our character muscles and captured the artistic diversity that defines our field. 
 
-AOL’s tech hub, Engadget, wasn’t just looking for an a broadcast packaging overhaul, they also needed a modular design system that could expand to fit their growing lineup of shows. Work shown here is the heart of that re-design, which also included a versionable kit chock full of lower thirds, mortises and paired down bumpers.
-
-Endgadget Creative: Benjamin Harrison, Todd Thoenig
+PepRally x [Slanted Studios](https://slanted.studio/)<br/>
+Directed by: Erica Gorochow and Michelle Higa Fox<br/>
+Producer: Jennifer Vance<br/>
+Design/Illustration: Erica Gorochow<br/>
+Animation: Ana Kim and Tynesha Foreman<br/>
+Additional Animation: Yussef Cole <br/>
+Music and Sound Design: [StudioKamp](http://www.studiokamp.com/)<br/>
+Voice Over: Justin cone<br/><br/>
+Special Thanks: Gabriel Pulecio, Erin Kilkenny and Dan Savage 
 

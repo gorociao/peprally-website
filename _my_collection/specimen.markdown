@@ -40,7 +40,7 @@ Specimen was a self-initated project. Apple featured it as “Best New Game” a
 
 Since launching, over 50 million specimens have been tapped.
  
-Development, Co-Founder: Sal Randazzo
-Development, Co-Founder: Charlie Whitney
-Music + SFX: Upright T-Rex Music
-http://playspecimen.com
+Development: Sal Randazzo
+Development: [Charlie Whitney](http://sharkbox.com/)
+Music + SFX: [Upright T-Rex Music](http://uprighttrexmusic.com/)
+[playspecimen.com](http://playspecimen.com)
