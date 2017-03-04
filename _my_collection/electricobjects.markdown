@@ -25,9 +25,11 @@ World Views Series (<a href="https://www.electricobjects.com/collections/5/world
 ![]({{ site.url }}/images/07eo/eo_corners02.jpg)
 
 ![]({{ site.url }}/images/07eo/eo_corners03.jpg)
+
 Corners Series (<a href="https://www.electricobjects.com/collections/119/corners-by-erica-gorochow">display - see them animated</a>)
 
 ![]({{ site.url }}/images/07eo/eo_garden.gif)
+
 LA Garden (<a href="https://www.electricobjects.com/artists/erica-gorochow/artworks/kJez">display</a>)
 
 Electric Objects is new kind of computer, made for art. These pieces were commissioned as a part of the company’s “Artist in Residence” program, which invited a select group of creators early access to their platform, hardware and dialogue with the EO team. “Jungle” was featured in the company’s kickstarter video. 

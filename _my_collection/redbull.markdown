@@ -28,24 +28,25 @@ A series of videos to celebrate the immense talented that lectured at the Red Bu
     <iframe src="https://player.vimeo.com/video/67911257?color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-
-
-{: .half .left}
+{: .image .half .left}
 ![]({{ site.url }}/images/09redbull/rbma_giorgio02.gif)
 
-{: .half .right}
+{: .image .half .right}
 ![]({{ site.url }}/images/09redbull/rbma_lipstick.gif)
 
+{: .image .full}
 ![]({{ site.url }}/images/09redbull/rbma_moroder.jpg)
 
+{: .image .full}
 ![]({{ site.url }}/images/09redbull/rbma_scott.jpg)
 
-{: .half .left}
+{: .image .half .left}
 ![]({{ site.url }}/images/09redbull/rbma_scott01.gif)
 
-{: .half .right}
+{: .image .half .right}
 ![]({{ site.url }}/images/09redbull/rbma_murphy01.gif)
 
+{: .image .full}
 ![]({{ site.url }}/images/09redbull/rbma_murphy.jpg)
 
 

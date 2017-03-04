@@ -13,20 +13,22 @@ order: 1
 ## Motionographer: Join Us
 Animated branding to work across a variety of Engadget’s online shows.
 
-{: .half .left}
+{: .image .half .left}
 ![]({{ site.url }}/images/02motionographer/motion_plug.gif)
 
-{: .half .right}
+{: .image .half .right}
 ![]({{ site.url }}/images/02motionographer/motion_freud.gif)
 
+{: .image .full}
 ![]({{ site.url }}/images/02motionographer/motion_library.jpg)
 
-{: .half .left}
+{: .image .half .left}
 ![]({{ site.url }}/images/02motionographer/motion_computer.gif)
 
-{: .half .right}
+{: .image .half .right}
 ![]({{ site.url }}/images/02motionographer/motion_car.gif)
 
+{: .image .full}
 ![]({{ site.url }}/images/02motionographer/motion_light.jpg)
 
 

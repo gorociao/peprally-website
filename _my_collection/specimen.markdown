@@ -17,16 +17,16 @@ order: 2
 
 ![]({{ site.url }}/images/03specimen/specimen_main.gif)
 
-{: .half .left}
+{: .image .half .left}
 ![]({{ site.url }}/images/03specimen/specimen_playgif.gif)
 
-{: .half .right}
+{: .image .half .right}
 ![]({{ site.url }}/images/03specimen/specimen_photo_splash.png)
 
-{: .half .left}
+{: .image .half .left}
 ![]({{ site.url }}/images/03specimen/specimen_tweet.png)
 
-{: .half .right}
+{: .image .half .right}
 ![]({{ site.url }}/images/03specimen/specimen_POAM.png)
 
 <div class='embed-container'>
