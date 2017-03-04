@@ -133,7 +133,7 @@ Cody Uhler
 
 ## MAKING OF
 [Shot Sheet](https://docs.google.com/spreadsheets/d/1N5A9IW2XWXsn-t3c8Qlc89-Yv5gLCgSP8TTGoViwYts/edit?usp=sharing)
-![]({{ site.url }}/images/02motionographer/motion_library.jpg)
+![]({{ site.url }}/images/01deareurope/eu_wip.jpg)
 
 
 Want to know more? [go@peprally.co](mailto:go@peprally.co)
