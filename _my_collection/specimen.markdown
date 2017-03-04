@@ -15,19 +15,19 @@ order: 2
 
 
 
-![]({{ site.url }}images/03specimen/specimen_main.gif)
+![]({{ site.url }}/images/03specimen/specimen_main.gif)
 
 {: .half .left}
-![]({{ site.url }}images/03specimen/specimen_playgif.gif)
+![]({{ site.url }}/images/03specimen/specimen_playgif.gif)
 
 {: .half .right}
-![]({{ site.url }}images/03specimen/specimen_photo_splash.png)
+![]({{ site.url }}/images/03specimen/specimen_photo_splash.png)
 
 {: .half .left}
-![]({{ site.url }}images/03specimen/specimen_tweet.png)
+![]({{ site.url }}/images/03specimen/specimen_tweet.png)
 
 {: .half .right}
-![]({{ site.url }}images/03specimen/specimen_POAM.png)
+![]({{ site.url }}/images/03specimen/specimen_POAM.png)
 
 <div class='embed-container'>
 <iframe width="1250" height="703" src="https://www.youtube.com/embed/qTdryqSqaF4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

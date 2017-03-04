@@ -13,13 +13,13 @@ order: 7
 ## New Museum: Seasons Greetings
 A very clean, modern and bright holiday message from New York City's most contemporary art museum.
 
-![alt text]({{ site.url }}images/08newmuseum/nm_01.jpg)
+![alt text]({{ site.url }}/images/08newmuseum/nm_01.jpg)
 
-![alt text]({{ site.url }}images/08newmuseum/nm_02.jpg)
+![alt text]({{ site.url }}/images/08newmuseum/nm_02.jpg)
 
-![alt text]({{ site.url }}images/08newmuseum/nm_03.jpg)
+![alt text]({{ site.url }}/images/08newmuseum/nm_03.jpg)
 
-![alt text]({{ site.url }}images/08newmuseum/nm_04.jpg)
+![alt text]({{ site.url }}/images/08newmuseum/nm_04.jpg)
 
 Music: Upright T-Rex
 

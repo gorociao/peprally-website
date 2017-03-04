@@ -7,7 +7,7 @@ order: 8
 half: left
 ---
 
-<!-- ![alt text]({{ site.url }}images/eo/jungle.png) -->
+<!-- ![alt text]({{ site.url }}/images/eo/jungle.png) -->
 <!-- <div class='embed-container'>
     <iframe src="https://player.vimeo.com/video/67315445" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div> -->
@@ -31,22 +31,22 @@ A series of videos to celebrate the immense talented that lectured at the Red Bu
 
 
 {: .half .left}
-![]({{ site.url }}images/09redbull/rbma_giorgio02.gif)
+![]({{ site.url }}/images/09redbull/rbma_giorgio02.gif)
 
 {: .half .right}
-![]({{ site.url }}images/09redbull/rbma_lipstick.gif)
+![]({{ site.url }}/images/09redbull/rbma_lipstick.gif)
 
-![]({{ site.url }}images/09redbull/rbma_moroder.jpg)
+![]({{ site.url }}/images/09redbull/rbma_moroder.jpg)
 
-![]({{ site.url }}images/09redbull/rbma_scott.jpg)
+![]({{ site.url }}/images/09redbull/rbma_scott.jpg)
 
 {: .half .left}
-![]({{ site.url }}images/09redbull/rbma_scott01.gif)
+![]({{ site.url }}/images/09redbull/rbma_scott01.gif)
 
 {: .half .right}
-![]({{ site.url }}images/09redbull/rbma_murphy01.gif)
+![]({{ site.url }}/images/09redbull/rbma_murphy01.gif)
 
-![]({{ site.url }}images/09redbull/rbma_murphy.jpg)
+![]({{ site.url }}/images/09redbull/rbma_murphy.jpg)
 
 
 Production: MssngPeces, Owen Katz<br/>

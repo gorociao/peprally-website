@@ -7,44 +7,43 @@ order: 5
 half: third-left
 ---
 
-![alt text]({{ site.url }}images/06votegif/votegif_website.gif "Logo Title Text 1")
+![alt text]({{ site.url }}/images/06votegif/votegif_website.gif "Logo Title Text 1")
 
 ## VoteGif.com (and VotarGif.com)
 Ultra-shareable gifs to encourage Americans to register to vote in time for the 2016 election. 
 
+{: .half .third}
+![]({{ site.url }}/images/06votegif/ILLINOIS.gif)
 
 {: .half .third}
-![]({{ site.url }}images/06votegif/ILLINOIS.gif)
-
-{: .half .third}
-![]({{ site.url }}images/06votegif/NEVADA.gif)
+![]({{ site.url }}/images/06votegif/NEVADA.gif)
 
 {: .half .third .last}
-![]({{ site.url }}images/06votegif/LOUISIANA.gif)
+![]({{ site.url }}/images/06votegif/LOUISIANA.gif)
 
 {: .half .third}
-![]({{ site.url }}images/06votegif/TENNESSEE.gif)
+![]({{ site.url }}/images/06votegif/TENNESSEE.gif)
 
 {: .half .third}
-![]({{ site.url }}images/06votegif/COLORADO.gif)
+![]({{ site.url }}/images/06votegif/COLORADO.gif)
 
 {: .half .third .last}
-![]({{ site.url }}images/06votegif/PENNSYLVANIA.gif)
+![]({{ site.url }}/images/06votegif/PENNSYLVANIA.gif)
 
 {: .half .third}
-![]({{ site.url }}images/06votegif/DC.gif)
+![]({{ site.url }}/images/06votegif/DC.gif)
 
 {: .half .third}
-![]({{ site.url }}images/06votegif/MICHIGAN.gif)
+![]({{ site.url }}/images/06votegif/MICHIGAN.gif)
 
 
 {: .half .left}
-![]({{ site.url }}images/06votegif/votegifsocial.gif)
+![]({{ site.url }}/images/06votegif/votegifsocial.gif)
 
 {: .half .right}
-![]({{ site.url }}images/06votegif/votegif_chuck.png)
+![]({{ site.url }}/images/06votegif/votegif_chuck.png)
 
-![]({{ site.url }}images/06votegif/votegif_hrc.gif)
+![]({{ site.url }}/images/06votegif/votegif_hrc.gif)
 
 
 
