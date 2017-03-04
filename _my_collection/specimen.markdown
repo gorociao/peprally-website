@@ -15,7 +15,7 @@ order: 2
 
 
 
-![]({{ site.url }}images/03specimen/specimen_main_gif)
+![]({{ site.url }}images/03specimen/specimen_main.gif)
 
 {: .half .left}
 ![]({{ site.url }}images/03specimen/specimen_playgif.gif)
