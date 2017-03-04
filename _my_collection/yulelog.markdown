@@ -8,7 +8,7 @@ half: third-right
 ---
 
 <div class='embed-container'>
-    <iframe src="https://player.vimeo.com/video/149191822" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+ <iframe src="https://player.vimeo.com/video/149191822?loop=1&color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 ## Yule Log: ‘Lil Bellows Blaze
