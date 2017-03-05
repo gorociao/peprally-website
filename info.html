@@ -16,14 +16,14 @@ permalink: /info/
 		<div class="lists">
 	    <div class="left">
 	        <ul class="post-list">
-	            <h2>Select Kudos:</h2>
+	            <h2><strong>SELECT KUDOS</strong></h2>
 	            {% for entry in site.data.kudos %}
 								{% include url-entry.html %}
 	            {% endfor %}
 	        </ul>
 
-	        <ul class="post-list large-top-margin">
-	            <h2>Jury:</h2>
+	        <ul class="post-list jury">
+	            <h2><strong>JURY</strong></h2>
 	            {% for entry in site.data.jury %}
 								{% include url-entry.html %}
 	            {% endfor %}
@@ -32,7 +32,7 @@ permalink: /info/
 
 	    <div class="right">
 	        <ul class="post-list">
-	            <h2>CAPABILITIES</h2>
+	            <h2><strong>CAPABILITIES</strong></h2>
               <strong>Design + Motion for </strong><br/>
               <strong>Screens of all sizes:</strong><br/>								
 							Illustraton, Animation <br/>
@@ -41,7 +41,7 @@ permalink: /info/
 	        </ul>
 
 	        <ul class="post-list speaking">
-	            <h2>Speaking:</h2>
+	            <h2><strong>SPEAKING</strong></h2>
 	            {% for entry in site.data.speaking %}
 	              {% include url-entry.html %}
 	            {% endfor %}

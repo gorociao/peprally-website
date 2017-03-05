@@ -10,8 +10,10 @@ order: 2
 <iframe src="https://player.vimeo.com/video/133349411?color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-## Specimen: A Game about Color
- Specimen is an addictive, minimalist game for iOS about color perception.  What color do you see? <a href="https://itunes.apple.com/us/app/specimen-a-game-about-color/id999930535?mt=8">Download for Free</a>
+## **Specimen**
+An addictive, minimalist game about perception.  What color do you see? <a href="https://itunes.apple.com/us/app/specimen-a-game-about-color/id999930535?mt=8">Download for Free</a>
+<br/>
+<br/>
 
 
 

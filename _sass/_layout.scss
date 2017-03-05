@@ -515,7 +515,10 @@ pre {
   margin-bottom: 0px;
 }
 .large-top-margin {
-  margin-top: $spacing-unit * 4;
+  margin-top: $spacing-unit * 3;
+}
+.jury {
+	margin-top: 50px;
 }
 
 @media (min-width: 600px) {
