@@ -44,6 +44,6 @@ Design/Illustration: Erica Gorochow<br/>
 Animation: Ana Kim and Tynesha Foreman<br/>
 Additional Animation: Yussef Cole <br/>
 Music and Sound Design: [StudioKamp](http://www.studiokamp.com/)<br/>
-Voice Over: Justin cone<br/><br/>
+Voice Over: Justin Cone<br/><br/>
 Special Thanks: Gabriel Pulecio, Erin Kilkenny and Dan Savage 
 
