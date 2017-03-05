@@ -12,42 +12,42 @@ half: third-left
 ## VoteGif.com (and VotarGif.com)
 Ultra-shareable gifs to encourage Americans to register to vote in time for the 2016 election. 
 
-{: .image .half .third}
+{: .image .half .fourth}
 ![]({{ site.url }}/images/06votegif/ILLINOIS.gif)
 
-{: .image .half .third}
+{: .image .half .fourth}
 ![]({{ site.url }}/images/06votegif/NEVADA.gif)
 
-{: .image .half .third .last}
+{: .image .half .fourth}
 ![]({{ site.url }}/images/06votegif/LOUISIANA.gif)
 
-{: .image .half .third}
+{: .image .half .fourth .last}
 ![]({{ site.url }}/images/06votegif/TENNESSEE.gif)
 
-{: .image .half .third}
+{: .image .half .fourth}
 ![]({{ site.url }}/images/06votegif/COLORADO.gif)
 
-{: .image .half .third .last}
+{: .image .half .fourth}
 ![]({{ site.url }}/images/06votegif/PENNSYLVANIA.gif)
 
-{: .image .half .third}
+{: .image .half .fourth}
 ![]({{ site.url }}/images/06votegif/DC.gif)
 
-{: .image .half .third}
+{: .image .half .fourth .last}
 ![]({{ site.url }}/images/06votegif/MICHIGAN.gif)
 
 
-{: .image .half .left}
+{: .image .half .third-left .votegif}
 ![]({{ site.url }}/images/06votegif/votegifsocial.gif)
 
-{: .image .half .right}
+{: .image .half .twothirds-right .votegif}
 ![]({{ site.url }}/images/06votegif/votegif_chuck.png)
 
 ![]({{ site.url }}/images/06votegif/votegif_hrc.gif)
 
 
 
-
+{: .large-top-margin}
 VoteGif was a self-initated project that became widely retweeted and shared by all kinds of online communities: celebrities, politicians, brands, activists, moms and millenials. After launching, Hillary Clinton’s team asked if they could incorporate the gifs into their own GOTV products, like the chrome app, picture above. We were thrilled!
 
 Development: Patrick Moberg

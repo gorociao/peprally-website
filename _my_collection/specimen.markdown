@@ -45,6 +45,7 @@ Specimen was a self-initated project. Apple featured it as “Best New Game” a
 
 Since launching, over 50 million specimens have been tapped.
  
+{: .no-style-urls}
 Development: Sal Randazzo<br/>
 Development: [Charlie Whitney](http://sharkbox.com/)<br/>
 Music + SFX: [Upright T-Rex Music](http://uprighttrexmusic.com/)<br/>
