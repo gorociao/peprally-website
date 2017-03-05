@@ -126,7 +126,9 @@ credits:
       people:
             - name: KK Apple
               twitter: https://twitter.com/ladiesthings
+              site: http://kkapple.com
             - name: Jordan Craig
+              site: http://jordancraigportfolio.com/
                
     
     - title: GERMAN
@@ -155,12 +157,12 @@ credits2:
     - title: SCRIPT
       people:
           - name: Erica Gorochow
-            twitter: 
 
     - title: THANKS
       people:
             - name: Liz Marks
               twitter: 
+              site: http://liz-marks.com/
             - name: Lorenzo Fernandez
               twitter: 
             - name: Gustav Vella

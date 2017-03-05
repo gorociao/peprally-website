@@ -1,7 +1,7 @@
 {% if artist.name=="&nbsp;" %}
 <div class="spacer"></div>
 {% else %}
-<div>
+<div class="person">
   {% if artist.site %}<a href="{{ artist.site }}">{% endif %}
     {{ artist.name }}
   {% if artist.site %}</a>{% endif %}

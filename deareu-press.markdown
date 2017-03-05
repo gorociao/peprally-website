@@ -24,7 +24,11 @@ Our hope was to impress upon our friends in Europe that the future is writen by 
 ## **CREDITS (IN ORDER OF APPEARANCE)**
 
 ## DIRECTOR
-Erica Gorochow
+<div class="person">
+  Erica Gorochow 
+  <a class="twitter" href="http://twitter.com/gorociao">{% include twitter.html %}</a>
+  <a class="vimeo" href="https://vimeo.com/peprally">{% include vimeo.html %}</a>
+</div>
 
 {% include deareu-credits.html %}
 
