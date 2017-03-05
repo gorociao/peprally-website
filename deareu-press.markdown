@@ -14,14 +14,14 @@ order: 0
 {: .small-links}
 [YouTube Link](http://vimeo.com/171939446) • [Vimeo Link](http://vimeo.com/171939446)
 
-## Dear Europe
+## **Dear Europe**
 Dear Europe is a collaborative video about the upcoming European elections and how lessons from Brexit and Trump, might relate. The piece was made by artists who call the US and the UK home. To better reach our audience, we translated the video in Dutch, French and German.
 
 Our hope was to impress upon our friends in Europe that the future is writen by those who vote.
 
 
 {: .large-top-margin }
-## CREDITS (IN ORDER OF APPEARANCE)
+## **CREDITS (IN ORDER OF APPEARANCE)**
 
 ## DIRECTOR
 Erica Gorochow
@@ -29,7 +29,7 @@ Erica Gorochow
 {% include deareu-credits.html %}
 
 {: .large-top-margin}
-## STILLS + GIFS
+## **STILLS + GIFS**
 
 {: .image .half .left}
 ![]({{ site.url }}/images/02motionographer/motion_plug.gif) byline goes here

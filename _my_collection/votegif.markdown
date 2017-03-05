@@ -34,7 +34,7 @@ half: third-left
 ![]({{ site.url }}/images/06votegif/DC.gif)
 
 {: .image .half .fourth .last}
-![]({{ site.url }}/images/06votegif/MICHIGAN.gif)
+![]({{ site.url }}/images/06votegif/NEWJERSEY.gif)
 
 
 {: .image .half .third-left .votegif}
