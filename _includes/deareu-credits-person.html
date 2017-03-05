@@ -1,0 +1,6 @@
+<div>
+  {{ artist.name }}
+  {% if artist.twitter %}
+    <a class="twitter" href="http://twitter.com/{{ person.twitter }}">{% include twitter.html %}</a>
+  {% endif %}
+</div>

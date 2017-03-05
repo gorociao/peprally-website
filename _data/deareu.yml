@@ -1,0 +1,84 @@
+artists:
+    - name: Alexandra Lund
+    - name: Allen Laseter
+    - name: Marie-Margaux Tsakiri-Scanatovits
+    - name: Pablo Lozano
+    - name: Johnny Kelly (Design)
+    - name: Tynesha Foreman (Animation)
+    - name: Terra Henderson
+    - name: Kyle Strope
+    - name: Ege Soyuer
+    - name: Joe Donaldson
+    - name: Jay Quercia
+
+artists2:
+    - name: Brian Gossett (Design)
+    - name: Louis Wes (Animation)
+    - name: Freddy Arenas
+    - name: Thea Glad
+    - name: Lana Simanenkova
+    - name: Yukai Du
+    - name: Miguel Jiron
+    - name: Bee Grandinetti
+    - name: Damien Correll (Design)
+    - name: Adam Grabowski (Animation)
+    - name: Robin Davey
+    
+credits:
+    - title: MUSIC + SOUND DESIGN
+      people:
+          - name: Upright T-Rex Music
+            twitter: uprighttrex
+
+    - title: ENGLISH VO
+      people:
+            - name: KK Apple
+              twitter: 
+            - name: Jordan Craig
+              twitter: 
+    
+    - title: GERMAN
+      people:
+          - name: Saskia Keultjes (VO)
+            twitter: 
+    
+    - title: DUTCH
+      people:
+          - name: Wouter Boon (VO)
+            twitter: 
+          - name: Martin Pyper
+            twitter: 
+                
+    - title: FRENCH
+      people:
+          - name: Julie Saunders (VO)
+            twitter: 
+          - name: Adrien Joulie
+            twitter: 
+
+credits2:
+    - title: SCRIPT
+      people:
+          - name: Erica Gorochow
+            twitter: gorociao
+
+    - title: THANKS
+      people:
+            - name: Liz Marks
+              twitter: 
+            - name: Lorenzo Fernandez
+              twitter: 
+            - name: Gustav Vella
+              twitter: 
+            - name: Jeroen Krielaars
+              twitter: 
+            - name: Bee Grandinetti
+              twitter: 
+            - name: Joe Donaldson
+              twitter: 
+            - name: Paul Murphy
+              twitter: 
+            - name: Ross Wariner
+              twitter: 
+            - name: Cody Uhler
+              twitter: 

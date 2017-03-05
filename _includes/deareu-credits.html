@@ -1,0 +1,39 @@
+<div class="lists">
+    <h2>ARTISTS</h2>
+    <div class="left">
+        {% for artist in site.data.deareu.artists %}
+          {% include deareu-credits-person.html %}
+        {% endfor %}
+    </div>
+    <div class="right">
+        {% for artist in site.data.deareu.artists2 %}
+          {% include deareu-credits-person.html %}
+        {% endfor %}
+    </div>
+    <div class="clear"></div>
+</div>
+
+
+<div class="lists large-top-margin">
+    <div class="left">
+        {% for credit in site.data.deareu.credits %}
+            <p>
+              <h2>{{ credit.title }}</h2>
+              {% for artist in credit.people %}
+                  {% include deareu-credits-person.html %}
+              {% endfor %}
+            </p>
+        {% endfor %}
+    </div>
+    <div class="right">
+        {% for credit in site.data.deareu.credits2 %}
+            <p>
+              <h2>{{ credit.title }}</h2>
+              {% for artist in credit.people %}
+                  {% include deareu-credits-person.html %}
+              {% endfor %}
+            </p>
+        {% endfor %}
+    </div>
+    <div class="clear"></div>
+</div>
