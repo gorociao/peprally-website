@@ -16,3 +16,4 @@ half: third-right
 Now a holiday tradition, [Yule Log 2.0](http://www.watchyulelog.com/) invites select members of the design and animation community to re-interpret the famed WPIX-11 hearth. The project was started and organized by Daniel Savage and Wondersauce. 
 
 Co-Animation: [Seth Eckert](http://setheckert.com/)
+Sound: [Sono Sanctus](http://www.sonosanctus.com/)
