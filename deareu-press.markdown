@@ -156,7 +156,7 @@ Erica Gorochow
 
 {: .large-top-margin }
 ## INSPIRATION
-[*Claudio Salas: The Wisdom of Pessimism*](http://motionographer.com/2015/10/27/making-the-wisdom-of-pessimism/)<br/>
+Claudio Salas: [*The Wisdom of Pessimism*](http://motionographer.com/2015/10/27/making-the-wisdom-of-pessimism/)<br/>
 
 [*Watch an Austrian Holocaust survivor explain why the far right's rise scares her*](http://www.vox.com/world/2016/11/30/13784954/austria-gertrude-holocaust-survivor-presidential-election)<br/>
 
