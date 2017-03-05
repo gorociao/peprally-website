@@ -13,6 +13,8 @@ order: 1
 ## Motionographer: Join Us
 Launch video for Motionographer's 10 year celebration and Patreon campaign.
 
+<div class="large-top-margin"></div>
+
 {: .image .half .left}
 ![]({{ site.url }}/images/02motionographer/motion_plug.gif)
 
@@ -31,6 +33,7 @@ Launch video for Motionographer's 10 year celebration and Patreon campaign.
 {: .image .full}
 ![]({{ site.url }}/images/02motionographer/motion_light.jpg)
 
+{: .large-top-margin}
 It's hard to say where the field of motion design would have been without Justin Cone and motionographer. So when he asked us to help celebrate a decade of design coverage and annouce the site's next phase, saying yes was a no-brainer. Together with good friends and neighbors, Slanted Studios, we flexed our character muscles and captured the artistic diversity that defines our field. 
 
 PepRally x [Slanted Studios](https://slanted.studio/)<br/>
