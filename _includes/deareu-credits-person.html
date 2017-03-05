@@ -1,6 +1,15 @@
+{% if artist.name=="&nbsp;" %}
+<div class="spacer"></div>
+{% else %}
 <div>
-  {{ artist.name }}
+  {% if artist.site %}<a href="{{ artist.site }}">{% endif %}
+    {{ artist.name }}
+  {% if artist.site %}</a>{% endif %}
   {% if artist.twitter %}
-    <a class="twitter" href="http://twitter.com/{{ person.twitter }}">{% include twitter.html %}</a>
+    <a class="twitter" href="{{ artist.twitter }}">{% include twitter.html %}</a>
+  {% endif %}
+  {% if artist.vimeo %}
+    <a class="vimeo" href="{{ artist.vimeo }}">{% include vimeo.html %}</a>
   {% endif %}
 </div>
+{% endif %}

@@ -134,7 +134,7 @@ pre {
  * Wrapper
  */
 .wrapper {
-    @media (max-width: 600px) {
+    @media (max-width: $on-mobile) {
       max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} / 2));
       max-width:         calc(#{$content-width} - (#{$spacing-unit} / 2));
       margin-right: auto;
@@ -143,7 +143,7 @@ pre {
       padding-left: $spacing-unit / 2;
     }
     
-    @media (min-width: 600px) {
+    @media (min-width: $on-mobile) {
       max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
       max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
       margin-right: auto;
@@ -199,17 +199,23 @@ pre {
 			color: rgba(255,255,255,.85);
 		}
 	}
+    a.vimeo svg,
     a.twitter svg {
-        margin: -5px 0px 0px 10px;
+        margin: -5px 0px 0px 5px;
         vertical-align: middle;
         width: 18px;
     }
+    a.vimeo svg path,
     a.twitter svg path {
         fill: white;
     }
 }
 
-@media (min-width: 600px) {
+.spacer {
+    margin: $spacing-unit * .5 0px 0px 0px;
+}
+
+@media (min-width: $on-mobile) {
     .lists {
         margin-top: 50px;
         .left {
@@ -242,7 +248,7 @@ pre {
   }
 }
 
-@media (min-width: 600px) {
+@media (min-width: $on-mobile) {
   .info {
     .post-list {
         &.kudos {
@@ -260,25 +266,17 @@ pre {
  * Site header
  */
 .site-header {
+    min-height: 95px;
     font-size: 20px;
     position: relative;
     background: #FFFFFF;
 }
 
 .site-title {
-    font-size: 26px;
-    font-weight: 300;
-    line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
-    padding: 20px 0px 20px 120px;
-    background: url(#{$base_url}/images/flag.svg) no-repeat left 20px;
-    background-image-size: 40px 40px;
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
+    height: auto;
+    position: absolute;
+    bottom: 0px;
+    max-width: 270px;
 }
 
 .site-nav {
@@ -462,7 +460,7 @@ pre {
  */
 .page-content {
     padding: ($spacing-unit * 1.5) 0;
-    @media (max-width: 600px) {
+    @media (max-width: $on-mobile) {
       padding: ($spacing-unit * .5) 0;
     }
     iframe {
@@ -491,10 +489,10 @@ pre {
                 display: block;
             }
         }
-        @media (max-width: 600px) {
+        @media (max-width: $on-mobile) {
           margin-bottom: $spacing-unit * .5;
         }
-        @media (min-width: 600px) {
+        @media (min-width: $on-mobile) {
             img {
                 display: block;
                 &.mobile {
@@ -522,7 +520,7 @@ pre {
 	margin-top: 50px;
 }
 
-@media (min-width: 600px) {
+@media (min-width: $on-mobile) {
   
   p.image {
     margin-bottom: $grid-spacing-unit;
@@ -539,7 +537,7 @@ pre {
       }
       &.third {
         display: inline-block;
-        width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 2)) * .33 );
+        width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 3)) * .325 );
         margin-right: $grid-spacing-unit;
         &.last {
           margin-right: 0px;
@@ -602,7 +600,7 @@ pre {
         text-align: center;
         margin-top: -#{$home-page-font-size/ 2};
     }
-    @media (min-width: 600px) {
+    @media (min-width: $on-mobile) {
       &:hover {
           img {
               opacity: .5;
@@ -623,7 +621,6 @@ pre {
 /**
  * Posts
  */
-
 h1 {
     font-size: $base-font-size;
     color: #ADADAD;
@@ -634,24 +631,13 @@ h1 {
 h2 {
     font-size: $base-font-size;
     color: #ADADAD;
-    margin-bottom: $base-font-size / 2.5;
-//    @include media-query($on-laptop) {
-//        font-size: 28px;
-//    }
+    margin: $spacing-unit * .6 0px 0px 0px;
 }
 
 h3 {
     font-size: 26px;
-
-    @include media-query($on-laptop) {
-        font-size: 22px;
-    }
 }
 
 h4 {
     font-size: 20px;
-
-    @include media-query($on-laptop) {
-        font-size: 18px;
-    }
 }
