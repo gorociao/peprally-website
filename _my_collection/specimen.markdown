@@ -19,16 +19,16 @@ An addictive, minimalist game about perception.  What color do you see? <a href=
 
 ![]({{ site.url }}/images/03specimen/specimen_main.gif)
 
-{: .image .half .third-left}
+{: .image .half .third-left .specimen}
 ![]({{ site.url }}/images/03specimen/specimen_playgif.gif)
 
-{: .image .half .twothirds-right}
+{: .image .half .twothirds-right .specimen}
 ![]({{ site.url }}/images/03specimen/specimen_photo_splash.png)
 
-{: .image .half .twothirds-left}
+{: .image .half .twothirds-left .specimen}
 ![]({{ site.url }}/images/03specimen/specimen_tweet.png)
 
-{: .image .half .third-right}
+{: .image .half .third-right .specimen}
 ![]({{ site.url }}/images/03specimen/specimen_POAM.png)
 
 <div class="clear"></div>
