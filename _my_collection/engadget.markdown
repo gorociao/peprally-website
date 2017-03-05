@@ -11,7 +11,7 @@ half: twothirds-left
 	<iframe src="https://player.vimeo.com/video/77004054?color=78fab7&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-## Engadget
+## **Engadget**
 Animated branding to work across a variety of Engadget’s online shows.
 
 ![alt text]({{ site.url }}/images/04engadget/eg_01.jpg)
