@@ -43,4 +43,4 @@ Corners Series (<a href="https://www.electricobjects.com/collections/119/corners
 LA Garden (<a href="https://www.electricobjects.com/artists/erica-gorochow/artworks/kJez">display</a>)
 
 {: .large-top-margin}
-[Electric Objects](http://electricobjects.com/) is new kind of computer, made for art. These pieces were commissioned as a part of the company’s “Artist in Residence” program, which invited a select group of creators early access to their platform, hardware and dialogue with the EO team. “Jungle” was featured in the company’s kickstarter video. 
+Electric Objects is new kind of computer, made for art. These pieces were commissioned as a part of the company’s “Artist in Residence” program, which invited a select group of creators early access to their platform, hardware and dialogue with the EO team. “Jungle” was featured in the company’s kickstarter video. 
