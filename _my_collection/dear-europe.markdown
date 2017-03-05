@@ -18,6 +18,7 @@ Dear Europe is a collaborative video about the upcoming European elections and h
 
 Our hope was to impress upon our friends in Europe that the future is writen by those who vote.
 
+{: .large-top-margin}
 ## CREDITS (IN ORDER OF APPEARANCE)
 
 ## DIRECTOR

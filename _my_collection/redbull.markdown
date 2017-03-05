@@ -20,7 +20,7 @@ half: left
 A series of videos to celebrate the immense talented that lectured at the Red Bull Music Academy in New York
 
 
-<div class='embed-container'>
+<div class='embed-container large-top-margin'>
     <iframe src="https://player.vimeo.com/video/67257243?color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
@@ -49,7 +49,7 @@ A series of videos to celebrate the immense talented that lectured at the Red Bu
 {: .image .full}
 ![]({{ site.url }}/images/09redbull/rbma_murphy.jpg)
 
-
+{: .large-top-margin}
 Production: MssngPeces, Owen Katz<br/>
 Design + Animation: Drake Miller<br/>
 Music + Sound: Upright T-Rex<br/>

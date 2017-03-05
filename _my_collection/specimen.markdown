@@ -17,23 +17,26 @@ order: 2
 
 ![]({{ site.url }}/images/03specimen/specimen_main.gif)
 
-{: .image .half .left}
+{: .image .half .third-left}
 ![]({{ site.url }}/images/03specimen/specimen_playgif.gif)
 
-{: .image .half .right}
+{: .image .half .twothirds-right}
 ![]({{ site.url }}/images/03specimen/specimen_photo_splash.png)
 
-{: .image .half .left}
+{: .image .half .twothirds-left}
 ![]({{ site.url }}/images/03specimen/specimen_tweet.png)
 
-{: .image .half .right}
+{: .image .half .third-right}
 ![]({{ site.url }}/images/03specimen/specimen_POAM.png)
 
+<div class="clear"></div>
+
 <div class='embed-container'>
-<iframe width="1250" height="703" src="https://www.youtube.com/embed/qTdryqSqaF4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="1250" height="703" src="https://www.youtube.com/embed/qTdryqSqaF4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
+{: .large-top-margin}
 Easy to learn, tough to master: simply tap the specimen that matches the background color. As you advance, earn patterned boosters and chroma coins to combat an ever faster clock. 
 
 Specimen was a self-initated project. Apple featured it as “Best New Game” and “Best Game of Month” around the world. It was also featured on blogs like Boing Boing, Core 77, Business Insider and Kill Screen. In 2016, Fast Company’s named Specimen as a finalist in the Innovation by Design Awards.

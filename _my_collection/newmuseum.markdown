@@ -13,6 +13,7 @@ order: 7
 ## New Museum: Seasons Greetings
 A very clean, modern and bright holiday message from New York City's most contemporary art museum.
 
+{: .large-top-margin}
 ![alt text]({{ site.url }}/images/08newmuseum/nm_01.jpg)
 
 ![alt text]({{ site.url }}/images/08newmuseum/nm_02.jpg)
@@ -21,6 +22,7 @@ A very clean, modern and bright holiday message from New York City's most contem
 
 ![alt text]({{ site.url }}/images/08newmuseum/nm_04.jpg)
 
+{: .large-top-margin}
 Music: Upright T-Rex
 
 Thanks: Karen Wong
