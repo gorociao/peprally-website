@@ -22,7 +22,7 @@ A very clean, modern and bright holiday message from New York City's most contem
 
 ![alt text]({{ site.url }}/images/08newmuseum/nm_04.jpg)
 
-{: .large-top-margin}
+{: .large-top-margin .no-style-urls}
 Music: [Upright T-Rex Music](http://uprighttrexmusic.com)
 
 Thanks: Karen Wong

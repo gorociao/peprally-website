@@ -49,7 +49,7 @@ A series of videos to celebrate the immense talented that lectured at the Red Bu
 {: .image .full}
 ![]({{ site.url }}/images/09redbull/rbma_murphy.jpg)
 
-{: .large-top-margin}
+{: .large-top-margin .no-style-urls}
 Production: MssngPeces, Owen Katz<br/>
 Design + Animation: Drake Miller<br/>
 Music + Sound: [Upright T-Rex Music](http://uprighttrexmusic.com)<br/>
