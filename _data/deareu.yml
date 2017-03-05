@@ -59,7 +59,8 @@ artists:
       site: http://jayquercia.com/
       twitter: https://twitter.com/jayquercia
       vimeo: https://vimeo.com/jayquercia
-
+    - name: "&nbsp;"
+      
 artists2:
     - name: Brian Gossett (Design)
       site: http://www.brianmichaelgossett.com/
