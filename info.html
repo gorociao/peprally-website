@@ -14,14 +14,14 @@ permalink: /info/
     </div>
 
     <div class="lists left">
-        <ul class="post-list kudos">
+        <ul class="post-list">
             <h2>Select Kudos:</h2>
             {% for post in site.data.kudos %}
                 {{ post.name }}<br/>
             {% endfor %}
         </ul>
 
-        <ul class="post-list jury">
+        <ul class="post-list large-top-margin">
             <h2>Jury:</h2>
             {% for post in site.data.jury %}
                 {{ post.name }}<br/>
@@ -30,7 +30,7 @@ permalink: /info/
     </div>
 
     <div class="lists right">
-        <ul class="post-list clients">
+        <ul class="post-list">
             <h2>Select Clients:</h2>
             {% for post in site.data.clients %}
                 {{ post.name }}<br/>

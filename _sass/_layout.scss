@@ -192,16 +192,19 @@ pre {
 }
 
 @media (min-width: 600px) {
-  .lists {
-      margin-top: 50px;
-      width: 45%;
-      &.left {
+    .lists {
+        margin-top: 50px;
+        width: 45%;
+        &.left {
           float: left;
-      }
-      &.right {
+        }
+        &.right {
           float: right;
-      }
-  }
+        }
+    }
+    .clear {
+        clear: both;
+    }
 }
 
 
@@ -483,6 +486,20 @@ pre {
     }
 }
 
+
+.small-links,
+.image {
+  font-size: 12px;
+  line-height: 26px;
+}
+
+.no-bottom-margin {
+  margin-bottom: 0px;
+}
+.large-top-margin {
+  margin-top: $spacing-unit * 4;
+}
+
 @media (min-width: 600px) {
   
   p.image {
@@ -500,7 +517,7 @@ pre {
       }
       &.third {
         display: inline-block;
-        width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 3)) * .34 );
+        width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 2)) * .33 );
         &.last {
           margin-right: 0px;
         }

@@ -12,18 +12,24 @@ half: twothirds-right
 ## Electric Objects
 Various series commissioned by [Electric Objects](http://electricobjects.com/)
 
+{: .image .half .third}
 ![]({{ site.url }}/images/07eo/eo_paris.gif)
 
+{: .image .half .third}
 ![]({{ site.url }}/images/07eo/eo_kyoto.gif)
 
+{: .image .half .third}
 ![]({{ site.url }}/images/07eo/eo_tunisia.gif)
 
 World Views Series (<a href="https://www.electricobjects.com/collections/5/world-views-by-erica-gorochow">display</a>)
 
+{: .image .half .third}
 ![]({{ site.url }}/images/07eo/eo_corners01.jpg)
 
+{: .image .half .third}
 ![]({{ site.url }}/images/07eo/eo_corners02.jpg)
 
+{: .image .half .third}
 ![]({{ site.url }}/images/07eo/eo_corners03.jpg)
 
 Corners Series (<a href="https://www.electricobjects.com/collections/119/corners-by-erica-gorochow">display - see them animated</a>)
