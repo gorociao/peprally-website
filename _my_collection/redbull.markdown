@@ -50,7 +50,7 @@ A series of videos to celebrate the immense talented that lectured at the Red Bu
 ![]({{ site.url }}/images/09redbull/rbma_murphy.jpg)
 
 {: .large-top-margin .no-style-urls}
-Production: MssngPeces, Owen Katz<br/>
-Design + Animation: Drake Miller<br/>
+Production: [M ss ng P eces](http://mssngpeces.com/), Owen Katz<br/>
+Design + Animation: [Drake Miller](http://drakemiller.com/)<br/>
 Music + Sound: [Upright T-Rex Music](http://uprighttrexmusic.com)<br/>
 Red Bull Creative: Davide Barot, Todd Burns
