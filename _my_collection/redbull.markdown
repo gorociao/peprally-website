@@ -16,7 +16,7 @@ half: left
  <iframe src="https://player.vimeo.com/video/67315445?color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-## Red Bull Music Academy: Sound Bites
+## **Red Bull Music Academy: Sound Bites**
 A series of videos to celebrate the immense talented that lectured at the Red Bull Music Academy in New York
 
 
@@ -52,5 +52,5 @@ A series of videos to celebrate the immense talented that lectured at the Red Bu
 {: .large-top-margin}
 Production: MssngPeces, Owen Katz<br/>
 Design + Animation: Drake Miller<br/>
-Music + Sound: Upright T-Rex<br/>
+Music + Sound: [Upright T-Rex Music](http://uprighttrexmusic.com)<br/>
 Red Bull Creative: Davide Barot, Todd Burns

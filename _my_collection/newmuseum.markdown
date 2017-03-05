@@ -10,7 +10,7 @@ order: 7
  <iframe src="https://player.vimeo.com/video/114090705?color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-## New Museum: Seasons Greetings
+## **New Museum: Seasons Greetings**
 A very clean, modern and bright holiday message from New York City's most contemporary art museum.
 
 {: .large-top-margin}
@@ -23,6 +23,6 @@ A very clean, modern and bright holiday message from New York City's most contem
 ![alt text]({{ site.url }}/images/08newmuseum/nm_04.jpg)
 
 {: .large-top-margin}
-Music: Upright T-Rex
+Music: [Upright T-Rex Music](http://uprighttrexmusic.com)
 
 Thanks: Karen Wong
