@@ -8,6 +8,9 @@ half: twothirds-right
 ---
 {: .image .half}
 ![]({{ site.url }}/images/07eo/eo_jungle.gif)
+<br/>
+<br/>
+
 
 ## **Electric Objects**
 Various series commissioned by [Electric Objects](http://electricobjects.com/)

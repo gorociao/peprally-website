@@ -1,66 +1,160 @@
+director:
+    - name: Erica Gorochow
+      site: http://peprally.co
+      twitter: http://twitter.com/gorociao
+      vimeo: https://vimeo.com/peprally
+      
+
 artists:
     - name: Alexandra Lund
+      site: http://alexandralund.se/
+      twitter: https://twitter.com/bumbialex
+      vimeo: https://vimeo.com/alexandralund
+    - name: "&nbsp;"
     - name: Allen Laseter
+      site: http://allenlaseter.com/
+      twitter: https://twitter.com/AllenLaseter
+      vimeo: https://vimeo.com/allenlaseter
+    - name: "&nbsp;"
     - name: Marie-Margaux Tsakiri-Scanatovits
+      site: https://www.moth.studio/
+      twitter: https://twitter.com/mothanimation
+      vimeo: https://vimeo.com/mothanimation
+    - name: "&nbsp;"
     - name: Pablo Lozano
+      site: http://plozano.com
+      twitter: https://twitter.com/_pablo_lozano_
+      vimeo: https://vimeo.com/plozano
+    - name: "&nbsp;"
     - name: Johnny Kelly (Design)
+      site: http://www.johnnykel.ly/
+      twitter: http://www.johnnykel.ly/
+      vimeo: https://vimeo.com/johnnykelly
     - name: Tynesha Foreman (Animation)
+      site: http://www.nearshotarts.com/
+      twitter: https://twitter.com/nearsh0t
+      vimeo: https://vimeo.com/nearshot
+    - name: "&nbsp;"
     - name: Terra Henderson
+      site: http://terrahenderson.com/
+      twitter: https://twitter.com/TerraCHenderson
+      vimeo: https://vimeo.com/terrahenderson
+    - name: "&nbsp;"
     - name: Kyle Strope
+      site: http://www.kylestrope.com/
+      twitter: https://twitter.com/kylerogerstrope
+      vimeo: https://vimeo.com/kylestrope
+    - name: "&nbsp;"
     - name: Ege Soyuer
+      site: http://egesoyuer.com/
+      twitter: https://twitter.com/egetron
+      vimeo: https://vimeo.com/egege
+    - name: "&nbsp;"
     - name: Joe Donaldson
+      site: http://www.jodie.work/
+      twitter: https://twitter.com/xjoedonaldson
+      vimeo: https://vimeo.com/joedonaldson
+    - name: "&nbsp;"
     - name: Jay Quercia
+      site: http://jayquercia.com/
+      twitter: https://twitter.com/jayquercia
+      vimeo: https://vimeo.com/jayquercia
 
 artists2:
     - name: Brian Gossett (Design)
+      site: http://www.brianmichaelgossett.com/
+      twitter: https://twitter.com/briangossett
+      vimeo: https://vimeo.com/briangossett
     - name: Louis Wes (Animation)
+      site: http://louiswes.com/
+      twitter: https://twitter.com/louiswes
+      vimeo: https://vimeo.com/louiswes
+    - name: "&nbsp;"
     - name: Freddy Arenas
+      site: http://www.freddyarenas.com/
+      twitter: https://twitter.com/design_or_die
+      vimeo: https://vimeo.com/freddyarenas
+    - name: "&nbsp;"
     - name: Thea Glad
+      site: http://theaglad.co.uk/
+      twitter: https://twitter.com/thea_glad
+      vimeo: https://vimeo.com/user11745687
+    - name: "&nbsp;"
     - name: Lana Simanenkova
+      site: http://lana.land/
+      twitter: https://twitter.com/Lanasketch
+      vimeo: https://vimeo.com/lanasketch
+    - name: "&nbsp;"
     - name: Yukai Du
+      site: https://www.yukaidu.com/
+      twitter: https://twitter.com/YukaiDu
+      vimeo: https://vimeo.com/yukaidu
+    - name: "&nbsp;"
     - name: Miguel Jiron
+      site: http://cargocollective.com/mibaji
+      twitter: https://twitter.com/mibaji
+      vimeo: https://vimeo.com/migueljiron
+    - name: "&nbsp;"
     - name: Bee Grandinetti
+      site: http://www.beegrandinetti.com/
+      twitter: https://twitter.com/beezilda
+      vimeo: https://vimeo.com/grandinetti
+    - name: "&nbsp;"
     - name: Damien Correll (Design)
+      site: http://damiencorrell.com/
+      twitter: https://twitter.com/damiencorrell
+      vimeo: https://vimeo.com/partandparcel
     - name: Adam Grabowski (Animation)
+      site: http://adamgrabowski.tv/  
+      twitter: https://twitter.com/_grabs
+      vimeo: https://vimeo.com/adamgrabowski
+    - name: "&nbsp;"
     - name: Robin Davey
+      site: http://robindavey.co.uk/
+      twitter: https://twitter.com/ThatRobinDavey
+      vimeo: https://vimeo.com/robindavey
     
 credits:
     - title: MUSIC + SOUND DESIGN
       people:
           - name: Upright T-Rex Music
-            twitter: uprighttrex
+            site: http://http://uprighttrexmusic.com/
+            twitter: https://twitter.com/uprighttrex?lang=en
 
     - title: ENGLISH VO
       people:
             - name: KK Apple
-              twitter: 
+              twitter: https://twitter.com/ladiesthings
             - name: Jordan Craig
-              twitter: 
+               
     
     - title: GERMAN
       people:
           - name: Saskia Keultjes (VO)
-            twitter: 
+            site: http://saskdraws.com/
+            twitter: https://twitter.com/saskdraws
     
     - title: DUTCH
       people:
           - name: Wouter Boon (VO)
-            twitter: 
+            twitter: https://twitter.com/wouter_boon
           - name: Martin Pyper
-            twitter: 
+            site: http://www.mestudio.info/
+            twitter: https://twitter.com/me_studio
                 
     - title: FRENCH
       people:
           - name: Julie Saunders (VO)
             twitter: 
           - name: Adrien Joulie
-            twitter: 
+            site: http://adrienjoulie.com/
+            twitter: https://twitter.com/adrienjoulie
 
 credits2:
     - title: SCRIPT
       people:
           - name: Erica Gorochow
-            twitter: gorociao
+            twitter: 
 
     - title: THANKS
       people:
@@ -69,7 +163,7 @@ credits2:
             - name: Lorenzo Fernandez
               twitter: 
             - name: Gustav Vella
-              twitter: 
+               
             - name: Jeroen Krielaars
               twitter: 
             - name: Bee Grandinetti
