@@ -238,9 +238,9 @@ pre {
 .info {
     .bio {
         div {
-            margin-bottom: $spacing-unit;
+            margin-bottom: $spacing-unit * .5;
         }
-        margin-bottom: $spacing-unit * 2;
+        margin-bottom: $spacing-unit * .5;
     }
 }
 

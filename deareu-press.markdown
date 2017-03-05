@@ -21,7 +21,7 @@ Our hope was to impress upon our friends in Europe that the future is writen by 
 
 
 {: .large-top-margin }
-## **CREDITS (IN ORDER OF APPEARANCE)**
+
 
 ## DIRECTOR
 <div class="person">
