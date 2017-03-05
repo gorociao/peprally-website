@@ -13,36 +13,40 @@ permalink: /info/
         <div>Say Hello: <a href="mailto:go@peprally.co">go@peprally.co</a></div>
     </div>
 
-    <div class="lists left">
-        <ul class="post-list">
-            <h2>Select Kudos:</h2>
-            {% for post in site.data.kudos %}
-                {{ post.name }}<br/>
-            {% endfor %}
-        </ul>
+		<div class="lists">
+	    <div class="left">
+	        <ul class="post-list">
+	            <h2>Select Kudos:</h2>
+	            {% for entry in site.data.kudos %}
+								{% include url-entry.html %}
+	            {% endfor %}
+	        </ul>
 
-        <ul class="post-list large-top-margin">
-            <h2>Jury:</h2>
-            {% for post in site.data.jury %}
-                {{ post.name }}<br/>
-            {% endfor %}
-        </ul>
-    </div>
+	        <ul class="post-list large-top-margin">
+	            <h2>Jury:</h2>
+	            {% for entry in site.data.jury %}
+								{% include url-entry.html %}
+	            {% endfor %}
+	        </ul>
+	    </div>
 
-    <div class="lists right">
-        <ul class="post-list">
-            <h2>Select Clients:</h2>
-            {% for post in site.data.clients %}
-                {{ post.name }}<br/>
-            {% endfor %}
-        </ul>
+	    <div class="right">
+	        <ul class="post-list">
+	            <h2>CAPABILITIES</h2>
+              <strong>Design + Motion for </strong><br/>
+              <strong>Screens of all sizes:</strong><br/>								
+							Illustraton, Animation <br/>
+							Branding, UI Prototyping, <br/>
+							Ads, Titles, Gifs, Short Films
+	        </ul>
 
-        <ul class="post-list speaking">
-            <h2>Speaking:</h2>
-            {% for post in site.data.speaking %}
-                {{ post.name }}<br/>
-            {% endfor %}
-        </ul>
-    </div>
+	        <ul class="post-list speaking">
+	            <h2>Speaking:</h2>
+	            {% for entry in site.data.speaking %}
+	              {% include url-entry.html %}
+	            {% endfor %}
+	        </ul>
+	    </div>
+		</div>
 
 </div>
