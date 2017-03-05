@@ -141,7 +141,7 @@ Erica Gorochow
 
 
 {: .large-top-margin }
-## WHY (CONTINUED)
+## **WHY (CONTINUED)**
 “My hope is the video will remind people how connected we are. Clicking retweet or share won’t save the world. But I think, as people who work in art and communication, we can urge caution, encourage dialogue and promote engagement. When Brexit happened, I wondered aloud how much a canary that vote was for our own election. In retrospect, I wish we could have heeded that event as more of a warning. If anything, I hope people in the US and around the world pay attention to global politics and consider a zoomed out perspective. There are many personal bubbles we should strive to bust. When I started reaching out to designers about participating in this video, I was pleasantly surprised how many also felt the need to do or say *something*. The collaborative nature of this project only underscores our collective message.”<br/>
 — Erica Gorochow  
 
@@ -155,7 +155,7 @@ Erica Gorochow
 — Yukai Du
 
 {: .large-top-margin }
-## INSPIRATION
+## **INSPIRATION**
 Claudio Salas: [*The Wisdom of Pessimism*](http://motionographer.com/2015/10/27/making-the-wisdom-of-pessimism/)<br/>
 
 [*Watch an Austrian Holocaust survivor explain why the far right's rise scares her*](http://www.vox.com/world/2016/11/30/13784954/austria-gertrude-holocaust-survivor-presidential-election)<br/>
@@ -165,11 +165,12 @@ Claudio Salas: [*The Wisdom of Pessimism*](http://motionographer.com/2015/10/27/
 [*Young remain voters came out in force, but were outgunned*](https://www.theguardian.com/politics/2016/jun/24/young-remain-voters-came-out-in-force-but-were-outgunned)
 
 {: .large-top-margin }
-## MAKING OF
-[Shot Sheet](https://docs.google.com/spreadsheets/d/1N5A9IW2XWXsn-t3c8Qlc89-Yv5gLCgSP8TTGoViwYts/edit?usp=sharing)
+## **MAKING OF**
+[Shot Sheet](https://docs.google.com/spreadsheets/d/1N5A9IW2XWXsn-t3c8Qlc89-Yv5gLCgSP8TTGoViwYts/edit?usp=sharing) 
+
 ![]({{ site.url }}/images/01deareurope/eu_wip.jpg)
 
-
+<br/>
 Want to know more? [go@peprally.co](mailto:go@peprally.co)
 
 

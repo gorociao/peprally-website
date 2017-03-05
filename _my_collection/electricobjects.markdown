@@ -6,7 +6,7 @@ permalink: /electric-objects/
 order: 6
 half: twothirds-right
 ---
-
+{: .image .half}
 ![]({{ site.url }}/images/07eo/eo_jungle.gif)
 
 ## **Electric Objects**
@@ -34,7 +34,7 @@ World Views Series (<a href="https://www.electricobjects.com/collections/5/world
 
 Corners Series (<a href="https://www.electricobjects.com/collections/119/corners-by-erica-gorochow">display - see them animated</a>)
 
-{: .large-top-margin}
+{: .large-top-margin.image .half}
 ![]({{ site.url }}/images/07eo/eo_garden.gif)
 
 LA Garden (<a href="https://www.electricobjects.com/artists/erica-gorochow/artworks/kJez">display</a>)
