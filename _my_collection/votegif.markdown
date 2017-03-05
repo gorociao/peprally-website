@@ -9,8 +9,8 @@ half: third-left
 
 ![alt text]({{ site.url }}/images/06votegif/votegif_website.gif "Logo Title Text 1")
 
-## VoteGif.com (and VotarGif.com)
-Ultra-shareable gifs to encourage Americans to register to vote in time for the 2016 election. 
+## **VoteGif**
+[VoteGif.com](http://votegif.com) is a hub of ultra-shareable gifs to encourage Americans to register to vote in time for the 2016 election. 
 
 {: .image .half .third}
 ![]({{ site.url }}/images/06votegif/ILLINOIS.gif)
@@ -48,6 +48,6 @@ Ultra-shareable gifs to encourage Americans to register to vote in time for the 
 
 
 
-VoteGif was a self-initated project that became widely retweeted and shared by all kinds of online communities: celebrities, politicians, brands, activists, moms and millenials. After launching, Hillary Clinton’s team asked if they could incorporate the gifs into their own GOTV products, like the chrome app, picture above. We were thrilled!
+VoteGif was a self-initated project that became widely retweeted and shared by all kinds of online communities: celebrities, politicians, brands, activists, moms and millenials. After launching, Hillary Clinton’s team asked if they could incorporate the gifs into their own GOTV products, like the chrome app, pictured above. We were thrilled! We also localized the project [en Español](http://votargif.com).
 
 Development: Patrick Moberg

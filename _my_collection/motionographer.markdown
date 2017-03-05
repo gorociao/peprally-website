@@ -10,7 +10,7 @@ order: 1
     <iframe src="https://player.vimeo.com/video/171939446" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-## Motionographer: Join Us
+## **Motionographer: Join Us**
 Launch video for Motionographer's 10 year celebration and Patreon campaign.
 
 <div class="large-top-margin"></div>
@@ -36,7 +36,7 @@ Launch video for Motionographer's 10 year celebration and Patreon campaign.
 {: .large-top-margin}
 It's hard to say where the field of motion design would be without Justin Cone and Motionographer. So when he asked us make a video that celebrated a decade of design coverage, saying yes was a no-brainer. Together with good friends and neighbors, Slanted Studios, we flexed our character muscles and captured the artistic diversity that defines our field. 
 <br/>
-<br/>
+
 PepRally x [Slanted Studios](https://slanted.studio/)<br/>
 Directed by: Erica Gorochow and Michelle Higa Fox<br/>
 Producer: Jennifer Vance<br/>
