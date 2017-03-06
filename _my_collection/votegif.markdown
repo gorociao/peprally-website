@@ -12,7 +12,8 @@ half: third-left
 ## **VoteGif**
 [VoteGif.com](http://votegif.com) is a hub of ultra-shareable gifs to encourage Americans to register to vote in time for the 2016 election. 
 
-{: .image .half .fourth}
+
+{: .image .half .fourth .large-top-margin}
 ![]({{ site.url }}/images/06votegif/ILLINOIS.gif)
 
 {: .image .half .fourth}
