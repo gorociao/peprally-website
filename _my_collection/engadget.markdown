@@ -13,20 +13,32 @@ half: twothirds-left
 
 ## **Engadget**
 Animated branding to work across a variety of Engadget’s online shows.
+<br/>
+<br/>
+<br/>
 
 ![alt text]({{ site.url }}/images/04engadget/eg_01.jpg)
 
-![alt text]({{ site.url }}/images/04engadget/eg_02.jpg)
+{: .image .half .left}
+![]({{ site.url }}/images/04engadget/eg_01.gif)
+
+{: .image .half .right}
+![]({{ site.url }}/images/04engadget/eg_02.gif)
 
 ![alt text]({{ site.url }}/images/04engadget/eg_03.jpg)
 
-![alt text]({{ site.url }}/images/04engadget/eg_04.jpg)
+{: .image .half .left}
+![]({{ site.url }}/images/04engadget/eg_03.gif)
 
-![alt text]({{ site.url }}/images/04engadget/eg_05.jpg)
+{: .image .half .right}
+![]({{ site.url }}/images/04engadget/eg_04.gif)
 
-![alt text]({{ site.url }}/images/04engadget/eg_08.jpg)
+<!-- ![alt text]({{ site.url }}/images/04engadget/eg_waveforms.jpg) -->
 
 ![alt text]({{ site.url }}/images/04engadget/eg_10.jpg)
+<br/>
+<br/>
+<br/>
 
 
 AOL’s tech hub, Engadget, wasn’t just looking for an a broadcast packaging overhaul, they also needed a modular design system that could expand to fit their growing lineup of shows. Work shown here is the heart of that re-design, which also included a versionable kit chock full of lower thirds, mortises and paired down bumpers.

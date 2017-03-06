@@ -20,7 +20,7 @@ An addictive, minimalist game about perception.  What color do you see? <a href=
 ![]({{ site.url }}/images/03specimen/specimen_main.gif)
 
 {: .image .half .third-left .specimen}
-![]({{ site.url }}/images/03specimen/specimen_playgif.gif)
+![]({{ site.url }}/images/03specimen/specimen_playgif01.gif)
 
 {: .image .half .twothirds-right .specimen}
 ![]({{ site.url }}/images/03specimen/specimen_photo_splash.png)

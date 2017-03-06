@@ -12,6 +12,8 @@ order: 7
 
 ## **New Museum: Seasons Greetings**
 A very clean, modern and bright holiday message from New York City's most contemporary art museum.
+<br/>
+<br/>
 
 {: .large-top-margin}
 ![alt text]({{ site.url }}/images/08newmuseum/nm_01.jpg)
