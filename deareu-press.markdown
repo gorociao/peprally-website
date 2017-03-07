@@ -8,7 +8,7 @@ order: 0
 ---
 
 <div class='embed-container no-bottom-margin'>
-    <iframe src="https://player.vimeo.com/video/171939446" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/207224551?color=F11E4C&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 {: .small-links}
@@ -45,7 +45,7 @@ Our hope was to impress upon our friends in Europe that the future is writen by 
 ![]({{ site.url }}/images/eupress/de_map.jpg) Marie-Margaux Tsakiri-Scanatovits
 
 {: .image .half .left}
-![]({{ site.url }}/images/eupress/de_hats.gif) Brian Gossett / Louis Wes
+![]({{ site.url }}/images/eupress/de_hats.gif) Brian Gossett / Louis Wesolowsky
 
 {: .image .half .right}
 ![]({{ site.url }}/images/eupress/de_poison.gif) Jay Quercia
