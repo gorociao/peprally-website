@@ -25,7 +25,7 @@ Our hope was to impress upon our friends in Europe that the future is writen by 
 
 ## DIRECTOR
 <div class="person">
-  Erica Gorochow 
+  Erica Gorochow
   <a class="twitter" href="http://twitter.com/gorociao">{% include twitter.html %}</a>
   <a class="vimeo" href="https://vimeo.com/peprally">{% include vimeo.html %}</a>
 </div>
@@ -36,34 +36,64 @@ Our hope was to impress upon our friends in Europe that the future is writen by 
 ## **STILLS + GIFS**
 
 {: .image .half .left}
-![]({{ site.url }}/images/02motionographer/motion_plug.gif) byline goes here
+![]({{ site.url }}/images/eupress/de_fourtune.gif) Pablo Lozano  
 
 {: .image .half .right}
-![]({{ site.url }}/images/02motionographer/motion_freud.gif) byline goes here
+![]({{ site.url }}/images/eupress/de_democracy.gif) Ege Souyer
 
 {: .image .full}
-![]({{ site.url }}/images/02motionographer/motion_library.jpg) byline goes here
-
-{: .image .full}
-![]({{ site.url }}/images/02motionographer/motion_library.jpg) byline goes here
+![]({{ site.url }}/images/eupress/de_map.jpg) Marie-Margaux Tsakiri-Scanatovits
 
 {: .image .half .left}
-![]({{ site.url }}/images/02motionographer/motion_computer.gif) byline goes here
+![]({{ site.url }}/images/eupress/de_hats.gif) Brian Gossett / Louis Wes
 
 {: .image .half .right}
-![]({{ site.url }}/images/02motionographer/motion_car.gif) byline goes here
+![]({{ site.url }}/images/eupress/de_poison.gif) Jay Quercia
 
 {: .image .full}
-![]({{ site.url }}/images/02motionographer/motion_library.jpg) byline goes here
+![]({{ site.url }}/images/eupress/de_dart2.jpg) Freddy Arenas
 
 {: .image .half .left}
-![]({{ site.url }}/images/02motionographer/motion_computer.gif) byline goes here
+![]({{ site.url }}/images/eupress/de_leaders.gif) Kyle Strope
 
 {: .image .half .right}
-![]({{ site.url }}/images/02motionographer/motion_car.gif) byline goes here
+![]({{ site.url }}/images/eupress/de_polls.gif) Terra Henderson
 
 {: .image .full}
-![]({{ site.url }}/images/02motionographer/motion_light.jpg) byline goes here
+![]({{ site.url }}/images/eupress/de_chop.jpg) Thea Glad
+
+{: .image .full}
+![]({{ site.url }}/images/eupress/de_horse.jpg) Johnny Kelly
+
+{: .image .half .left}
+![]({{ site.url }}/images/eupress/de_web.gif) Joe Donaldson
+
+{: .image .half .right}
+![]({{ site.url }}/images/eupress/de_sea.gif) Lana Simanenkova
+
+{: .image .full}
+![]({{ site.url }}/images/eupress/de_shapes.jpg) Damien Correll
+
+{: .image .half .left}
+![]({{ site.url }}/images/eupress/de_talk.jpg) Yukai Du
+
+{: .image .half .right}
+![]({{ site.url }}/images/eupress/de_rwing.gif) Allen Laseter
+
+{: .image .full}
+![]({{ site.url }}/images/eupress/de_vote.jpg) Robin Davey
+
+{: .image .half .left}
+![]({{ site.url }}/images/eupress/de_tv.gif) Bee Grandinetti
+
+{: .image .half .right}
+![]({{ site.url }}/images/eupress/de_end.jpg) Erica Gorochow
+
+
+
+
+
+
 
 
 {: .large-top-margin }
@@ -72,10 +102,10 @@ Our hope was to impress upon our friends in Europe that the future is writen by 
 — Erica Gorochow  
 
 “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.”<br/>
-— Robin Davey 
+— Robin Davey
 
 “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.”<br/>
-— Damien Correll 
+— Damien Correll
 
 “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”<br/>
 — Yukai Du
@@ -92,15 +122,9 @@ Claudio Salas: [*The Wisdom of Pessimism*](http://motionographer.com/2015/10/27/
 
 {: .large-top-margin }
 ## **MAKING OF**
-[Shot Sheet](https://docs.google.com/spreadsheets/d/1N5A9IW2XWXsn-t3c8Qlc89-Yv5gLCgSP8TTGoViwYts/edit?usp=sharing) 
+[Shot Sheet](https://docs.google.com/spreadsheets/d/1N5A9IW2XWXsn-t3c8Qlc89-Yv5gLCgSP8TTGoViwYts/edit?usp=sharing)
 
 ![]({{ site.url }}/images/01deareurope/eu_wip.jpg)
 
 <br/>
 Want to know more? [go@peprally.co](mailto:go@peprally.co)
-
-
-
-
-
-
