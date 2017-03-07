@@ -3,7 +3,7 @@ director:
       site: http://peprally.co
       twitter: http://twitter.com/gorociao
       vimeo: https://vimeo.com/peprally
-      
+
 
 artists:
     - name: Alexandra Lund
@@ -60,13 +60,13 @@ artists:
       twitter: https://twitter.com/jayquercia
       vimeo: https://vimeo.com/jayquercia
     - name: "&nbsp;"
-      
+
 artists2:
     - name: Brian Gossett (Design)
       site: http://www.brianmichaelgossett.com/
       twitter: https://twitter.com/briangossett
       vimeo: https://vimeo.com/briangossett
-    - name: Louis Wes (Animation)
+    - name: Louis Wesolowsky (Animation)
       site: http://louiswes.com/
       twitter: https://twitter.com/louiswes
       vimeo: https://vimeo.com/louiswes
@@ -106,7 +106,7 @@ artists2:
       twitter: https://twitter.com/damiencorrell
       vimeo: https://vimeo.com/partandparcel
     - name: Adam Grabowski (Animation)
-      site: http://adamgrabowski.tv/  
+      site: http://adamgrabowski.tv/
       twitter: https://twitter.com/_grabs
       vimeo: https://vimeo.com/adamgrabowski
     - name: "&nbsp;"
@@ -114,7 +114,7 @@ artists2:
       site: http://robindavey.co.uk/
       twitter: https://twitter.com/ThatRobinDavey
       vimeo: https://vimeo.com/robindavey
-    
+
 credits:
     - title: MUSIC + SOUND DESIGN
       people:
@@ -129,14 +129,14 @@ credits:
               site: http://kkapple.com
             - name: Jordan Craig
               site: http://jordancraigportfolio.com/
-               
-    
+
+
     - title: GERMAN
       people:
           - name: Saskia Keultjes (VO)
             site: http://saskdraws.com/
             twitter: https://twitter.com/saskdraws
-    
+
     - title: DUTCH
       people:
           - name: Wouter Boon (VO)
@@ -144,11 +144,11 @@ credits:
           - name: Martin Pyper
             site: http://www.mestudio.info/
             twitter: https://twitter.com/me_studio
-                
+
     - title: FRENCH
       people:
           - name: Julie Saunders (VO)
-            twitter: 
+            twitter:
           - name: Adrien Joulie
             site: http://adrienjoulie.com/
             twitter: https://twitter.com/adrienjoulie
@@ -161,21 +161,21 @@ credits2:
     - title: THANKS
       people:
             - name: Liz Marks
-              twitter: 
+              twitter:
               site: http://liz-marks.com/
             - name: Lorenzo Fernandez
-              twitter: 
+              twitter:
             - name: Gustav Vella
-               
+
             - name: Jeroen Krielaars
-              twitter: 
+              twitter:
             - name: Bee Grandinetti
-              twitter: 
+              twitter:
             - name: Joe Donaldson
-              twitter: 
+              twitter:
             - name: Paul Murphy
-              twitter: 
+              twitter:
             - name: Ross Wariner
-              twitter: 
+              twitter:
             - name: Cody Uhler
-              twitter: 
+              twitter:
