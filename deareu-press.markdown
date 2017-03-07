@@ -84,6 +84,12 @@ Our hope was to impress upon our friends in Europe that the future is writen by 
 ![]({{ site.url }}/images/eupress/de_vote.jpg) Robin Davey
 
 {: .image .half .left}
+![]({{ site.url }}/images/eupress/de_phone.gif) Miguel Jiron
+
+{: .image .half .right}
+![]({{ site.url }}/images/eupress/de_doors.gif) Alexandra Lund
+
+{: .image .half .left}
 ![]({{ site.url }}/images/eupress/de_tv.gif) Bee Grandinetti
 
 {: .image .half .right}
