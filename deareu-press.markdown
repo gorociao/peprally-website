@@ -137,7 +137,7 @@ Following both Brexit and the US election, I was overwhelmed by a sense of the r
 
 <br/><br/>
 
-“I really hope Europeans actually go vote, not protest for a result they didn't vote for. ”<br/>
+“I really hope Europeans actually go vote, not just protest for a result they didn't vote for. ”<br/>
 — Yukai Du
 
 <br/>
