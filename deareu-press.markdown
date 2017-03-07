@@ -104,17 +104,43 @@ Our hope was to impress upon our friends in Europe that the future is writen by 
 
 {: .large-top-margin }
 ## **WHY (CONTINUED)**
-“My hope is the video will remind people how connected we are. Clicking retweet or share won’t save the world. But I think, as people who work in art and communication, we can urge caution, encourage dialogue and promote engagement. When Brexit happened, I wondered aloud how much a canary that vote was for our own election. In retrospect, I wish we could have heeded that event as more of a warning. If anything, I hope people in the US and around the world pay attention to global politics and consider a zoomed out perspective. There are many personal bubbles we should strive to bust. When I started reaching out to designers about participating in this video, I was pleasantly surprised how many also felt the need to do or say *something*. The collaborative nature of this project only underscores our collective message.”<br/>
-— Erica Gorochow  
+“My hope is the video will remind people how connected we are. Clicking retweet or share won’t save the world. But as people who work in art and communication, we can urge caution, encourage dialogue and promote engagement. When Brexit happened, I wondered aloud how much a canary that vote was for our own election. In retrospect, I wish we could have heeded that event as more of a warning. If anything, I hope people in the US and around the world pay attention to global politics and consider a zoomed out perspective. What happened last year in the US and the UK is a part of a broader mood.
 
-“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.”<br/>
+When I started reaching out to designers about participating in this video, I was pleasantly taken with how many of my peers also felt the need to do or say *something*. The collaborative nature of this project only underscores our collective message.”
+<br/>— Erica Gorochow  
+
+<br/>
+<br/>
+
+
+“In the UK, the referendum was intended to settle the debate on Europe but it only seems to have made it more caustic, and the 'winning' side seem angriest of all...
+Following both Brexit and the US election, I was overwhelmed by a sense of the relative triviality of my work, my interests, and my everyday concerns. So when asked to contribute to *Dear Europe*, I saw it as an opportunity to use whatever skills I have to engage positively with issues that can often seem insurmountably large and complex. An appeal to reason isn't in itself a solution, but it has to be a decent place to start.”<br/>
 — Robin Davey
 
-“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.”<br/>
-— Damien Correll
+<br/><br/>
 
-“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”<br/>
+
+“From my apartment I can see the statue of liberty. The morning after the election, I watched the girls of my neighborhood walk to school in their hijabs and sobbed... I'm from Texas. Most conservatives I know were appalled by Trump's rhetoric during the primaries. After the election, many of them defended their vote by saying they didn't have a choice. They had a choice. America lost because we failed to have a dialogue with the conservatives and moderates that weren't at his rallies."
+<br/>— Terra Henderson
+
+<br/><br/>
+
+"As creative professionals, we can no longer accept the status quo of leaving our social consciousness at home when go to work each day. We can no longer rely on the right-wing government to protect our interests, our health, or our planet. The stakes couldn't be higher and we must take a stand. Our hands have been trained for years at crafting concise and powerful visual communication and yet the tragedy is that when we go to work each day we are asked to use them in service of corporate overlords who continue to push the stability of our earth off a cliff so that they may improve their quarterly earnings. Our act of resistance is to re-appropriate these skills in crafting a message of warning to our European brothers and sisters from our place of hindsight; warning them to avoid the hell we've found ourselves in at all costs."
+<br/>
+— Ege Souyer
+
+<br/><br/>
+
+"When the EU referendum happened, I was stupidly not worried, to be honest. Inside my little bubble and facebook echo-chamber, I didn't know a single person that would vote to leave... [I thought] 'If it happens, it's gonna be their problem'. Wrong. Turns out it's everyone's problem... Whenever you meet someone new in London, one of the first topics is 'Where are you from?' And I love that. It's a crazy mix of people from all over the place... It breaks my heart that this might be destroyed, and I fear for a future where people are constantly reminding each other that they don't belong somewhere."
+<br/>
+—  Bee Grandinetti
+
+<br/><br/>
+
+“I really hope Europeans actually go vote, not protest for a result they didn't vote for. ”<br/>
 — Yukai Du
+
+<br/>
 
 {: .large-top-margin }
 ## **INSPIRATION**
