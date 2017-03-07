@@ -51,7 +51,7 @@ Our hope was to impress upon our friends in Europe that the future is writen by 
 ![]({{ site.url }}/images/eupress/de_poison.gif) Jay Quercia
 
 {: .image .full}
-![]({{ site.url }}/images/eupress/de_dart2.jpg) Freddy Arenas
+![]({{ site.url }}/images/eupress/de_vote.jpg) Robin Davey
 
 {: .image .half .left}
 ![]({{ site.url }}/images/eupress/de_leaders.gif) Kyle Strope
@@ -80,14 +80,14 @@ Our hope was to impress upon our friends in Europe that the future is writen by 
 {: .image .half .right}
 ![]({{ site.url }}/images/eupress/de_rwing.gif) Allen Laseter
 
-{: .image .full}
-![]({{ site.url }}/images/eupress/de_vote.jpg) Robin Davey
-
 {: .image .half .left}
 ![]({{ site.url }}/images/eupress/de_talk.jpg) Yukai Du
 
 {: .image .half .right}
 ![]({{ site.url }}/images/eupress/de_doors.gif) Alexandra Lund
+
+{: .image .full}
+![]({{ site.url }}/images/eupress/de_dart2.jpg) Freddy Arenas
 
 {: .image .half .left}
 ![]({{ site.url }}/images/eupress/de_tv.gif) Bee Grandinetti
