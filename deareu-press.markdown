@@ -75,7 +75,7 @@ Our hope was to impress upon our friends in Europe that the future is writen by 
 ![]({{ site.url }}/images/eupress/de_shapes.jpg) Damien Correll
 
 {: .image .half .left}
-![]({{ site.url }}/images/eupress/de_talk.jpg) Yukai Du
+![]({{ site.url }}/images/eupress/de_phone.gif) Miguel Jiron
 
 {: .image .half .right}
 ![]({{ site.url }}/images/eupress/de_rwing.gif) Allen Laseter
@@ -84,7 +84,7 @@ Our hope was to impress upon our friends in Europe that the future is writen by 
 ![]({{ site.url }}/images/eupress/de_vote.jpg) Robin Davey
 
 {: .image .half .left}
-![]({{ site.url }}/images/eupress/de_phone.gif) Miguel Jiron
+![]({{ site.url }}/images/eupress/de_talk.jpg) Yukai Du
 
 {: .image .half .right}
 ![]({{ site.url }}/images/eupress/de_doors.gif) Alexandra Lund
