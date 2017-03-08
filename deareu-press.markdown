@@ -39,7 +39,7 @@ Our hope was to impress upon our friends in Europe that the future is written by
 ![]({{ site.url }}/images/eupress/de_fourtune.gif) Pablo Lozano  
 
 {: .image .half .right}
-![]({{ site.url }}/images/eupress/de_democracy.gif) Ege Souyer / Nick Petley
+![]({{ site.url }}/images/eupress/de_democracy.gif) Ege Soyuer / Nick Petley
 
 {: .image .full}
 ![]({{ site.url }}/images/eupress/de_map.jpg) Marie-Margaux Tsakiri-Scanatovits
@@ -127,7 +127,7 @@ Following both Brexit and the US election, I was overwhelmed by a sense of the r
 
 "As creative professionals, we can no longer accept the status quo of leaving our social consciousness at home when go to work each day. We can no longer rely on the right-wing government to protect our interests, our health, or our planet. The stakes couldn't be higher and we must take a stand. Our hands have been trained for years at crafting concise and powerful visual communication and yet the tragedy is that when we go to work each day we are asked to use them in service of corporate overlords who continue to push the stability of our earth off a cliff so that they may improve their quarterly earnings. Our act of resistance is to re-appropriate these skills in crafting a message of warning to our European brothers and sisters from our place of hindsight; warning them to avoid the hell we've found ourselves in at all costs."
 <br/>
-— Ege Souyer
+— Ege Soyuer
 
 <br/><br/>
 
