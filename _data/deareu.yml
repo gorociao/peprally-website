@@ -45,10 +45,14 @@ artists:
       twitter: https://twitter.com/kylerogerstrope
       vimeo: https://vimeo.com/kylestrope
     - name: "&nbsp;"
-    - name: Ege Soyuer
+    - name: Ege Soyuer (Design)
       site: http://egesoyuer.com/
       twitter: https://twitter.com/egetron
       vimeo: https://vimeo.com/egege
+    - name: Nick Petley (Animation)
+      site:
+      twitter:
+      vimeo: https://vimeo.com/nickpetley
     - name: "&nbsp;"
     - name: Joe Donaldson
       site: http://www.jodie.work/
@@ -119,7 +123,7 @@ credits:
     - title: MUSIC + SOUND DESIGN
       people:
           - name: Upright T-Rex Music
-            site: http://http://uprighttrexmusic.com/
+            site: http://uprighttrexmusic.com
             twitter: https://twitter.com/uprighttrex?lang=en
 
     - title: ENGLISH VO
