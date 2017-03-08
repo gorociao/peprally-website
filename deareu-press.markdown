@@ -5,6 +5,8 @@ thumbnail: images/thumbs/DearEurope.png
 mobile-thumbnail: images/thumbs/DearEurope.png
 permalink: /deareu-press/
 order: 0
+share-image: fb_deareau.jpg
+description: Dear Europe is a collaborative video about the upcoming European elections and how lessons gleaned from Brexit and Trump, might relate.
 ---
 
 <div class='embed-container no-bottom-margin'>
