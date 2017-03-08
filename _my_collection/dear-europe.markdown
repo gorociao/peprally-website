@@ -38,7 +38,7 @@ Our hope was to impress upon our friends in Europe that the future is written by
 ![]({{ site.url }}/images/eupress/de_fourtune.gif) Pablo Lozano  
 
 {: .image .half .right}
-![]({{ site.url }}/images/eupress/de_democracy.gif) Ege Soyuer
+![]({{ site.url }}/images/eupress/de_democracy.gif) Ege Soyuer / Nick Petley
 
 {: .image .full}
 ![]({{ site.url }}/images/eupress/de_map.jpg) Marie-Margaux Tsakiri-Scanatovits
