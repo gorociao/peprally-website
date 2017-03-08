@@ -12,10 +12,10 @@ order: 0
 </div>
 
 {: .small-links}
-[Vimeo Link](https://vimeo.com/207224551) • [YouTube: English](https://youtu.be/iELamBw0-ds) • [YouTube: Dutch](https://youtu.be/_r4GCh7rsnY)  • [YouTube: French](https://youtu.be/KVML6lAZsb8)  • [YouTube: German](https://youtu.be/fkWx18Po210) • [YouTube: Mobile](https://youtu.be/ETRQhZV0Wgw)
+[Vimeo Link](https://vimeo.com/207224551) • [YouTube: English](https://youtu.be/iELamBw0-ds) • [YouTube: Dutch](https://youtu.be/_r4GCh7rsnY)  • [YouTube: French](https://youtu.be/KVML6lAZsb8)  • [YouTube: German](https://youtu.be/TllX3iKREsM) • [YouTube: Mobile](https://youtu.be/ETRQhZV0Wgw)
 
 ## **Dear Europe**
-Dear Europe is a collaborative video about the upcoming European elections and how lessons from Brexit and Trump, might relate. The piece was made by artists who call the US and the UK home. To better reach our audience, we translated the video in [Dutch](https://youtu.be/_r4GCh7rsnY), [French](https://youtu.be/KVML6lAZsb8) and [German](https://youtu.be/fkWx18Po210).
+Dear Europe is a collaborative video about the upcoming European elections and how lessons from Brexit and Trump, might relate. The piece was made by artists who call the US and the UK home. To better reach our audience, we translated the video in [Dutch](https://youtu.be/_r4GCh7rsnY), [French](https://youtu.be/KVML6lAZsb8) and [German](https://youtu.be/TllX3iKREsM).
 
 Our hope was to impress upon our friends in Europe that the future is written by those who vote.
 
