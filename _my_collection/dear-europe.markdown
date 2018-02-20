@@ -1,7 +1,7 @@
 ---
 title:  "Dear Europe"
-thumbnail: images/thumbs/DearEurope.png
-mobile-thumbnail: images/thumbs/DearEurope.png
+thumbnail: images/thumbs/deareurope.jpg
+mobile-thumbnail: images/thumbs/deareurope_mobile.jpg
 permalink: /dear-europe/
 order: 0
 ---
