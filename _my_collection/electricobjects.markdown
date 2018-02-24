@@ -4,7 +4,7 @@ thumbnail: images/thumbs/EO.jpg
 mobile-thumbnail: images/thumbs/eo_mobile.jpg
 permalink: /electric-objects/
 order: 10
-half: fourth last
+half: fourth last right
 ---
 {: .image .half}
 ![]({{ site.url }}/images/07eo/eo_jungle.gif)

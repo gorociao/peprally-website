@@ -4,7 +4,7 @@ thumbnail: images/thumbs/nyt.jpg
 mobile-thumbnail: images/thumbs/nyt_mobile.jpg
 permalink: /ny-times/
 order: 13
-half: fourth last right
+half: one-quarter last right
 ---
 
 ![alt text]({{ site.url }}/images/10nyt/NYT_composite_final.gif)

@@ -454,7 +454,8 @@ pre {
 }
 
 .home .post-list {
-  line-height: 20px;
+    line-height: 0px;
+    font-size: 0px;
 }
 
 .post-list {
@@ -525,43 +526,38 @@ pre {
       }
       &.fourth {
         display: inline-block;
-        width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 3)) * .245 );
+        width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 3)) * .25 );
         margin-right: $grid-spacing-unit;
         &.last {
           margin-right: 0px;
         }
       }
+      
+      &.one-quarter {
+        width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 2)) * .25 );
+        margin-right: $grid-spacing-unit;
+        &.last {
+          margin-right: 0px;
+        }
+      }
+      &.two-quarter {
+        width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 2)) * .5 );
+        margin-right: $grid-spacing-unit;
+      }
+      
       &.third-left {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .355 );
-        &.specimen {
-            width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .346 );
-        }
-        &.votegif {
-            width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .557 );
-        }
       }
       &.twothirds-right {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .643 );
         float: right;
-        &.specimen {
-            width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .65 );
-        }
-        &.votegif {
-            width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .44 );
-        }
       }
       &.twothirds-left {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .643 );
-        &.specimen {
-            width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .5825 );
-        }
       }
       &.third-right {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .355 );
         float: right;
-        &.specimen {
-            width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .413 );
-        }
       }
   }
   
@@ -570,8 +566,8 @@ pre {
 .post-link {
     overflow: hidden;
     display: block;
-    font-size: $home-page-font-size;
-    line-height: $home-page-font-size;
+    line-height: 0px;
+    font-size: 0px;
     position: relative;
     span {
         position: absolute;
@@ -583,6 +579,8 @@ pre {
         background: $brand-color;
         color: #fff;
         animation: animateTitleFromBottom .2s;
+        font-size: $home-page-font-size;
+        line-height: $home-page-font-size;
     }
     @media (min-width: $on-mobile) {
       &:hover {

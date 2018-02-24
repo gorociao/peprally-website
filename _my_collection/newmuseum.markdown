@@ -4,7 +4,7 @@ thumbnail: images/thumbs/newmuseum.jpg
 mobile-thumbnail: images/thumbs/newmuseum_mobile.jpg
 permalink: /new-musuem/
 order: 12
-half: left
+half: two-quarter
 ---
 
 <div class='embed-container'>

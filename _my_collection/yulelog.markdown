@@ -4,7 +4,7 @@ thumbnail: images/thumbs/yulelog.jpg
 mobile-thumbnail: images/thumbs/yulelog_mobile.jpg
 permalink: /yule-log/
 order: 4
-half: fourth last right
+half: one-quarter last right
 ---
 
 <div class='embed-container'>

@@ -4,7 +4,7 @@ thumbnail: images/thumbs/deareurope.jpg
 mobile-thumbnail: images/thumbs/deareurope_mobile.jpg
 permalink: /dear-europe/
 order: 3
-half: half
+half: two-quarter
 ---
 
 <div class='embed-container no-bottom-margin'>

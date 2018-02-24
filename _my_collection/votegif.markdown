@@ -4,7 +4,7 @@ thumbnail: images/thumbs/votegif.gif
 mobile-thumbnail: images/thumbs/votegif_mobile.gif
 permalink: /vote-gif/
 order: 2
-half: fourth left
+half: one-quarter left
 ---
 
 ![alt text]({{ site.url }}/images/06votegif/votegif_website.gif "Logo Title Text 1")
