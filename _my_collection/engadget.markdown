@@ -3,8 +3,8 @@ title:  "Engadget"
 thumbnail: images/thumbs/Engadget.jpg
 mobile-thumbnail: images/thumbs/engadget_mobile.jpg
 permalink: /engadget/
-order: 3
-half: twothirds-left
+order: 7
+half: fourth
 ---
 
 <div class='embed-container'>

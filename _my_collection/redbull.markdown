@@ -3,8 +3,8 @@ title:  "Red Bull"
 thumbnail: images/thumbs/redbull.gif
 mobile-thumbnail: images/thumbs/redbull_mobile.gif
 permalink: /red-bull-music-academy/
-order: 8
-half: left
+order: 11
+half: fourth
 ---
 
 <!-- ![alt text]({{ site.url }}/images/eo/jungle.png) -->

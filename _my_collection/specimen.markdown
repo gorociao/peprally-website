@@ -3,7 +3,8 @@ title:  "Specimen"
 thumbnail: images/thumbs/specimen.gif
 mobile-thumbnail: images/thumbs/specimen.gif
 permalink: /specimen/
-order: 2
+order: 5
+half: left
 ---
 
 <div class='embed-container'>

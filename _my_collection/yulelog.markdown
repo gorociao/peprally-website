@@ -1,10 +1,10 @@
 ---
 title:  "Yule Log"
-thumbnail: images/thumbs/yulelog_alt.jpg
+thumbnail: images/thumbs/yulelog.jpg
 mobile-thumbnail: images/thumbs/yulelog_mobile.jpg
 permalink: /yule-log/
 order: 4
-half: third-right
+half: fourth last right
 ---
 
 <div class='embed-container'>

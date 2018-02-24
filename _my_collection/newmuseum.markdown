@@ -3,7 +3,8 @@ title:  "New Museum"
 thumbnail: images/thumbs/newmuseum.jpg
 mobile-thumbnail: images/thumbs/newmuseum_mobile.jpg
 permalink: /new-musuem/
-order: 7
+order: 12
+half: left
 ---
 
 <div class='embed-container'>
