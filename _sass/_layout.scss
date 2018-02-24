@@ -568,17 +568,21 @@ pre {
 }
 
 .post-link {
+    overflow: hidden;
     display: block;
     font-size: $home-page-font-size;
-    line-height: #{$home-page-font-size / 2};
+    line-height: $home-page-font-size;
     position: relative;
     span {
         position: absolute;
         display: none;
         width: 100%;
-        top: 50%;
-        text-align: center;
-        margin-top: -#{$home-page-font-size/ 2};
+        padding: 10px;
+        bottom: 0px;
+        text-align: left;
+        background: #F16961;
+        color: #fff;
+        animation: animateTitleFromBottom .2s;
     }
     @media (min-width: $on-mobile) {
       &:hover {
@@ -588,6 +592,14 @@ pre {
           span {
               display: block;
           }
+      }
+    }
+    @keyframes animateTitleFromBottom {
+      0% {
+        bottom: -50px;
+      }
+      100% {
+        bottom: 0px;
       }
     }
 }
