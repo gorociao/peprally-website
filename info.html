@@ -375,11 +375,17 @@ permalink: /info/
                         }
                     ]
             });
-            
+                    
             var marker = new google.maps.Marker({
               position: myLatLng,
               map: map,
-              title: 'PepRally'
+              title: 'PepRally',
+              icon: {
+                url: "/images/map_marker.png",
+                size: new google.maps.Size(60, 60),
+                origin: new google.maps.Point(0, 0),
+                anchor: new google.maps.Point(25, 60)
+              }
             });
             
             marker.addListener('click', function() {
