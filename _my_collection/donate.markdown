@@ -13,9 +13,9 @@ half: fourth
 
 ## **New York State Donate Life**
 
-Character development and design for a state government campaign to encourage New Yorkers to become organ donors.
+Character development for a state government campaign to encourage New Yorkers to become organ donors.
 
-
+<br/>
 {: .image .half .left}
 ![]({{ site.url }}/images/donate/Heart.gif)
 
