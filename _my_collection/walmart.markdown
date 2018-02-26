@@ -59,7 +59,7 @@ Design: [Chris Anderson](http://anderson.tv/), [Brian Gossett](http://www.brianm
 Animation: [Seth Eckert](http://setheckert.com/), [Terra Henderson](http://www.terrahenderson.com/), [Justin Lawes](http://www.justinlawes.com/), Emanuele Colombo<br/>
 Produced: Kathryn Henderson<br/>
 Agency: Publics<br/>
-Sound: [Sono Sanctus](http://www.sonosanctus.com/)
+Sound: [Sono Sanctus](http://www.sonosanctus.com/)<br/>
 <br/>
 Holiday Campaign<br/>
 Creative Direction: Erica Gorochow, [Alex Mapar](http://www.alexmapar.com/) <br/>

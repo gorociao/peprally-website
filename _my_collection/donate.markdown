@@ -32,10 +32,10 @@ Character development for a state government campaign to encourage New Yorkers t
 {: .no-style-urls}
 Working with Lifeblood Creative Strategies, we developed a crew of characters to add a light, humorous touch to a heavy subject: a campaign to remind New Yorkers to check a box and potentially save a life.
 <br/>
+<br/>
 Creative Direction + Illustration: Erica Gorochow <br/>
 Animation: [Terra Henderson](http://terrahenderson.com), [Ana Kim](http://www.anajkim.com/), [Michelle Higa Fox](http://slanted.studio) <br/>
 Produced: Jen Vance <br/>
-<br/>
 Agency: Lifeblood Creative Strategies <br/>
 CD: Scott Tanelli <br/>
 Copywriter: Ben Lay <br/>
