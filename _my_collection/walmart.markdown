@@ -28,10 +28,10 @@ A slice of the the many campaigns we’ve worked on for America’s biggest reta
 ## **Holiday Campaign: Early Design**
 
 {: .image .full}
-![]({{ site.url }}/images/walmart/WMLineup01.jpg)
+![]({{ site.url }}/images/walmart/WMLineup02.jpg)
 
 {: .image .full}
-![]({{ site.url }}/images/walmart/WMLineup02.jpg)
+![]({{ site.url }}/images/walmart/WMLineup01.jpg)
 
 {: .image .full}
 ![]({{ site.url }}/images/walmart/WMLineup03.jpg)
