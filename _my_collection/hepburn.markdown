@@ -18,14 +18,14 @@ Titles and packaging for an M2M documentary film about Hollywood fashion icon: K
 {: .image .full}
 ![]({{ site.url }}/images/hepburn/Hepburn01.jpg)
 
-{: .image .full}
-![]({{ site.url }}/images/hepburn/Hepburn02.jpg)
-
 {: .image .half .left}
 ![]({{ site.url }}/images/hepburn/Hepburn03.jpg)
 
 {: .image .half .right}
 ![]({{ site.url }}/images/hepburn/Hepburn04.jpg)
+
+{: .image .full}
+![]({{ site.url }}/images/hepburn/Hepburn02.jpg)
 
 {: .image .half .left}
 ![]({{ site.url }}/images/hepburn/Hepburn05.jpg)
@@ -34,13 +34,14 @@ Titles and packaging for an M2M documentary film about Hollywood fashion icon: K
 ![]({{ site.url }}/images/hepburn/Hepburn06.jpg)
 
 {: .no-style-urls}
-Creative Direction & Design: Erica Gorochow
-Animation: [Terra Henderson](http://terrahenderson.com)
-Additional Design & Animation: [Nate DeYoung](http://natedeyoung.com)
-
-[Watch the Doc on m2m.com](m2m.tv/watch/six-sides-of-katharine-hepburn/feature-films)
-Film Directed by: [Nate DeYoung](http://natedeyoung.com) & [Oscar Boyson](http://oscarboyson.com)
-Graphics Directed: Nate DeYoung
-Produced by: [Neighborhood Watch](http://neighborhoodwatch.com)
-NW Producer: Traci Carlson
-Film Commissioned by: M2M
+<br/>
+Creative Direction & Design: Erica Gorochow <br/>
+Animation: [Terra Henderson](http://terrahenderson.com)<br/>
+Additional Design & Animation: [Nate DeYoung](http://natedeyoung.com)<br/>
+<br/>
+[Watch the full film on M2M.com](https://m2m.tv/watch/six-sides-of-katharine-hepburn/feature-films)<br/>
+Film Directed by: [Nate DeYoung](http://natedeyoung.com) & [Oscar Boyson](http://oscarboyson.com) <br/>
+Graphics Directed: Nate DeYoung <br/>
+Produced by: [Neighborhood Watch](http://neighborhoodwatch.tv) <br/>
+NW Producer: Traci Carlson <br/>
+Film Commissioned by: M2M <br/>

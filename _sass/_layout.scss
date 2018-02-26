@@ -146,7 +146,7 @@ pre {
       padding-right: $spacing-unit / 2;
       padding-left: $spacing-unit / 2;
     }
-    
+
     @media (min-width: $on-mobile) {
       max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
       max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
@@ -159,7 +159,7 @@ pre {
       padding-right: $spacing-unit;
       padding-left: $spacing-unit;
     }
-        
+
     @extend %clearfix;
 
     @include media-query($on-laptop) {
@@ -170,23 +170,23 @@ pre {
     }
 }
 
-.embed-container { 
-    position: relative; 
-    padding-bottom: 56.25%; 
-    height: 0; 
-    overflow: hidden; 
-    max-width: 100%; 
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
     height: auto;
     margin-bottom: #{$spacing-unit};
-} 
-.embed-container iframe, 
-.embed-container object, 
-.embed-container embed { 
-    position: absolute; 
-    top: 0; 
-    left: 0; 
-    width: 100%; 
-    height: 100%; 
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 /**
@@ -291,14 +291,14 @@ pre {
 }
 
 .site-nav {
-  
+
     float: right;
     line-height: 56px;
 
     .menu-icon {
         display: none;
     }
-    
+
     .page-link {
         color: black;
         line-height: $base-line-height;
@@ -311,7 +311,7 @@ pre {
         &:not(:last-child) {
             margin-right: 20px;
         }
-        
+
         &.vimeo,
         &.twitter {
             display: inline-block;
@@ -502,7 +502,7 @@ pre {
 }
 
 @media (min-width: $on-mobile) {
-  
+
   p.image {
     margin-bottom: $grid-spacing-unit;
     img {
@@ -532,7 +532,7 @@ pre {
           margin-right: 0px;
         }
       }
-      
+
       &.one-quarter {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 2)) * .25 );
         margin-right: $grid-spacing-unit;
@@ -544,7 +544,7 @@ pre {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 2)) * .5 );
         margin-right: $grid-spacing-unit;
       }
-      
+
       &.third-left {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .355 );
       }
@@ -560,7 +560,7 @@ pre {
         float: right;
       }
   }
-  
+
 }
 
 .post-link {

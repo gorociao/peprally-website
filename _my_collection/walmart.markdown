@@ -23,6 +23,10 @@ A slice of the the many campaigns we’ve worked on for America’s biggest reta
     <iframe src="https://player.vimeo.com/video/219922638?color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
+<br/>
+<br/>
+## **Holiday Campaign: Early Design**
+
 {: .image .full}
 ![]({{ site.url }}/images/walmart/WMLineup01.jpg)
 
@@ -48,6 +52,7 @@ A slice of the the many campaigns we’ve worked on for America’s biggest reta
 ![]({{ site.url }}/images/walmart/WM04.jpg)
 
 {: .no-style-urls}
+<br/>
 Sports + Hunger Campaign<br/>
 Creative Direction: Erica Gorochow<br/>
 Design: [Chris Anderson](http://anderson.tv/), [Brian Gossett](http://www.brianmichaelgossett.com/), [Emanuele Colombo](http://www.emanuelecolombo.it/)<br/>
@@ -55,10 +60,9 @@ Animation: [Seth Eckert](http://setheckert.com/), [Terra Henderson](http://www.t
 Produced: Kathryn Henderson<br/>
 Agency: Publics<br/>
 Sound: [Sono Sanctus](http://www.sonosanctus.com/)
-
 <br/>
 Holiday Campaign<br/>
-Creative Direction: Erica Gorochow, [Alex Mapar](http://www.alexmapar.com/)<br/>
+Creative Direction: Erica Gorochow, [Alex Mapar](http://www.alexmapar.com/) <br/>
 Design: Alex Mapar<br/>
 Additional Design: Erica Gorochow<br/>
 Animation: Terra Henderson, [Louis  Wesolowsky](http://louiswes.com/), Alex Mapar<br/>
