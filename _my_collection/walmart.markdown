@@ -4,7 +4,7 @@ thumbnail: images/thumbs/walmart.jpg
 mobile-thumbnail: images/thumbs/walmart_mobile.jpg
 permalink: /walmart/
 order: 7
-half: half-right
+half: right
 ---
 
 <div class='embed-container'>
