@@ -29,6 +29,7 @@ Character development for a state government campaign to encourage New Yorkers t
 
 
 {: .no-style-urls}
+<br/>
 Working with Lifeblood Creative Strategies, we developed a crew of characters to add a light, humorous touch to a heavy subject: a campaign to remind New Yorkers to check a box and potentially save a life.
 <br/>
 <br/>
