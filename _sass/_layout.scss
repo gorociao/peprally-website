@@ -524,6 +524,7 @@ pre {
 
   .half {
       width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .5 );
+      width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .5 );
       display: inline-block;
       &.right {
           float: right;
@@ -531,6 +532,7 @@ pre {
       &.third {
         display: inline-block;
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 3)) * .325 );
+        width: calc( (100% - (#{$grid-spacing-unit} * 3)) * .325 );
         margin-right: $grid-spacing-unit;
         &.last {
           margin-right: 0px;
@@ -539,6 +541,7 @@ pre {
       &.fourth {
         display: inline-block;
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 3)) * .25 );
+        width: calc( (100% - (#{$grid-spacing-unit} * 3)) * .25 );
         margin-right: $grid-spacing-unit;
         &.last {
           margin-right: 0px;
@@ -547,6 +550,7 @@ pre {
 
       &.one-quarter {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 2)) * .25 );
+        width: calc( (100% - (#{$grid-spacing-unit} * 2)) * .25 );
         margin-right: $grid-spacing-unit;
         &.last {
           margin-right: 0px;
@@ -554,51 +558,66 @@ pre {
       }
       &.two-quarter {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 2)) * .5 );
+        width: calc( (100% - (#{$grid-spacing-unit} * 2)) * .5 );
         margin-right: $grid-spacing-unit;
       }
 
       &.third-left {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .355 );
+        width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .355 );
         &.specimen {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .346 );
+            width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .346 );;
         }
         &.votegif {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .557 );
+            width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .557 );
         }
         &.donate {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .465 );
+            width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .465 );
         }
       }
       &.twothirds-right {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .643 );
+        width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .643 );
         float: right;
         &.specimen {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .65 );
+            width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .65 );
         }
         &.votegif {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .44 );
+            width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .44 );
         }
         &.donate {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .535 );
+            width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .535 );
         }
       }
       &.twothirds-left {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .643 );
+        width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .643 );
         &.specimen {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .5825 );
+            width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .5825 );
         }
         &.donate {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .570 );
+            width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .570 );
         }
       }
       &.third-right {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .355 );
+        width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .355 );
         float: right;
         &.specimen {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .413 );
+            width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .413 );
         }
         &.donate {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .428 );
+            width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .428 );
         }
       }
   }
