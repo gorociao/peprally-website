@@ -3,7 +3,7 @@ title:  "New York Times"
 thumbnail: images/thumbs/nyt.jpg
 mobile-thumbnail: images/thumbs/nyt_mobile.jpg
 permalink: /ny-times/
-order: 13
+order: 14
 half: one-quarter last right
 ---
 
