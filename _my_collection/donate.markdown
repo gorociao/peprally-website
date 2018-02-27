@@ -13,19 +13,18 @@ half: fourth
 
 ## **New York State Donate Life**
 
-Character development for a state government campaign to encourage New Yorkers to become organ donors.
+Character development for a state government campaign to encourage New Yorkers to become organ donors.<br/>
 
-<br/>
-{: .image .half .left}
+{: .image .half .left .third-left .donate}
 ![]({{ site.url }}/images/donate/Heart.gif)
 
-{: .image .half .right}
+{: .image .half .right .twothirds-right .donate}
 ![]({{ site.url }}/images/donate/Lungs.gif)
 
-{: .image .half .left}
+{: .image .half .left .twothirds-left .donate}
 ![]({{ site.url }}/images/donate/Kidneys.gif)
 
-{: .image .half .right}
+{: .image .half .right .third-right .donate}
 ![]({{ site.url }}/images/donate/Intestines.gif)
 
 

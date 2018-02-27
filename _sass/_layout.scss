@@ -12,7 +12,10 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;;
+    p {
+        font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    }
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
@@ -21,6 +24,10 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+    
+    .post-content {
+        font-size: 0px; /* For grid issues */
+    }
 }
 
 
@@ -509,6 +516,11 @@ pre {
       margin-bottom: 0px;
     }
   }
+  
+  .no-text {
+      font-size: 0px;
+      line-height: 0px;
+  }
 
   .half {
       width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .5 );
@@ -553,6 +565,9 @@ pre {
         &.votegif {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .557 );
         }
+        &.donate {
+            width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .465 );
+        }
       }
       &.twothirds-right {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .643 );
@@ -563,11 +578,17 @@ pre {
         &.votegif {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .44 );
         }
+        &.donate {
+            width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .535 );
+        }
       }
       &.twothirds-left {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .643 );
         &.specimen {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .5825 );
+        }
+        &.donate {
+            width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .570 );
         }
       }
       &.third-right {
@@ -575,6 +596,9 @@ pre {
         float: right;
         &.specimen {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .413 );
+        }
+        &.donate {
+            width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .428 );
         }
       }
   }
