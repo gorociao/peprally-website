@@ -4,20 +4,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  
+
   {% if page.description %}
   <meta name="description" content="{{ page.description }}">
   {% else %}
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   {% endif %}
-  
+
   <link rel="shortcut icon" href="{{site.url}}/images/prfavi.ico" />
-    
+
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,600" rel="stylesheet">
 
   <link rel="stylesheet" href="{{ "/css/main.css?v=1" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -42,7 +42,7 @@
   {% if page.description %}
   <meta name="twitter:description" content="{{page.description}}">
   {% endif %}
-  <meta name="twitter:image" content="http://votegif.com/SOCIAL.gif">
+  <meta name="twitter:image" content="http://peprally.co//images/eupress/de_vote.jpg">
   <meta name="twitter:site" content="@gorociao">
   <meta name="twitter:url" content="{{site.url}}/images/{% if page.share-image %}{{page.share-image}}{%else%}fb_peprally.jpg{% endif %}">
 
