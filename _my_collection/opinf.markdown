@@ -2,7 +2,7 @@
 title:  "Coming Soon"
 thumbnail: images/thumbs/OpInf.jpg
 mobile-thumbnail: images/thumbs/opinf_mobile.jpg
-permalink: /opinf/
+permalink: /#/
 order: 1
 half: right
 ---
@@ -20,19 +20,19 @@ Titles and packaging for an M2M documentary film about Hollywood fashion icon: K
 ![]({{ site.url }}/images/opinf/04.jpg)
 
 {: .image .half .left}
-![]({{ site.url }}/images/hepburn/02.jpg)
+![]({{ site.url }}/images/opinf/02.jpg)
 
 {: .image .half .right}
-![]({{ site.url }}/images/hepburn/03.jpg)
+![]({{ site.url }}/images/opinf/03.jpg)
 
 {: .image .full}
-![]({{ site.url }}/images/hepburn/Hepburn05.jpg)
+![]({{ site.url }}/images/opinf/05.jpg)
 
 {: .image .half .left}
-![]({{ site.url }}/images/hepburn/Hepburn06.jpg)
+![]({{ site.url }}/images/opinf/06.jpg)
 
 {: .image .half .right}
-![]({{ site.url }}/images/hepburn/Hepburn07.jpg)
+![]({{ site.url }}/images/opinf/07.jpg)
 
 {: .no-style-urls}
 <br/>
