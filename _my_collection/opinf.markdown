@@ -8,12 +8,12 @@ half: right
 ---
 
 <div class='embed-container'>
- <iframe src="https://player.vimeo.com/266593671?loop=1&color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+ <iframe src="https://player.vimeo.com/video/266593671?loop=1&color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 ## **Operation Infektion**
 
-Titles and packaging for an M2M documentary film about Hollywood fashion icon: Kate the Great.
+Info to come.
 
 
 {: .image .full}
