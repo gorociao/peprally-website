@@ -10,7 +10,7 @@ layout: index
         <li class="{% if post.half %}half {{ post.half }}{% endif %}">
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                 <img src="{{ post.thumbnail }}" class="fadein" onload="this.classList.add('is-active');" />
-                <img src="{{ post.mobile-thumbnail }}" class="mobile fadein" />
+                <img src="{{ post.mobile-thumbnail }}" class="mobile fadein" onload="this.classList.add('is-active');" />
                 <span>{{ post.title }}</span>
             </a>
         </li>
