@@ -465,6 +465,14 @@ pre {
     font-size: 0px;
 }
 
+.fadein {
+  opacity: 0;
+}
+.fadein.is-active {
+  opacity: 1;
+  transition: all ease 1s;
+}
+
 .post-list {
     margin-left: 0;
     list-style: none;
@@ -667,6 +675,7 @@ pre {
 .back-to-projects {
     margin-top: $spacing-unit * 1.5;
 }
+
 
 
 /**
