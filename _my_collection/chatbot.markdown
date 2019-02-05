@@ -1,8 +1,8 @@
 ---
-title:  "The New York Times"
+title:  "Chatbot"
 thumbnail: images/thumbs/opinfketion.jpg
 mobile-thumbnail: images/thumbs/opinfketion.jpg
-permalink: /opinf/
+permalink: /#/
 order: 1
 half: right
 ---
