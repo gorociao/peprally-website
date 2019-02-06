@@ -22,6 +22,7 @@ collections:
   my_collection:
     output: true
 
+
 defaults:
   - scope:
       path: ""
