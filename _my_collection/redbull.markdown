@@ -13,7 +13,7 @@ half: one-quarter
 </div> -->
 
 <div class='embed-container'>
- <iframe src="https://player.vimeo.com/video/67315445?color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+ <iframe src="https://player.vimeo.com/video/315677297?color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 ## **Red Bull Music Academy: Sound Bites**
@@ -21,11 +21,11 @@ A series of videos to celebrate the immense talented that lectured at the Red Bu
 
 
 <div class='embed-container large-top-margin'>
-    <iframe src="https://player.vimeo.com/video/67257243?color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/315674767?color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 <div class='embed-container'>
-    <iframe src="https://player.vimeo.com/video/67911257?color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/315679409?color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 {: .image .half .left}
