@@ -3,7 +3,7 @@ title:  "Electric Objects"
 thumbnail: images/thumbs/EO.jpg
 mobile-thumbnail: images/thumbs/eo_mobile.jpg
 permalink: /electric-objects/
-order: 11
+order: 14
 half: fourth last right
 ---
 {: .image .half}
