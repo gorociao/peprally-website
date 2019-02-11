@@ -534,8 +534,12 @@ pre {
       width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .5 );
       width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .5 );
       display: inline-block;
+      &.left {
+        margin-right: 13px;
+      }
       &.right {
-          float: right;
+//          float: right;
+        //margin-left: 13px;
       }
       &.third {
         display: inline-block;

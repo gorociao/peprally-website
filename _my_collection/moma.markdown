@@ -3,7 +3,7 @@ title:  "Coming Soon"
 thumbnail: images/thumbs/moma03.jpg
 mobile-thumbnail: images/thumbs/moma_mobile01.jpg
 permalink: /#/
-order: 10
+order: 9
 half: two-quarter
 ---
 
