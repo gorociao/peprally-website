@@ -4,7 +4,7 @@ thumbnail: images/thumbs/opinfketion.jpg
 mobile-thumbnail: images/thumbs/opinfketion.jpg
 permalink: /opinf/
 order: 1
-half: right
+half: left
 ---
 
 <div class='embed-container'>

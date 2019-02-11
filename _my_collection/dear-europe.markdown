@@ -3,7 +3,7 @@ title:  "Dear Europe"
 thumbnail: images/thumbs/deareurope.jpg
 mobile-thumbnail: images/thumbs/deareurope_mobile.jpg
 permalink: /dear-europe/
-order: 3
+order: 4
 half: two-quarter
 ---
 
