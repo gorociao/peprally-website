@@ -1,10 +1,10 @@
 ---
 title:  "Red Bull"
-thumbnail: images/thumbs/redbull.gif
+thumbnail: images/thumbs/redbull_new.jpg
 mobile-thumbnail: images/thumbs/redbull_mobile.gif
 permalink: /red-bull-music-academy/
-order: 12
-half: one-quarter
+order: 11
+half: left
 ---
 
 <!-- ![alt text]({{ site.url }}/images/eo/jungle.png) -->

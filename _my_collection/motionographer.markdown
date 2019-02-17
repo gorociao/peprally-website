@@ -3,8 +3,8 @@ title:  "Motionographer"
 thumbnail: images/thumbs/Motionographer.gif
 mobile-thumbnail: images/thumbs/Motionographer.gif
 permalink: /motionographer/
-order: 0
-half: left
+order: 2
+half: right
 ---
 
 <div class='embed-container'>

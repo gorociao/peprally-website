@@ -3,8 +3,8 @@ title:  "Yule Log"
 thumbnail: images/thumbs/yulelog.jpg
 mobile-thumbnail: images/thumbs/yulelog_mobile.jpg
 permalink: /yule-log/
-order: 4
-half: one-quarter last right
+order: 14
+half: fourth
 ---
 
 <div class='embed-container'>

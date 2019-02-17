@@ -3,8 +3,8 @@ title:  "Future Now"
 thumbnail: images/thumbs/FN_thumb.jpg
 mobile-thumbnail: images/thumbs/FN_mobile.jpg
 permalink: /futurenow/
-order: 11
-half: fourth last right
+order: 8
+half: fourth left
 ---
 <div class='embed-container'>
  <iframe src="https://player.vimeo.com/video/276776307?loop=0&color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

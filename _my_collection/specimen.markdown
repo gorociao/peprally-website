@@ -3,7 +3,7 @@ title:  "Specimen"
 thumbnail: images/thumbs/specimen.gif
 mobile-thumbnail: images/thumbs/specimen.gif
 permalink: /specimen/
-order: 5
+order: 6
 half: left
 ---
 

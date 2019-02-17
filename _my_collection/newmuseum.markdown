@@ -1,10 +1,10 @@
 ---
 title:  "New Museum"
-thumbnail: images/thumbs/newmuseum.jpg
+thumbnail: images/thumbs/newmuseum_1380.jpg
 mobile-thumbnail: images/thumbs/newmuseum_mobile.jpg
 permalink: /new-musuem/
-order: 13
-half: two-quarter
+order: 12
+half: right
 ---
 
 <div class='embed-container'>

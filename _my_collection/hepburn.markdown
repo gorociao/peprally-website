@@ -3,8 +3,8 @@ title:  "M2M"
 thumbnail: images/thumbs/hepburn.jpg
 mobile-thumbnail: images/thumbs/hepburn_mobile.jpg
 permalink: /hepburn/
-order: 9
-half: fourth
+order: 5
+half: one-quarter last right
 ---
 <div class='embed-container'>
  <iframe src="https://player.vimeo.com/video/256810510?loop=1&color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
