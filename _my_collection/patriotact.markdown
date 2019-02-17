@@ -1,7 +1,7 @@
 ---
-title:  "Coming Soon"
+title:  "Patriot Act: Coming Soon"
 thumbnail: images/thumbs/PatriotAct.jpg
-mobile-thumbnail: images/thumbs/PatriotAct_mobile.jpg
+mobile-thumbnail: images/thumbs/PatriotAct_mobile_CS.jpg
 permalink: /#/
 order: 0
 half:

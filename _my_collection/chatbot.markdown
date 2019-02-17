@@ -1,7 +1,7 @@
 ---
-title:  "Coming Soon"
-thumbnail: images/thumbs/chatbot.gif
-mobile-thumbnail: images/thumbs/chatbot_mobile.gif
+title:  "IDEO.ORG: Coming Soon"
+thumbnail: images/thumbs/chatbot_alt.gif
+mobile-thumbnail: images/thumbs/chatbot_mobile_CS.gif
 permalink: /#/
 order: 3
 half: one-quarter left
