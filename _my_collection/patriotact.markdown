@@ -2,96 +2,131 @@
 title:  "Patriot Act: Coming Soon"
 thumbnail: images/thumbs/PatriotAct.jpg
 mobile-thumbnail: images/thumbs/PatriotAct_mobile_CS.jpg
-permalink: /#/
+permalink: /patriotact/
 order: 0
 half:
 ---
 <div class='embed-container no-bottom-margin'>
-<iframe width="1250" height="703" src="https://www.youtube.com/embed/zm5QVcTI2I8" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/318011649#t=0m16s" width="1250" height="703" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-## **Patriot Act with Hasan Minaj**
-Dear Europe is a collaborative video about the upcoming European elections and how lessons gleaned from Brexit and Trump, might relate. The piece was made by artists who call the US and the UK home. To better reach our audience, we translated the video in [Dutch](https://youtu.be/_r4GCh7rsnY), [French](https://youtu.be/KVML6lAZsb8) and [German](https://youtu.be/TllX3iKREsM).
+## **Patriot Act with Hasan Minaj: Graphic Bible for Pilot**
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat
+<br/>
+<br/>
 
-Our hope was to impress upon our friends in Europe that the future is written by those who vote.
 
+{: .image .half .left}
+![]({{ site.url }}/images/patriotact/gif/final00.gif)  
+
+{: .image .half .right}
+![]({{ site.url }}/images/patriotact/gif/final04.gif)
+
+{: .image .half .left}
+![]({{ site.url }}/images/patriotact/gif/final03.gif)  
+
+{: .image .half .right}
+![]({{ site.url }}/images/patriotact/gif/final07.gif)
+
+{: .image .half .left}
+![]({{ site.url }}/images/patriotact/gif/final05.gif)  
+
+{: .image .half .right}
+![]({{ site.url }}/images/patriotact/gif/final02.gif)
 
 {: .large-top-margin }
 
-
-## DIRECTOR
-<div class="person">
-  Erica Gorochow
-  <a class="twitter" href="http://twitter.com/gorociao">{% include twitter.html %}</a>
-  <a class="vimeo" href="https://vimeo.com/peprally">{% include vimeo.html %}</a>
+## **FINAL SELECTS FROM THE GRAPHICS BIBLE**
+<div class='embed-container no-bottom-margin'>
+<iframe src="https://player.vimeo.com/video/334021244" width="1250" height="553" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-{% include deareu-credits.html %}
-
-{: .large-top-margin}
-## **STILLS + GIFS**
+{: .image. full}
+![]({{ site.url }}/images/patriotact/gif/sizzle2.gif)  
 
 {: .image .half .left}
-![]({{ site.url }}/images/eupress/de_fourtune.gif) Pablo Lozano  
+![]({{ site.url }}/images/patriotact/01_jokerun.gif)  
 
 {: .image .half .right}
-![]({{ site.url }}/images/eupress/de_democracy.gif) Ege Soyuer / Nick Petley
-
-{: .image .full}
-![]({{ site.url }}/images/eupress/de_map.jpg) Marie-Margaux Tsakiri-Scanatovits
+![]({{ site.url }}/images/patriotact/02_fieldpiece.gif)
 
 {: .image .half .left}
-![]({{ site.url }}/images/eupress/de_hats.gif) Brian Gossett / Louis Wesolowsky
+![]({{ site.url }}/images/patriotact/03_pullquote.gif)  
 
 {: .image .half .right}
-![]({{ site.url }}/images/eupress/de_poison.gif) Jay Quercia
-
-{: .image .full}
-![]({{ site.url }}/images/eupress/de_vote.jpg) Robin Davey
+![]({{ site.url }}/images/patriotact/04_bigquote.gif)  
 
 {: .image .half .left}
-![]({{ site.url }}/images/eupress/de_leaders.gif) Kyle Strope
+![]({{ site.url }}/images/patriotact/05_state.gif)
 
 {: .image .half .right}
-![]({{ site.url }}/images/eupress/de_polls.gif) Terra Henderson
+![]({{ site.url }}/images/patriotact/06_country.gif)  
 
-{: .image .full}
-![]({{ site.url }}/images/eupress/de_chop.jpg) Thea Glad
+<br/>
 
-{: .image .full}
-![]({{ site.url }}/images/eupress/de_horse.jpg) Johnny Kelly
+
+## **SAMPLE EPISODE KEYS**
+Guides for future episodes
+<br/>
 
 {: .image .half .left}
-![]({{ site.url }}/images/eupress/de_web.gif) Joe Donaldson
+![]({{ site.url }}/images/patriotact/key/01.jpg)  
 
 {: .image .half .right}
-![]({{ site.url }}/images/eupress/de_sea.gif) Lana Simanenkova
-
-{: .image .full}
-![]({{ site.url }}/images/eupress/de_shapes.jpg) Damien Correll
+![]({{ site.url }}/images/patriotact/key/02.jpg)
 
 {: .image .half .left}
-![]({{ site.url }}/images/eupress/de_phone.gif) Miguel Jiron
+![]({{ site.url }}/images/patriotact/key/03.jpg)  
 
 {: .image .half .right}
-![]({{ site.url }}/images/eupress/de_rwing.gif) Allen Laseter
+![]({{ site.url }}/images/patriotact/key/04.jpg)
 
 {: .image .half .left}
-![]({{ site.url }}/images/eupress/de_talk.jpg) Yukai Du
+![]({{ site.url }}/images/patriotact/key/05.jpg)  
 
 {: .image .half .right}
-![]({{ site.url }}/images/eupress/de_doors.gif) Alexandra Lund
+![]({{ site.url }}/images/patriotact/key/06.jpg)
 
-{: .image .full}
-![]({{ site.url }}/images/eupress/de_dart2.jpg) Freddy Arenas
-
-{: .image .half .left}
-![]({{ site.url }}/images/eupress/de_tv.gif) Bee Grandinetti
-
-{: .image .half .right}
-![]({{ site.url }}/images/eupress/de_end.jpg) Erica Gorochow
 <br/>
 <br/>
 
+## **INITIAL DESIGN EXPLORATION**
+Early style frames that evolved into the eventual Microfiche look
 <br/>
-Want to know even more? See the [press kit](http://deareu.com)!
+
+{: .image .full}
+![]({{ site.url }}/images/patriotact/1stPhase/Main01.jpg)
+{: .image .full}
+![]({{ site.url }}/images/patriotact/1stPhase/Title01.jpg)
+{: .image .full}
+![]({{ site.url }}/images/patriotact/1stPhase/Title02.jpg)  
+{: .image .full}
+![]({{ site.url }}/images/patriotact/1stPhase/DataViz.jpg)       
+
+
+{: .no-style-urls}
+<br/>
+Graphics and Bible Phase<br/>
+A 435 Project: Made in collaboration with [Slanted Studios](http://slanted.studio)<br/>
+Creative Direction: Erica Gorochow <br/>
+ECD: Michelle Higa Fox <br/>
+Producer: [Jen Vance](http://meanflow.party) <br/>
+Design and Animation: Erica Gorochow, [Phil Sierzega](http://stewardesslollipop.com), [Michele Graphieti](http://www.graphieti.com/), [Jerry Liu](http://www.jerryliustudio.com/), [Eddie Song](http://eddiesong.com), [Christopher Mennuto](https://www.mennuto.com/), Brendan Roche,  [Stephanie Swart](http://stephanieswart.com/) <br/>
+Design Exploration: [Tony Zagoraios](http://www.artonemotion.com/), [Elliot Blanchard](http://invisiblelightnetwork.com/), [Erin Kilkenny](http://www.erinkilkenny.com/), [Guillaume Combeaud](http://www.guillaumecombeaud.com/), [Michael Batista](https://www.michaelbatista.com/) <br/>
+Additional Direction: Sam Spratt<br/>
+<br/>
+Show Creative Direction: Michelle Higa Fox <br/>
+Show Art Director: Jorge Luis Peschiera <br/>
+Show Animation Director: Yussef Cole <br/>
+Show Graphics Crew: Paris London Glickman, Brandon Sugiyama, Tynesha Foreman, Lizzi Stuart, Alex Pope, Ryan Mauskopf, Dorca Musseb, James Zanoni, Rachael Park, Riaan Weyers, John Hughes, Jaimie Van Dyke, Gregory Bloxham, Rodd McLaughlin, Zak Haywood <br/>
+<br/>
+Host and EP: Hasan Minaj<br/>
+Show Runner: Jim Margolis<br/>
+Show Production Co: [Art and Industry](http://www.artandindustryinc.com/)<br/>
+LED Screens: [5TEN](https://www.510visuals.com/patriot-act)<br/>
+<br/>
+
+
+
+
+<br/>
