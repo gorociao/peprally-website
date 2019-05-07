@@ -1,7 +1,7 @@
 ---
 title:  "Netflix: Patriot Act"
 thumbnail: images/thumbs/PatriotAct.jpg
-mobile-thumbnail: images/thumbs/PatriotAct_mobile_CS.jpg
+mobile-thumbnail: images/thumbs/PatriotAct_mobile.jpg
 permalink: /patriotact/
 order: 0
 half:
