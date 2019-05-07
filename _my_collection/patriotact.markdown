@@ -110,7 +110,7 @@ Graphics and Bible Phase<br/>
 A 435 Project: Made in collaboration with [Slanted Studios](http://slanted.studio)<br/>
 Creative Direction: Erica Gorochow <br/>
 ECD: Michelle Higa Fox <br/>
-Producer: [Jen Vance](http://meanflow.party) <br/>
+Producer: [Jennifer Vance](http://meanflow.party) <br/>
 Design and Animation: Erica Gorochow, [Phil Sierzega](http://stewardesslollipop.com), [Michele Graphieti](http://www.graphieti.com/), [Jerry Liu](http://www.jerryliustudio.com/), [Eddie Song](http://eddiesong.com), [Christopher Mennuto](https://www.mennuto.com/), Brendan Roche,  [Stephanie Swart](http://stephanieswart.com/) <br/>
 Design Exploration: [Tony Zagoraios](http://www.artonemotion.com/), [Elliot Blanchard](http://invisiblelightnetwork.com/), [Erin Kilkenny](http://www.erinkilkenny.com/), [Guillaume Combeaud](http://www.guillaumecombeaud.com/), [Michael Batista](https://www.michaelbatista.com/) <br/>
 Additional Direction: Sam Spratt<br/>
