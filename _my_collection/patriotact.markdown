@@ -124,6 +124,7 @@ Host and EP: Hasan Minaj<br/>
 Show Runner: Jim Margolis<br/>
 Show Production Co: [Art and Industry](http://www.artandindustryinc.com/)<br/>
 LED Screens: [5TEN](https://www.510visuals.com/patriot-act)<br/>
+Opening Titles: Elastic
 <br/>
 
 
