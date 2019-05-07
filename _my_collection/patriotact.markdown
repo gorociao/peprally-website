@@ -43,8 +43,12 @@ Our main end deliverable was a massive deck that laid out the overall graphics v
 <iframe src="https://player.vimeo.com/video/334021244" width="1250" height="553" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-{: .image. full}
-![]({{ site.url }}/images/patriotact/bible/sizzle.gif)  
+<div class='embed-container no-bottom-margin'>
+<iframe src="https://player.vimeo.com/video/334756299?autoplay=1&loop=1" width="1250" height="430" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+ <!-- {: .image. full} -->
+<!-- // ![]({{ site.url }}/images/patriotact/bible/sizzle.gif)   -->
 
 {: .image .half .left}
 ![]({{ site.url }}/images/patriotact/bible/jokerun.gif)  
