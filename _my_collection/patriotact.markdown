@@ -42,25 +42,25 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 </div>
 
 {: .image. full}
-![]({{ site.url }}/images/patriotact/gif/sizzle2.gif)  
+![]({{ site.url }}/images/patriotact/bible/sizzle.gif)  
 
 {: .image .half .left}
-![]({{ site.url }}/images/patriotact/01_jokerun.gif)  
+![]({{ site.url }}/images/patriotact/bible/jokerun.gif)  
 
 {: .image .half .right}
-![]({{ site.url }}/images/patriotact/02_fieldpiece.gif)
+![]({{ site.url }}/images/patriotact/bible/fieldpiece.gif)
 
 {: .image .half .left}
-![]({{ site.url }}/images/patriotact/03_pullquote.gif)  
+![]({{ site.url }}/images/patriotact/bible/bigquote.gif)  
 
 {: .image .half .right}
-![]({{ site.url }}/images/patriotact/04_bigquote.gif)  
+![]({{ site.url }}/images/patriotact/bible/simplequote.gif)  
 
 {: .image .half .left}
-![]({{ site.url }}/images/patriotact/05_state.gif)
+![]({{ site.url }}/images/patriotact/bible/state.gif)
 
 {: .image .half .right}
-![]({{ site.url }}/images/patriotact/06_country.gif)  
+![]({{ site.url }}/images/patriotact/bible/country.gif)  
 
 <br/>
 
