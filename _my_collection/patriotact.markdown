@@ -37,7 +37,7 @@ Patriot Act with Hasan Minaj is a weekly show that slices through global politic
 {: .large-top-margin }
 
 ## **FINAL SELECTS FROM THE GRAPHICS BIBLE**
-Our main end deliverable was a massive deck that laid out the overall graphics vision for the show: a roadmap for both Netflix and the eventual show staff. Here is a behind the scenes look at select pieces within that graphics bible. These were designed against a work-in-progress script, which became the pilot episode. The goal was to make the stage feel dimensional, dramatic and all encompassing. At the same time, the graphics had to be designed with flexibility in mind, to account for the weekly churn of the show’s schedule. One of the biggest biggest challenges was how to demonstrate taking advantage of the highly custom, four sided stage.
+Our main end deliverable was a massive deck that laid out the overall graphics vision for the show: a roadmap for both Netflix and the eventual show staff. We dubbed the graphics system, "Microfiche" - an ode to the investigative nature of the show. The selects below are just a sample of the overall graphics bible, which were designed against a work-in-progress version of the pilot episode. The goal was to make the stage feel dimensional, dramatic and all encompassing. At the same time, the graphics had to be designed with flexibility in mind, to account for the weekly churn of the show’s schedule. One of the biggest biggest challenges was how to demonstrate taking advantage of the highly custom, four sided stage.
 <div class='embed-container no-bottom-margin'>
 <iframe src="https://player.vimeo.com/video/334021244" width="1250" height="553" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
