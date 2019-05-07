@@ -11,7 +11,7 @@ half:
 </div>
 
 ## **Patriot Act with Hasan Minaj: Graphic Bible for Pilot**
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat
+Patriot Act with Hasan Minaj is a weekly show that slices through global politics and culture with the help of an all-encompassing LED backdrop. Or as Hasan puts it, “it’s like Michael Bay made a powerpoint.” The stage’s graphics were designed to be an a modern visual orchestra, with Hasan playing maestro. Prior to the premiere, we worked to establish the show’s overall look and feel. The bottom clips are from the final product. Scroll further to see the original concept work.
 <br/>
 <br/>
 
@@ -37,6 +37,7 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 {: .large-top-margin }
 
 ## **FINAL SELECTS FROM THE GRAPHICS BIBLE**
+Our main end deliverable was a massive deck that laid out the overall graphics vision for the show: a roadmap for both Netflix and the eventual show staff. Here is a behind the scenes look at select pieces within that graphics bible. These were designed against a work-in-progress script, which became the pilot episode. The goal was to make the stage feel dimensional, dramatic and all encompassing. At the same time, the graphics had to be designed with flexibility in mind, to account for the weekly churn of the show’s schedule. One of the biggest biggest challenges was how to demonstrate taking advantage of the highly custom, four sided stage.
 <div class='embed-container no-bottom-margin'>
 <iframe src="https://player.vimeo.com/video/334021244" width="1250" height="553" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
