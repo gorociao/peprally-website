@@ -1,5 +1,5 @@
 ---
-title:  "Patriot Act: Coming Soon"
+title:  "Netflix: Patriot Act"
 thumbnail: images/thumbs/PatriotAct.jpg
 mobile-thumbnail: images/thumbs/PatriotAct_mobile_CS.jpg
 permalink: /patriotact/
