@@ -17,22 +17,22 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 
 
 {: .image .half .left}
-![]({{ site.url }}/images/patriotact/gif/final00.gif)  
+![]({{ site.url }}/images/patriotact/show/final00.gif)  
 
 {: .image .half .right}
-![]({{ site.url }}/images/patriotact/gif/final04.gif)
+![]({{ site.url }}/images/patriotact/show/final04.gif)
 
 {: .image .half .left}
-![]({{ site.url }}/images/patriotact/gif/final03.gif)  
+![]({{ site.url }}/images/patriotact/show/final03.gif)  
 
 {: .image .half .right}
-![]({{ site.url }}/images/patriotact/gif/final07.gif)
+![]({{ site.url }}/images/patriotact/show/final07.gif)
 
 {: .image .half .left}
-![]({{ site.url }}/images/patriotact/gif/final05.gif)  
+![]({{ site.url }}/images/patriotact/show/final05.gif)  
 
 {: .image .half .right}
-![]({{ site.url }}/images/patriotact/gif/final02.gif)
+![]({{ site.url }}/images/patriotact/show/final02.gif)
 
 {: .large-top-margin }
 
