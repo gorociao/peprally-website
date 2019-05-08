@@ -72,7 +72,7 @@ Our main end deliverable was a massive deck that laid out the overall graphics v
 
 
 ## **SAMPLE EPISODE KEYS**
-Guides for future episodes
+Sample Guides for hypothetical, future episodes
 <br/>
 
 {: .image .half .left}
@@ -112,24 +112,31 @@ Early style frames that evolved into the eventual Microfiche look
 
 {: .no-style-urls}
 <br/>
-Graphics and Bible Phase<br/>
+Patriot Act: Graphics Show Bible<br/>
 A 435 Project: Made in collaboration with [Slanted Studios](http://slanted.studio)<br/>
 Creative Direction: Erica Gorochow <br/>
 ECD: Michelle Higa Fox <br/>
 Producer: [Jennifer Vance](http://meanflow.party) <br/>
 Design and Animation: Erica Gorochow, [Phil Sierzega](http://stewardesslollipop.com), [Michele Graphieti](http://www.graphieti.com/), [Jerry Liu](http://www.jerryliustudio.com/), [Eddie Song](http://eddiesong.com), [Christopher Mennuto](https://www.mennuto.com/), Brendan Roche,  [Stephanie Swart](http://stephanieswart.com/) <br/>
 Design Exploration: [Tony Zagoraios](http://www.artonemotion.com/), [Elliot Blanchard](http://invisiblelightnetwork.com/), [Erin Kilkenny](http://www.erinkilkenny.com/), [Guillaume Combeaud](http://www.guillaumecombeaud.com/), [Michael Batista](https://www.michaelbatista.com/) <br/>
-Additional Direction: Sam Spratt<br/>
+Coding: Beau Burrows<br/>
+Special Thanks: David Hobizal, Sissy Emmons Hobizal
 <br/>
-Show Creative Direction: Michelle Higa Fox <br/>
-Show Art Director: Jorge Luis Peschiera <br/>
-Show Animation Director: Yussef Cole <br/>
-Show Graphics Crew: Paris London Glickman, Brandon Sugiyama, Tynesha Foreman, Lizzi Stuart, Alex Pope, Ryan Mauskopf, Dorca Musseb, James Zanoni, Rachael Park, Riaan Weyers, John Hughes, Jaimie Van Dyke, Gregory Bloxham, Rodd McLaughlin, Zak Haywood <br/>
 <br/>
-Host and EP: Hasan Minaj<br/>
-Show Runner: Jim Margolis<br/>
-Show Production Co: [Art and Industry](http://www.artandindustryinc.com/)<br/>
-LED Screens: [5TEN](https://www.510visuals.com/patriot-act)<br/>
+Client: Netflix / Art & Industry<br/>
+Co-Creator/Host: Hasan Minaj<br/>
+Co-Creator/Head Writer: Prashanth Venkataramanujam<br/>
+Consulting Creative Director: Sam Spratt<br/>
+<br/>
+Patriot Act - Graphics Staff (Season One)<br/>
+Creative Director: Michelle Higa Fox<br/>
+Design Director: Jorge L. Peschiera<br/>
+Head of Animation: Yussef Cole<br/>
+Animators: Paris London Glickman, Brandon Sugiyama, Dorca Musseb, Ryan Mauskopf, Alex Pope, Lizzi Stuart, Tynesha Foreman, Apollo Baldoz<br/>
+Additional Animation: Rachael Park, James Zanoni, Andrew Macfarlane, Elliot Blanchard, Shuhan Teoh<br/>
+GFX Coordinator: Riaan Weyers<br/>
+GFX Production Assistant: John Hughes<br/>
+<br/>
 Opening Titles: Elastic
 <br/>
 
