@@ -113,7 +113,7 @@ Early style frames that evolved into the eventual Microfiche look
 {: .no-style-urls}
 <br/>
 Patriot Act: Graphics Show Bible<br/>
-[Slanted Studios](http://slanted.studio)<br/> x PepRally
+[Slanted Studios](http://slanted.studio) x PepRally<br/>
 Creative Direction: Erica Gorochow <br/>
 ECD: Michelle Higa Fox <br/>
 Producer: [Jennifer Vance](http://meanflow.party) <br/>
