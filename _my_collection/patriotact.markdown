@@ -11,7 +11,7 @@ half:
 </div>
 
 ## **Patriot Act with Hasan Minaj: Graphic Bible for Pilot**
-Patriot Act with Hasan Minaj is a weekly show that slices through global politics and culture with the help of an all-encompassing LED backdrop. Or as Hasan puts it, “it’s like Michael Bay made a powerpoint.” The stage’s graphics were designed to be a modern visual orchestra, with Hasan playing maestro. Prior to the premiere, we worked to establish the show’s overall look and feel. The bottom clips are from the final product. Scroll further to see the original concept work.
+Patriot Act with Hasan Minaj is a weekly show that slices through global politics and culture with the help of an all-encompassing LED backdrop. Or as Hasan puts it, “it’s like Michael Bay made a powerpoint.” The stage’s graphics were designed to be a modern visual orchestra, with Hasan playing maestro. Prior to the premiere, Slanted Studios and PepRally worked to establish the show’s overall look and feel. The bottom clips are from the final product. Scroll further to see the original concept work.
 <br/>
 <br/>
 
@@ -113,7 +113,7 @@ Early style frames that evolved into the eventual Microfiche look
 {: .no-style-urls}
 <br/>
 Patriot Act: Graphics Show Bible<br/>
-A 435 Project: Made in collaboration with [Slanted Studios](http://slanted.studio)<br/>
+[Slanted Studios](http://slanted.studio)<br/> x PepRally
 Creative Direction: Erica Gorochow <br/>
 ECD: Michelle Higa Fox <br/>
 Producer: [Jennifer Vance](http://meanflow.party) <br/>
