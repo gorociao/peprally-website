@@ -545,6 +545,10 @@ pre {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 3)) * .325 );
         width: calc( (100% - (#{$grid-spacing-unit} * 3)) * .325 );
         margin-right: $grid-spacing-unit;
+        &.perfect {
+          width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 2)) * .333 );
+          width: calc( (100% - (#{$grid-spacing-unit} * 2)) * .333 );
+        }
         &.last {
           margin-right: 0px;
         }
