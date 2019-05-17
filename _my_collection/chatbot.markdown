@@ -33,49 +33,49 @@ half: one-quarter left
 
 ## **On-boarding**
 
-{: .image .half .third-left}
+{: .image .half .third .perfect }
 ![]({{ site.url }}/images/roo/onboarding/01_A_Hello_v01.gif)
 
-{: .image .half .third-left}
+{: .image .half .third .perfect }
 ![]({{ site.url }}/images/roo/onboarding/01_B_Map_v01.gif)
 
-{: .image .half .third-right}
+{: .image .half .third .perfect .last .right }
 ![]({{ site.url }}/images/roo/onboarding/01_C_FirstCelebrate_v02.gif)
 
 <br/>
 ## **Check Ins**
 
-{: .image .half .third}
+{: .image .half .third .perfect }
 ![]({{ site.url }}/images/roo/checkin/02_E_Binoculars_v02.gif)
 
-{: .image .half .thrid}
+{: .image .half .third .perfect }
 ![]({{ site.url }}/images/roo/checkin/02_A_Light_v03.gif)
 
-{: .image .half .third-right}
+{: .image .half .third .perfect .last .right }
 ![]({{ site.url }}/images/roo/checkin/02_C_Sunglasses_v01.gif)
 
-{: .image .half .third-left}
+{: .image .half .left }
 ![]({{ site.url }}/images/roo/checkin/02_D_Blinds_v01.gif)
 
-{: .image .half .third}
+{: .image .half .right }
 ![]({{ site.url }}/images/roo/checkin/02_B_Fence_v01.gif)
 
 <br/>
 ## **Achievements**
 
-{: .image .half .third-left}
+{: .image .half .third .perfect }
 ![]({{ site.url }}/images/roo/celebrate/03_A_Swish_v01.gif)
 
-{: .image .half .thrid}
+{: .image .half .third .perfect }
 ![]({{ site.url }}/images/roo/celebrate/03_B_Party_v01.gif)
 
-{: .image .half .third-right}
+{: .image .half .third .perfect .last .right }
 ![]({{ site.url }}/images/roo/celebrate/03_C_Firework_v02.gif)
 
-{: .image .half .third-left}
+{: .image .half .left }
 ![]({{ site.url }}/images/roo/celebrate/03_D_PomPom_v01.gif)
 
-{: .image .half .third}
+{: .image .half .right }
 ![]({{ site.url }}/images/roo/celebrate/03_E_Space_v02.gif)
 
 <br/>
