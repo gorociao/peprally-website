@@ -1,7 +1,7 @@
 ---
 title:  "IDEO.ORG"
 thumbnail: images/thumbs/chatbot_alt_2.gif
-mobile-thumbnail: images/thumbs/chatbot_mobile_CS.gif
+mobile-thumbnail: images/thumbs/chatbot_mobile_CS_1.gif
 permalink: /chatbot/
 order: 3
 half: one-quarter left
