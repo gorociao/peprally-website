@@ -2,96 +2,82 @@
 title:  "MoMA: Coming Soon"
 thumbnail: images/thumbs/moma03.jpg
 mobile-thumbnail: images/thumbs/moma_mobile_CS.jpg
-permalink: /#/
+permalink: /moma/
 order: 9
 half: two-quarter
 ---
 
 <div class='embed-container no-bottom-margin'>
 <iframe src="https://player.vimeo.com/video/336678348?background=1&autoplay=1&loop=1" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
+</div><i><small>subway photograph courtesy of Order
 
 ## **MoMA: Motion Brand Guidelines**
-When The Museum of Modern Art underwent a brand re-fresh, they knew much of their design would live on screens around new york, in our pockets, and even in the museum itself. Working in tandem with [Order](http://order.design), who lead design, we established and codified motion across the new system. 
+When The Museum of Modern Art underwent a brand re-fresh, they knew much of their design would live on screens around new york, in our pockets, and even in the museum itself. Working directly with MoMA's internal design department and in tandem with [Order](http://order.design), who lead design, we established and codified motion across the new system. 
 
 
 {: .large-top-margin }
 
 
-{: .image .half .fourth .large-top-margin}
-![]({{ site.url }}/images/roo/01_IPHONE_MAP.gif)
+## **Digital**
 
-{: .image .half .fourth}
-![]({{ site.url }}/images/roo/02_IPHONE_DAILYACTION.gif)
+<div class='embed-container' style="margin-bottom: calc(100% * -.01);">
+<iframe src="https://player.vimeo.com/video/336886045?background=1&autoplay=1&loop=1" style="margin-top: calc(100% * -.01);" width="1250" height="703" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
-{: .image .half .fourth}
-![]({{ site.url }}/images/roo/03_IPHONE_CHECKIN.gif)
 
-{: .image .half .fourth .last}
-![]({{ site.url }}/images/roo/04_IPHONE_CELEBRATE.gif)
+<div class='embed-container' style="padding: 34.5%;">
+<iframe src="https://player.vimeo.com/video/336729486?background=1&autoplay=1&loop=1" width="1250" height="859" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
-<i>text message copy for demonstration purposes only</i>
-<br/>
-<br/>
-
-## **On-boarding**
-
-{: .image .half .third-left}
-![]({{ site.url }}/images/roo/onboarding/01_A_Hello_v01.gif)
-
-{: .image .half .third-left}
-![]({{ site.url }}/images/roo/onboarding/01_B_Map_v01.gif)
-
-{: .image .half .third-right}
-![]({{ site.url }}/images/roo/onboarding/01_C_FirstCelebrate_v02.gif)
+<div class='embed-container' style="margin-bottom: calc(100% * -.04);">
+<iframe src="https://player.vimeo.com/video/336726643?background=1&autoplay=1&loop=1" style="margin-top: calc(100% * -.02);" width="1250" height="703" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
 <br/>
-## **Check Ins**
+## **Video**
 
-{: .image .half .third}
-![]({{ site.url }}/images/roo/checkin/02_E_Binoculars_v02.gif)
 
-{: .image .half .thrid}
-![]({{ site.url }}/images/roo/checkin/02_A_Light_v03.gif)
+{: .image .half .left }
+![]({{ site.url }}/images/moma/03_Intro_BG_4k_A.gif)
 
-{: .image .half .third-right}
-![]({{ site.url }}/images/roo/checkin/02_C_Sunglasses_v01.gif)
+{: .image .half .right }
+![]({{ site.url }}/images/moma/02_Intro_Container_4k_A.gif)
 
-{: .image .half .third-left}
-![]({{ site.url }}/images/roo/checkin/02_D_Blinds_v01.gif)
+{: .image .half .third .perfect }
+![]({{ site.url }}/images/moma/01_Intro_Text_1x1_C.gif)
 
-{: .image .half .third}
-![]({{ site.url }}/images/roo/checkin/02_B_Fence_v01.gif)
+{: .image .half .third .perfect }
+![]({{ site.url }}/images/moma/01_Intro_Text_1x1_D.gif)
 
-<br/>
-## **Achievements**
+{: .image .half .third .perfect .last .right }
+![]({{ site.url }}/images/moma/01_Intro_Text_1x1_E.gif)
 
-{: .image .half .third-left}
-![]({{ site.url }}/images/roo/celebrate/03_A_Swish_v01.gif)
+{: .image .full }
+![]({{ site.url }}/images/moma/DesignTrailer_A_v01.gif)
 
-{: .image .half .thrid}
-![]({{ site.url }}/images/roo/celebrate/03_B_Party_v01.gif)
+{: .image .half .left }
+![]({{ site.url }}/images/moma/DesignTrailer_A_v01_1.gif)
 
-{: .image .half .third-right}
-![]({{ site.url }}/images/roo/celebrate/03_C_Firework_v02.gif)
+{: .image .half .right }
+![]({{ site.url }}/images/moma/DesignTrailer_B_v01.gif)
 
-{: .image .half .third-left}
-![]({{ site.url }}/images/roo/celebrate/03_D_PomPom_v01.gif)
+{: .image .half .left }
+![]({{ site.url }}/images/moma/DesignTrailer_B_v01_1.gif)
 
-{: .image .half .third}
-![]({{ site.url }}/images/roo/celebrate/03_E_Space_v02.gif)
+{: .image .half .right }
+![]({{ site.url }}/images/moma/Mortise_4k_B_1.gif)
 
 <br/>
-## **Additional Categories**
 
-{: .image .half .left}
-![]({{ site.url }}/images/roo/etc/04_DailyAction_v02.gif)
+{: .large-top-margin .no-style-urls}
+Animation Direction, Additional Design: Erica Gorochow <br/>
+Animation: Terra Henderson, Erica Gorochow <br/>
+Production: Kathryn Henderson, Jennifer Vance <br/>
 
-{: .image .half .right}
-![]({{ site.url }}/images/roo/etc/04_Learn_v02.gif)
+Design Direction: [Order](http://order.design)<br/>
+Thanks: Jesse Reed, Hamish Smyth<br/>
 
-{: .image .half .left}
-![]({{ site.url }}/images/roo/etc/04_Coach_v02.gif)
-
-{: .image .half .right}
-![]({{ site.url }}/images/roo/etc/04_Stories_v02.gif)
+Client: [MoMA](https://www.moma.org/)<br/>
+Creative Director: Rob Giampietro<br/>
+Producer: Melanie Conrad<br/>
+Client Creative Team: Sean Yetter, Derek Flynn, Damien Saatdjian, Eline Mul, Kevin Ballon<br/>

@@ -27,7 +27,7 @@ half: one-quarter left
 {: .image .half .fourth .last}
 ![]({{ site.url }}/images/roo/04_IPHONE_CELEBRATE.gif)
 
-<i>text message copy for demonstration purposes only</i>
+<i><small>text message copy for demonstration purposes only
 <br/>
 <br/>
 
