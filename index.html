@@ -8,7 +8,7 @@ layout: index
         {% assign projects = site.my_collection | sort: 'order' %}
         {% for post in projects %}
         <li class="{% if post.half %}half {{ post.half }}{% endif %}">
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            <a class="post-link" href="{% if post.hidden %}#{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">
                 <img src="{{ post.thumbnail }}" class="fadein" onload="this.classList.add('is-active');" />
                 <img src="{{ post.mobile-thumbnail }}" class="mobile fadein" onload="this.classList.add('is-active');" />
                 <span>{{ post.title }}</span>
