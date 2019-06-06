@@ -2,7 +2,8 @@
 title:  "MoMA: Coming Soon"
 thumbnail: images/thumbs/moma03.jpg
 mobile-thumbnail: images/thumbs/moma_mobile_CS.jpg
-permalink: /#/
+permalink: /12345M/
+hidden: true
 order: 9
 half: two-quarter
 ---
