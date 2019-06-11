@@ -98,4 +98,4 @@ Our hope was to impress upon our friends in Europe that the future is written by
 <br/>
 
 <br/>
-Want to know even more? See the [press kit](http://deareu.com)!
+Want to know even more? See the [press kit](http://peprally.co/deareu-press/)!
