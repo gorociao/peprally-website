@@ -13,7 +13,7 @@ half: two-quarter
 </div><i><small>subway photograph courtesy of Order
 
 ## **MoMA: Motion Brand Guidelines**
-How does one of the country's premiere art musuems move? When The Museum of Modern Art underwent a brand re-fresh, they knew much of their design would live on screens around New York, in our pockets, and even in the museum itself. Working directly with MoMA's internal design department and in tandem with [Order](http://order.design), who lead design, we established and codified motion across the new system. 
+How does one of the country's premiere art musuems move? When The Museum of Modern Art underwent a brand re-fresh, they knew much of their design would live on screens around New York, in our pockets, and even in the museum itself. Working directly with MoMA's internal design department in tandem with [Order](http://order.design), who lead design, we established and codified motion across the new system. 
 
 
 {: .large-top-margin }
