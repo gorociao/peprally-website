@@ -70,6 +70,7 @@ How does one of the country's premiere art musuems move? When The Museum of Mode
 
 <br/>
 ## **Behind the Scenes**
+
 We built motion so the vast majority of it was driven by the camera and layout, vs individually keyframed layers. This helps to insure consistency and a genuine parallax effect across the entire system. Our final deliverable was not only the motion guidelines but also several After Effects kits that featured several of these rigs, such that future designers could easily swap elements and type.
 
 <div class='embed-container' style="margin-bottom: calc(100% * -.01);">
