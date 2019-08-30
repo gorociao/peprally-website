@@ -71,7 +71,7 @@ How does one of the country's premiere art museums *move*? When The Museum of Mo
 <br/>
 ## **Behind the Scenes**
 
-We built motion so the vast majority of it was driven by the camera and layout, vs individually keyframed layers. This helped to insure consistency and a genuine parallax across the entire system. Our final deliverable was not only the animation guidelines, but also several After Effects kits that featured several of these motion rigs, such that future designers could easily swap elements and type.
+We built motion so the vast majority of it was driven by the camera and spatial layout, vs individually keyframed layers. This helped to insure consistency and authentic parallax across the entire system. Our final deliverable was not only the animation guidelines, but also several After Effects kits that featured several of these motion rigs, such that future designers could easily swap elements and type.
 
 <div class='embed-container' style="margin-bottom: calc(100% * -.01);">
 <iframe src="https://player.vimeo.com/video/356687491/?background=1&autoplay=1&loop=1" style="margin-top: calc(100% * -.01);" width="640" height="2197" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
