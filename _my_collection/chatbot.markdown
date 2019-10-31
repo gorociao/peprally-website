@@ -98,4 +98,4 @@ half: one-quarter left
 
 {: .large-top-margin .no-style-urls}
 Client: [ideo.org](http://ideo.org/)<br/>
-Client Direction: Yifan Francis, Rafael Smith, Sommai Pham
+Client Direction: Yifan Frances, Rafael Smith, Sommai Pham
