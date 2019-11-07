@@ -13,7 +13,7 @@ half: two-quarter
 </div><i><small>subway photograph courtesy of Order
 
 ## **MoMA: Motion Brand Guidelines**
-When The Museum of Modern Art underwent a brand re-fresh, they knew much of their design would live on screens around new york, in our pockets, and even in the museum itself. Working directly with MoMA's internal design department and in tandem with [Order](http://order.design), who lead design, we established and codified motion across the new system. 
+How does one of the country's premiere art museums *move*? When The Museum of Modern Art underwent a brand re-fresh, they knew much of their design would live on screens around New York, in our pockets, and even in the museum itself. Working directly with MoMA's internal design department in tandem with [Order](http://order.design), who lead design, we established and codified motion across the new system. 
 
 
 {: .large-top-margin }
@@ -69,6 +69,15 @@ When The Museum of Modern Art underwent a brand re-fresh, they knew much of thei
 ![]({{ site.url }}/images/moma/Mortise_4k_B_1.gif)
 
 <br/>
+## **Behind the Scenes**
+
+We built motion so the vast majority of it was driven by the camera and spatial layout. This helped to insure consistency and authentic parallax across the entire system. Our final deliverable was not only the animation guidelines, but also After Effects kits that featured several of these motion rigs, such that future designers could easily swap elements and type.
+
+<div class='embed-container' style="margin-bottom: calc(100%);">
+<iframe src="https://player.vimeo.com/video/356687491/?background=1&autoplay=1&loop=1" style="margin-top: calc(100% * -.01);" width="640" height="2179" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+<br/>
+
 
 {: .large-top-margin .no-style-urls}
 Animation Direction, Additional Design: Erica Gorochow <br/>
