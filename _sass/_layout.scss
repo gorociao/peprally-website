@@ -217,12 +217,14 @@ pre {
 	}
 }
 .person {
-    a.vimeo svg,
+    a.instagram svg,
+	a.vimeo svg,
     a.twitter svg {
         margin: -5px 0px 0px 5px;
         vertical-align: middle;
         width: 18px;
     }
+	a.instagram svg path,
     a.vimeo svg path,
     a.twitter svg path {
         fill: rgba(20,20,20,.85);
@@ -318,7 +320,11 @@ pre {
         &:not(:last-child) {
             margin-right: 20px;
         }
-
+		
+		&.instagram svg {
+			height: 30px;
+		}
+		&.instagram,
         &.vimeo,
         &.twitter {
             display: inline-block;
@@ -327,11 +333,13 @@ pre {
             height: 30px;
             position: relative;
         }
-        &.vimeo svg,
+        &.instagram svg,
+		&.vimeo svg,
         &.twitter svg {
             position: absolute;
             top: 7px;
         }
+		&.instagram svg path,
         &.vimeo svg path,
         &.twitter svg path {
             fill: black;
@@ -361,20 +369,20 @@ pre {
     line-height: 2em;
     a {
         color: #141415;
-        &:hover {
+        cursor: pointer;
+		&:hover {
             color: $brand-color;
         }
+		&.instagram,
         &.vimeo,
         &.twitter {
+			margin: 0px 5px;
             line-height: 4em;
             display: inline-block;
             width: 35px;
             height: 35px;
             svg path {
-                fill: #141415;
-                &:hover {
-                    fill: $brand-color;
-                }
+                fill: #141415;                
             }
         }
     }
