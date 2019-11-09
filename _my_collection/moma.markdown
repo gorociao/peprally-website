@@ -13,7 +13,7 @@ half: two-quarter
 </div><i><small>subway photograph courtesy of Order
 
 ## **MoMA: Motion Brand Guidelines**
-How does one of the country's premiere art museums *move*? When The Museum of Modern Art underwent a brand re-fresh, they knew much of their design would live on screens around New York, in our pockets, and even in the museum itself. Working directly with MoMA's internal design department in tandem with [Order](http://order.design), who lead design, we established and codified motion across the new system. 
+How does one of the world's premiere art museums *move*? When The Museum of Modern Art updated their design system, they knew much of their design would live on screens around New York, in our pockets, and even in the museum itself. Working directly with [MoMA's in-house Design Studio](https://www.instagram.com/momadesignstudio/?hl=en) along with [Order](http://order.design), who lead design and system project overall, we established and codified motion across the new system. 
 
 
 {: .large-top-margin }
@@ -38,7 +38,7 @@ How does one of the country's premiere art museums *move*? When The Museum of Mo
 ## **Video**
 
 
-{: .image .half .left }
+<!-- {: .image .half .left }
 ![]({{ site.url }}/images/moma/03_Intro_BG_4k_A.gif)
 
 {: .image .half .right }
@@ -50,8 +50,8 @@ How does one of the country's premiere art museums *move*? When The Museum of Mo
 {: .image .half .third .perfect }
 ![]({{ site.url }}/images/moma/01_Intro_Text_1x1_D.gif)
 
-{: .image .half .third .perfect .last .right }
-![]({{ site.url }}/images/moma/01_Intro_Text_1x1_E.gif)
+<!-- {: .image .half .third .perfect .last .right }
+![]({{ site.url }}/images/moma/01_Intro_Text_1x1_E.gif) --> -->
 
 {: .image .full }
 ![]({{ site.url }}/images/moma/DesignTrailer_A_v01.gif)
@@ -85,9 +85,10 @@ Animation: Terra Henderson, Erica Gorochow <br/>
 Production: Kathryn Henderson, Jennifer Vance <br/>
 
 Design Direction: [Order](http://order.design)<br/>
-Thanks: Jesse Reed, Hamish Smyth<br/>
+Partner-in-charge: Jesse Reed<br/>
+Project team: Hamish Smyth (Partner), Nicholas Stover (Designer)<br/>
 
 Client: [MoMA](https://www.moma.org/)<br/>
-Creative Director: Rob Giampietro<br/>
-Producer: Melanie Conrad<br/>
-Client Creative Team: Sean Yetter, Derek Flynn, Damien Saatdjian, Eline Mul, Kevin Ballon<br/>
+Client leads: Rob Giampietro (Director of Design), Rob Baker (Director of Marketing and Creative Strategy), Rebecca Stokes (Director of Marketing Campaigns and Audience Engagement)<br/>
+Client team: Damien Saatdjian (Art Director), Eline Mul (Art Director), Sean Yetter (Video Producer), Melanie Conrad (Design Operations), MoMA Design Studio staff<br/>
+
