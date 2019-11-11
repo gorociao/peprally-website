@@ -50,8 +50,8 @@ How does one of the world's premiere art museums *move*? When The Museum of Mode
 {: .image .half .third .perfect }
 ![]({{ site.url }}/images/moma/01_Intro_Text_1x1_D.gif)
 
-<!-- {: .image .half .third .perfect .last .right }
-![]({{ site.url }}/images/moma/01_Intro_Text_1x1_E.gif) --> -->
+{: .image .half .third .perfect .last .right }
+![]({{ site.url }}/images/moma/01_Intro_Text_1x1_E.gif) -->
 
 {: .image .full }
 ![]({{ site.url }}/images/moma/DesignTrailer_A_v01.gif)
@@ -71,13 +71,16 @@ How does one of the world's premiere art museums *move*? When The Museum of Mode
 <br/>
 ## **Behind the Scenes**
 
-We built motion so the vast majority of it was driven by the camera and spatial layout. This helped to insure consistency and authentic parallax across the entire system. Our final deliverable was not only the animation guidelines, but also After Effects kits that featured several of these motion rigs, such that future designers could easily swap elements and type.
-
-<div class='embed-container' style="margin-bottom: calc(100%);">
-<iframe src="https://player.vimeo.com/video/356687491/?background=1&autoplay=1&loop=1" style="margin-top: calc(100% * -.01);" width="640" height="2179" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div class='embed-container' style="width: 25%; display: inline-block; float: left; margin-right: 20px;">
+<iframe src="https://player.vimeo.com/video/356687491/?background=1&autoplay=1&loop=1" style="margin-top: calc(100% * -.01);" width="240" height="179" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
-<br/>
 
+<div style="display:inline-block; width: 70%; float: left;">
+We built motion so the vast majority of it was driven by the camera and spatial layout. This helped to insure consistency and authentic parallax across the entire system. Our final deliverable was not only the animation guidelines, but also After Effects kits that featured several of these motion rigs, such that future designers could easily swap elements and type.
+</div>
+
+<br/>
+<div class="clear"></div>
 
 {: .large-top-margin .no-style-urls}
 Animation Direction, Additional Design: Erica Gorochow <br/>
