@@ -72,6 +72,8 @@ How does one of the world's premiere art museums *move*? When The Museum of Mode
 
 
 ## **Behind the Scenes**
+We built motion so the vast majority of it was driven by the camera and spatial layout. This helped to insure consistency and authentic parallax across the entire system. Our final deliverable was not only the animation guidelines, but also After Effects kits that featured several of these motion rigs, such that future designers could easily swap elements and type.<br/>
+
 
 {: .image .half .left }
 ![]({{ site.url }}/images/moma/makingof01.gif)
