@@ -69,7 +69,19 @@ How does one of the world's premiere art museums *move*? When The Museum of Mode
 ![]({{ site.url }}/images/moma/Mortise_4k_B_1.gif)
 
 <br/>
+
+
 ## **Behind the Scenes**
+
+{: .image .half .left }
+![]({{ site.url }}/images/moma/makingof01.gif)
+
+{: .image .half .right }
+![]({{ site.url }}/images/moma/makingof02.gif)
+
+We built motion so the vast majority of it was driven by the camera and spatial layout. This helped to insure consistency and authentic parallax across the entire system. Our final deliverable was not only the animation guidelines, but also After Effects kits that featured several of these motion rigs, such that future designers could easily swap elements and type.
+
+<!-- ## **Behind the Scenes**
 
 <div class='embed-container' style="width: 25%; display: inline-block; float: left; margin-right: 20px;">
 <iframe src="https://player.vimeo.com/video/356687491/?background=1&autoplay=1&loop=1" style="margin-top: calc(100% * -.01);" width="240" height="179" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -80,7 +92,7 @@ We built motion so the vast majority of it was driven by the camera and spatial 
 </div>
 
 <br/>
-<div class="clear"></div>
+<div class="clear"></div>-->
 
 {: .large-top-margin .no-style-urls}
 Animation Direction, Additional Design: Erica Gorochow <br/>
