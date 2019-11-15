@@ -21,15 +21,13 @@ How does one of the world's premiere art museums *move*? When The Museum of Mode
 
 ## **Digital**
 
+<div class='embed-container' style="padding: 34.5%;">
+<iframe src="https://player.vimeo.com/video/336729486?background=1&autoplay=1&loop=1" width="1250" height="859" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
 <div class='embed-container no-bottom-margin'>
 <iframe src="https://player.vimeo.com/video/336678348?background=1&autoplay=1&loop=1" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div><i><small>subway photograph courtesy of Order
-
-
-<div class='embed-container' style="padding: 34.5%;">
-<iframe src="https://player.vimeo.com/video/336729486?background=1&autoplay=1&loop=1" width="1250" height="859" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
 
 <div class='embed-container' style="margin-bottom: calc(100% * -.04);">
 <iframe src="https://player.vimeo.com/video/336726643?background=1&autoplay=1&loop=1" style="margin-top: calc(100% * -.02);" width="1250" height="703" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
