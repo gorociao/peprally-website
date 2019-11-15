@@ -8,12 +8,12 @@ order: 9
 half: two-quarter
 ---
 
-<div class='embed-container no-bottom-margin'>
-<iframe src="https://player.vimeo.com/video/336678348?background=1&autoplay=1&loop=1" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div><i><small>subway photograph courtesy of Order
+<div class='embed-container' style="margin-bottom: calc(100% * -.01);">
+<iframe src="https://player.vimeo.com/video/336886045?background=1&autoplay=1&loop=1" style="margin-top: calc(100% * -.01);" width="1250" height="703" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
 ## **MoMA: Motion Brand Guidelines**
-How does one of the world's premiere art museums *move*? When The Museum of Modern Art updated their design system, they knew much of their design would live on screens around New York, in our pockets, and even in the museum itself. Working directly with [MoMA's in-house Design Studio](https://www.instagram.com/momadesignstudio/?hl=en) along with [Order](http://order.design), who lead design and system project overall, we established and codified motion across the new system. 
+How does one of the world's premiere art museums *move*? When The Museum of Modern Art updated their design system, they knew much of their design would live on screens around New York, in our pockets, and even in the museum itself. Working directly with [MoMA's in-house Design Studio](https://www.instagram.com/momadesignstudio/?hl=en) along with [Order](http://order.design), who lead design and system project overall, we established and codified motion across the new system.
 
 
 {: .large-top-margin }
@@ -21,9 +21,10 @@ How does one of the world's premiere art museums *move*? When The Museum of Mode
 
 ## **Digital**
 
-<div class='embed-container' style="margin-bottom: calc(100% * -.01);">
-<iframe src="https://player.vimeo.com/video/336886045?background=1&autoplay=1&loop=1" style="margin-top: calc(100% * -.01);" width="1250" height="703" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
+
+<div class='embed-container no-bottom-margin'>
+<iframe src="https://player.vimeo.com/video/336678348?background=1&autoplay=1&loop=1" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div><i><small>subway photograph courtesy of Order
 
 
 <div class='embed-container' style="padding: 34.5%;">
@@ -105,7 +106,8 @@ Design Direction: [Order](http://order.design)<br/>
 Partner-in-charge: Jesse Reed<br/>
 Project team: Hamish Smyth (Partner), Nicholas Stover (Designer)<br/>
 
+Director/Filmmaker for Exhibition Trailers: [Joe Cohen](http://www.joecohen.co.uk/)
+
 Client: [MoMA](https://www.moma.org/)<br/>
 Client leads: Rob Giampietro (Director of Design), Rob Baker (Director of Marketing and Creative Strategy), Rebecca Stokes (Director of Marketing Campaigns and Audience Engagement)<br/>
 Client team: Damien Saatdjian (Art Director), Eline Mul (Art Director), Sean Yetter (Video Producer), Melanie Conrad (Design Operations), MoMA Design Studio staff<br/>
-
