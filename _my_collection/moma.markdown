@@ -12,7 +12,7 @@ half: two-quarter
 </div>
 
 ## **MoMA: Motion Brand Guidelines**
-How does one of the world's premiere art museums *move*? When The Museum of Modern Art updated their design system, they knew much of their design would live on screens around New York, in our pockets, and even in the museum itself. Working directly with [MoMA's in-house Design Studio](https://www.instagram.com/momadesignstudio/?hl=en) along with [Order](http://order.design), who lead design and system project overall, we established and codified motion across the new system.
+How does one of the world's premiere art museums *move*? When The Museum of Modern Art updated their design system, they knew much of their design would live on screens around New York, in our pockets, and even in the museum itself. Working directly with [MoMA's in-house Design Studio](https://www.instagram.com/momadesignstudio/?hl=en) along with [Order](https://order.design/project/moma), who lead design and system project overall, we established and codified motion across the new system.
 
 
 {: .large-top-margin }
