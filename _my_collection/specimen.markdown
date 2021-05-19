@@ -3,7 +3,7 @@ title:  "Specimen"
 thumbnail: images/thumbs/specimen.gif
 mobile-thumbnail: images/thumbs/specimen.gif
 permalink: /specimen/
-order: 6
+order: 11
 half: left
 ---
 
@@ -40,12 +40,12 @@ An addictive, minimalist game about perception.  What color do you see? <a href=
 
 
 {: .large-top-margin}
-Easy to learn, tough to master: simply tap the specimen that matches the background color. As you advance, earn patterned boosters and chroma coins to combat an ever faster clock. 
+Easy to learn, tough to master: simply tap the specimen that matches the background color. As you advance, earn patterned boosters and chroma coins to combat an ever faster clock.
 
 Specimen was a self-initated project. Apple featured it as “Best New Game” and “Best Game of Month” around the world. It was also featured on blogs like Boing Boing, Core 77, Business Insider and Kill Screen. In 2016, Fast Company’s named Specimen as a finalist in the Innovation by Design Awards.
 
 Since launching, over 50 million specimens have been tapped.
- 
+
 {: .no-style-urls}
 Development: Sal Randazzo<br/>
 Development: [Charlie Whitney](http://sharkbox.com/)<br/>

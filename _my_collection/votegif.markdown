@@ -10,7 +10,7 @@ half: one-quarter right last
 ![alt text]({{ site.url }}/images/06votegif/votegif_website.gif "Logo Title Text 1")
 
 ## **VoteGif**
-[VoteGif.com](http://votegif.com) is a hub of ultra-shareable gifs to encourage Americans to register to vote in time for the 2016 election. 
+[VoteGif.com](http://votegif.com) is a hub of ultra-shareable gifs to encourage Americans to register to vote in time for the 2016 election.
 
 
 {: .image .half .fourth .large-top-margin}

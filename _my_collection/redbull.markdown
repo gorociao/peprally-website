@@ -3,7 +3,7 @@ title:  "Red Bull"
 thumbnail: images/thumbs/redbull_new.jpg
 mobile-thumbnail: images/thumbs/redbull_mobile.gif
 permalink: /red-bull-music-academy/
-order: 11
+order: 13
 half: left
 ---
 

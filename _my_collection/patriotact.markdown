@@ -3,15 +3,14 @@ title:  "Netflix: Patriot Act"
 thumbnail: images/thumbs/PatriotAct.jpg
 mobile-thumbnail: images/thumbs/PatriotAct_mobile.jpg
 permalink: /patriotact/
-order: 0
-half:
+order: 2
 ---
 <div class='embed-container no-bottom-margin'>
 <iframe src="https://player.vimeo.com/video/318011649#t=0m16s" width="1250" height="703" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 ## **Patriot Act with Hasan Minaj: Graphic Bible for Pilot**
-Patriot Act with Hasan Minaj is a weekly show that slices through global politics and culture with the help of an all-encompassing LED backdrop. Or as Hasan puts it, “it’s like Michael Bay made a powerpoint.” The stage’s graphics were designed to be a modern visual orchestra, with Hasan playing maestro. Prior to the premiere, Slanted Studios and PepRally worked to establish the show’s overall look and feel. The bottom clips are from the final product. In 2019, the show won an Emmy Award for outstanding motion design. 
+Patriot Act with Hasan Minaj is a weekly show that slices through global politics and culture with the help of an all-encompassing LED backdrop. Or as Hasan puts it, “it’s like Michael Bay made a powerpoint.” The stage’s graphics were designed to be a modern visual orchestra, with Hasan playing maestro. Prior to the premiere, Slanted Studios and PepRally worked to establish the show’s overall look and feel. The bottom clips are from the final product. In 2019, the show won an Emmy Award for outstanding motion design.
 
 Scroll further to see the original concept work.
 <br/>

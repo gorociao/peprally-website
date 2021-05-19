@@ -3,7 +3,7 @@ title:  "Engadget"
 thumbnail: images/thumbs/Engadget.jpg
 mobile-thumbnail: images/thumbs/engadget_mobile.jpg
 permalink: /engadget/
-order: 13
+order: 15
 half: fourth
 ---
 

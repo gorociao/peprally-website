@@ -3,7 +3,7 @@ title:  "Motionographer"
 thumbnail: images/thumbs/Motionographer.gif
 mobile-thumbnail: images/thumbs/Motionographer.gif
 permalink: /motionographer/
-order: 2
+order: 7
 half: right
 ---
 
@@ -35,7 +35,7 @@ Launch video for Motionographer's 10 year celebration and Patreon campaign.
 ![]({{ site.url }}/images/02motionographer/motion_light.jpg)
 
 {: .large-top-margin}
-It's hard to say where the field of motion design would be without Justin Cone and Motionographer. So when he asked us to make a video that celebrated a decade of design coverage, saying yes was a no-brainer. Together with good friends and neighbors, Slanted Studios, we flexed our character muscles and captured the artistic diversity that defines our field. 
+It's hard to say where the field of motion design would be without Justin Cone and Motionographer. So when he asked us to make a video that celebrated a decade of design coverage, saying yes was a no-brainer. Together with good friends and neighbors, Slanted Studios, we flexed our character muscles and captured the artistic diversity that defines our field.
 <br/>
 
 {: .no-style-urls}
@@ -47,5 +47,4 @@ Animation: Ana Kim and Tynesha Foreman<br/>
 Additional Animation: Yussef Cole <br/>
 Music and Sound Design: [StudioKamp](http://www.studiokamp.com/)<br/>
 Voice Over: Justin Cone<br/><br/>
-Special Thanks: Gabriel Pulecio, Erin Kilkenny and Dan Savage 
-
+Special Thanks: Gabriel Pulecio, Erin Kilkenny and Dan Savage
