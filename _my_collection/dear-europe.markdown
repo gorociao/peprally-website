@@ -4,7 +4,7 @@ thumbnail: images/thumbs/deareurope.jpg
 mobile-thumbnail: images/thumbs/deareurope_mobile.jpg
 permalink: /dear-europe/
 order: 4
-half: two-quarter 
+half: two-quarter
 ---
 
 <div class='embed-container no-bottom-margin'>
@@ -94,6 +94,7 @@ Our hope was to impress upon our friends in Europe that the future is written by
 
 {: .image .half .right}
 ![]({{ site.url }}/images/eupress/de_end.jpg) Erica Gorochow
+
 <br/>
 <br/>
 

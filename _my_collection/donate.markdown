@@ -3,8 +3,8 @@ title:  "NY State Donate Life"
 thumbnail: images/thumbs/donate.gif
 mobile-thumbnail: images/thumbs/donate_mobile.gif
 permalink: /donate/
-order: 15
-half: fourth
+order: 18
+half: fourth right last
 ---
 {: .image .full}
 ![]({{ site.url }}/images/donate/donate_lineup.jpg)

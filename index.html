@@ -7,13 +7,17 @@ layout: index
     <ul class="post-list">
         {% assign projects = site.my_collection | sort: 'order' %}
         {% for post in projects %}
-        <li class="{% if post.half %}half {{ post.half }}{% endif %}">
-            <a class="post-link" href="{% if post.hidden %}#{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">
-                <img src="{{ post.thumbnail }}" class="fadein" onload="this.classList.add('is-active');" />
-                <img src="{{ post.mobile-thumbnail }}" class="mobile fadein" onload="this.classList.add('is-active');" />
-                <span>{{ post.title }}</span>
-            </a>
-        </li>
+          {% if post.hide %}
+          
+          {% else %}
+            <li class="{% if post.half %}half {{ post.half }}{% endif %}">
+                <a class="post-link" href="{% if post.hidden %}#{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">
+                    <img src="{{ post.thumbnail }}" class="fadein" onload="this.classList.add('is-active');" />
+                    <img src="{{ post.mobile-thumbnail }}" class="mobile fadein" onload="this.classList.add('is-active');" />
+                    <span>{{ post.title }}</span>
+                </a>
+            </li>
+          {% endif %}
         {% endfor %}
     </ul>
 
@@ -25,4 +29,3 @@ layout: index
     <a href="http://twitter.com/gorociao/" class="twitter">{% include twitter.html %}</a>
     <a href="https://vimeo.com/peprally/" class="vimeo">{% include vimeo.html %}</a>
 </div>
-

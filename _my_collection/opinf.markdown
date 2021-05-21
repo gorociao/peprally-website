@@ -3,7 +3,7 @@ title:  "The New York Times"
 thumbnail: images/thumbs/opinfketion.jpg
 mobile-thumbnail: images/thumbs/opinfketion.jpg
 permalink: /opinf/
-order: 1
+order: 6
 half: left
 ---
 
@@ -13,7 +13,7 @@ half: left
 
 ## **Operation Infektion Titles: Director's Cut**
 
-Opening titles and key art for the [New York Times' series](https://www.nytimes.com/2018/11/12/opinion/russia-meddling-disinformation-fake-news-elections.html) that uncovers the history of Russian disinformation. 
+Opening titles and key art for the [New York Times' series](https://www.nytimes.com/2018/11/12/opinion/russia-meddling-disinformation-fake-news-elections.html) that uncovers the history of Russian disinformation.
 
 <br/>
 {: .image .full}

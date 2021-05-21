@@ -3,8 +3,8 @@ title:  "Future Now"
 thumbnail: images/thumbs/FN_thumb.jpg
 mobile-thumbnail: images/thumbs/FN_mobile.jpg
 permalink: /futurenow/
-order: 8
-half: fourth left
+order: 10
+half: one-quarter last right
 ---
 <div class='embed-container'>
  <iframe src="https://player.vimeo.com/video/276776307?loop=0&color=f16961&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -47,5 +47,3 @@ Music, SFX, Mix: [Sonosanctus](http://www.sonosanctus.com/)<br/>
 <br/>
 Script: Daniel Squadron, Mimi O Chun with support from Erica Gorochow<br/>
 Thanks: Daniel Squadron, Alyssa Cass, Mimi O Chun, Wesley Slover<br/>
-
-

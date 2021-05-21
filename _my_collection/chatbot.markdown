@@ -13,7 +13,7 @@ half: one-quarter left
 </div>
 
 ## **IDEO.ORG + Financial Coach Bot**
-[Ideo.org](http://www.ideo.org)’s [Prosperity](http://www.ideo.org/programs/prosperity) initiative focuses on designing tools that service low-income communities with the goal of financial empowerment. We worked with ideo.org to develop a character to anchor a coaching chat bot: a digital pal who could check-in on the regular, working in tandem with human advisors. As users work through their fiscal education journey, this character offers encouragement, advice and nudges to stay on track. 
+[Ideo.org](http://www.ideo.org)’s [Prosperity](http://www.ideo.org/programs/prosperity) initiative focuses on designing tools that service low-income communities with the goal of financial empowerment. We worked with ideo.org to develop a character to anchor a coaching chat bot: a digital pal who could check-in on the regular, working in tandem with human advisors. As users work through their fiscal education journey, this character offers encouragement, advice and nudges to stay on track.
 
 {: .image .half .fourth .large-top-margin}
 ![]({{ site.url }}/images/roo/01_IPHONE_MAP.gif)

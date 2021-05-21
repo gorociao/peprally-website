@@ -24,7 +24,7 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
-    
+
     .post-content {
         font-size: 0px; /* For grid issues */
     }
@@ -320,7 +320,7 @@ pre {
         &:not(:last-child) {
             margin-right: 20px;
         }
-		
+
 		&.instagram svg {
 			height: 30px;
 		}
@@ -348,9 +348,17 @@ pre {
 }
 
 @media (max-width: $on-mobile) {
+    .hide-on-mobile {
+        display: none;
+    }
     .site-title {
         position: relative;
-        float:none;
+        float: none;
+        margin-left: 50%;
+        img {
+            margin-left: -160px;
+            width: 320px;
+        }
     }
     .site-nav {
         text-align: center;
@@ -382,7 +390,7 @@ pre {
             width: 35px;
             height: 35px;
             svg path {
-                fill: #141415;                
+                fill: #141415;
             }
         }
     }
@@ -532,7 +540,7 @@ pre {
       margin-bottom: 0px;
     }
   }
-  
+
   .no-text {
       font-size: 0px;
       line-height: 0px;
@@ -600,6 +608,10 @@ pre {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .465 );
             width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .465 );
         }
+        &.twitter_mta_situ {
+            width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .385 );
+            width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .385 );
+        }
       }
       &.twothirds-right {
         width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .643 );
@@ -616,6 +628,10 @@ pre {
         &.donate {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .535 );
             width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .535 );
+        }
+        &.twitter_mta {
+            width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .612 );
+            width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .612 );
         }
       }
       &.twothirds-left {
@@ -641,6 +657,9 @@ pre {
         &.donate {
             width: -webkit-calc( (100% - (#{$grid-spacing-unit} * 1)) * .428 );
             width: calc( (100% - (#{$grid-spacing-unit} * 1)) * .428 );
+        }
+        &.twitter_spacex {
+            margin-top: 125px;
         }
       }
   }

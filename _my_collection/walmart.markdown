@@ -3,8 +3,8 @@ title:  "Walmart"
 thumbnail: images/thumbs/walmart.jpg
 mobile-thumbnail: images/thumbs/walmart_mobile.jpg
 permalink: /walmart/
-order: 7
-half: right
+order: 11
+half: left
 ---
 
 <div class='embed-container'>
