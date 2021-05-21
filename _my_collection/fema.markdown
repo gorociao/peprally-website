@@ -63,6 +63,6 @@ Animation: Terra Henderson, Po Chen Chia<br/>
 Cel Animation: Hao Li<br/>
 Dress Code Head of Production: Tara Rose Stromberg<br/>
 Dress Code EP: Brad Edelstein<br/>
-Music for Cut: [Ambrose Yu](http://www.ambrose.com/)<br/>
+Music for Cut: [Ambrose Yu](http://www.ambroseyu.com/)<br/>
 <br/>
 Agency: Ogilvy<br/>
