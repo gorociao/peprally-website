@@ -50,6 +50,3 @@ Music and Sound Design: [Ambrose Yu](https://ambroseyu.com/)<br/>
 Dress Code Head of Production: Tara Rose Stromberg<br/>
 VO: Ruth Kavanaugh<br/>
 Dress Code EP: Brad Edelstein<br/>
-Dress Code ECD: Andre Andreev<br/>
-<br/>
-IBM Creative Team: Matt Calkins, Charlie Flexon, Shaunnua Harry, Lori Mapes, Sadek Bazaraa<br/>
