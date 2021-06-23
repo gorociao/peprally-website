@@ -1,20 +1,20 @@
 ---
-title:  "Coming Soon"
+title:  "Vimeo"
 thumbnail: images/thumbs/vimeo_thumb_04.jpg
 mobile-thumbnail: images/thumbs/vimeo_thumb_04.jpg
-permalink: /streameoxxx/
+permalink: /streameo/
 order: 1
 half: right
-hidden: true
+
 ---
 
 <div class='embed-container no-bottom-margin'>
-    <iframe src="https://player.vimeo.com/video/551633780?color=F11E4C&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/566283480?color=F11E4C&title=0&byline=0&portrait=0" width="1250" height="703" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 
 ## **Vimeo: Streameo Openining Titles**
-tktk[Design Language series](https://www.ibm.com/design/workplace/).
+Opening titles for the 2021 Vimeo [Streameo Conference](https://vimeo.com/ott/streameo/). Get ready to stream big, y'all.
 
 <div class="large-top-margin"></div>
 
@@ -37,14 +37,13 @@ tktk[Design Language series](https://www.ibm.com/design/workplace/).
 ![]({{ site.url }}/images/streameo/streameo_02.jpg)
 
 {: .large-top-margin}
-tktktk
 <br/>
 
 {: .no-style-urls}
 Direction, Design: Erica Gorochow<br/>
-Additional Design: Luke Williams<br/>
-Animation: Nol Honig, Whitney Theis<br/>
 Produced: Jennifer Vance<br/>
+Animation: Nol Honig, Whitney Theis<br/>
+Additional Design: Luke Williams<br/>
 Music and Sound Design: [Ambrose Yu](https://ambroseyu.com/)<br/>
 <br/>
 Vimeo Creative Team: Sami Wittwer, Niko Brown, Coco McGuire, Virginia McLure, Devon Honeyman<br/>

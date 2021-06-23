@@ -52,4 +52,3 @@ VO: Ruth Kavanaugh<br/>
 Dress Code EP: Brad Edelstein<br/>
 Dress Code ECD: Andre Andreev<br/>
 <br/>
-IBM Creative Team: Matt Calkins, Charlie Flexon, Shaunnua Harry, Lori Mapes, Sadek Bazaraa<br/>
