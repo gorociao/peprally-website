@@ -13,7 +13,7 @@ half: right
 </div>
 
 
-## **Vimeo: Streameo Openining Titles**
+## **Vimeo: Streameo Opening Titles**
 Opening titles for the 2021 Vimeo [Streameo Conference](https://vimeo.com/ott/streameo/). Get ready to stream big, y'all.
 
 <div class="large-top-margin"></div>
